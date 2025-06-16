@@ -13,4 +13,6 @@ This repo contains annotated data for identification citations within Sanskrit t
 - Attribute "type" can also be added to the title: possible values are generic, 
 
 ### Edge Cases
-Author and generic title in a single compound with vocalic sandhi in between: <author id="a1">lūyīpādā</author><title id="t3" type="generic">bhisamaye</title>
+- Author and generic title in a single compound with vocalic sandhi in between: <author id="a1">lūyīpādā</author><title id="t3" type="generic">bhisamaye</title>
+- At least one case has two authors: <quote id="q1" titleid="t1" authorid="a1" authorid="a2">. Here a1 is attributed with t1, but a2 wrote the citation in a different text.
+- 
