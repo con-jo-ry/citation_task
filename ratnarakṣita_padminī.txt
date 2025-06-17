@@ -1,4 +1,5 @@
 ---
+
 tad evaṃ yuktitas tāvat prapañcākārabhāvanayā na buddhatvam. nāpy āgamataḥ. tathā <title id="t1">śrīvajraḍākaḥ</title>—
 
 	<quote id="q1" titleid="t1">yathātantrānusāreṇa kurvantaḥ prakriyāṃ narāḥ |
@@ -24,6 +25,7 @@ iti. <author id="a1">indrabhūtipādāś</author> ca—
 iti.
 
 ---
+
 <author id="a1">sarahapādā</author> api—
 
 	<quote id="q1" authorid="a1">manta ṇa tanta ṇa dheya ṇa dhāraṇa
@@ -34,6 +36,7 @@ iti.
 ityādi.
 
 ---
+
 kathaṃ tarhi devatākārabhāvanādyupadeśa iti cet laukikasiddhyartham eva tadarthinām iti kecit. tad uktam—
 
 	<quote id="q1">ādikarmikasattvānāṃ devatāmūrtibhāvanā |
@@ -42,14 +45,15 @@ kathaṃ tarhi devatākārabhāvanādyupadeśa iti cet laukikasiddhyartham eva t
 iti. tattvajñānabhavyatāpādanārthamātram evety anye.
 
 ---
+
 śrīherukādirūpabhāvanayā tanmātram eva niṣpadyate. tathā ca—
 
 	<quote id="q1">anantabodhiḥ sugatena deśitā</quote>
 
 ity apare. ityādi.
 
-
 ---
+
 te sarve nirastāḥ, sarvākāravaropetaśūnyataikarasamahāsukhamayasya bhagavataḥ sādhyasya bhāvyamānatvāt. na khalv ākāramātraṃ bhāvyate. dharmatāmātraṃ cākāracakram apāsya taṭasthaṃ na saṃbhavati, yat kevalaṃ bhāvanīyām. syāt kevalaṃ tadbhāvanā, tattvārthabhāvanā naiva. tad uktam <author id="a1">āryadevapādaiḥ</author>—
 
 	<quote id="q1" authorid="a1">abhāvabhāvanāṃ mūḍhāḥ kevalāṃ ya upāsate |
@@ -63,6 +67,7 @@ iti. <author id="a2">āryapādaiś</author> ca—
 iti. tato devatākāramātraṃ sthirīkṛtya yuganaddharūpatayaiva gurūpadeśato mahāsukhamayaṃ bhāvyata iti kva yathoktadoṣāvakāśaḥ?
 
 ---
+
 kiṃ ca yat tāvad uktaṃ samādhilābho 'pi na syād iti tad asat. ādarādiviśiṣṭenābhyāsena cittasyālambyamāne vastuni sthairyalābhasyānubhavasiddhatvāt. tad uktam—
 
 	<quote id="q1">tasmād bhūtam abhūtaṃ vā yad yad evātibhāvyate |
@@ -79,6 +84,7 @@ iti. aneke 'py ākārā dṛṣṭāḥ śrutā vāvikalpyamānā yugapat tathai
 iti.
 
 ---
+
 bhāvanāmaya eva ca mantranaye mārgaḥ. kriyāmayam api mārgam abhyupagatānāṃ pāramitānayasthānāṃ bhāvanātmikaiva sarvā pravṛttiḥ, śīlāder bāhyavastunirapekṣakatvāt. uktaṃ ca—
 
 	<quote id="q1">matsyādayaḥ kva nīyantāṃ mārayeyaṃ yato na tān |
@@ -92,6 +98,7 @@ iti. dānapāramitām apy adhikṛtyāha—
 iti
 
 ---
+
 jñānasaṃbhāras tu bhāvanāmātreṇa bhaved iti supratītam. ato bhāvanayaiva puṇyajñānasaṃbhāraḥ paripūrayitavyaḥ. yad āhur <author id="a1">āryapādāḥ</author>—
 
 	<quote id="q1" authorid="a1">mahāyānasya māhātmyāt puṇyajñānasya saṃbhṛtiḥ |
@@ -110,6 +117,7 @@ iti.
 iti ca. ata eva nācirasthāyitvaprasaṅgo 'pi, atattvābhiniveśaprabhavasyaiva vaivartikatvāt.
 
 ---
+
 śabdādeś ca varṇādimattā, bhujamukhādyākāravac cittāvyatirekatayaiva. tathā hi bhagavāṃś cakṣuṣāpi śṛṇoti jughratītyādivistaraḥ. <title id="t1" type="generic">tantre</title> 'pi—
 
 	<quote id="q1" titleid="t1"> sarvataḥ pāṇipādādyaṃ sarvato 'kṣiśiromukham |
@@ -118,6 +126,7 @@ iti ca. ata eva nācirasthāyitvaprasaṅgo 'pi, atattvābhiniveśaprabhavasyaiv
 iti.
 
 ---
+
 rūpitve 'pi nāvyāpitvadoṣaḥ, rūpasyāpi vyāpitvāt. tad uktaṃ <title id="t1" type="generic">bhagavatyām</title>—
 
 	<quote id="q1" titleid="t1">rūpānantatayānantapāramiteyam</quote>
@@ -125,6 +134,7 @@ rūpitve 'pi nāvyāpitvadoṣaḥ, rūpasyāpi vyāpitvāt. tad uktaṃ <title 
 ityādi. ghaṭasya tu grāhyagrāhakābhiniveśaprabhavatvād avyāpitvavyavahāraḥ, na tu rūpitvamātreṇa. śūnyataikarasamahākaruṇākṛtapraṇidhipāramitāmayatvena hi viśvarūpatā, na tu śūnyatāmātrabhāvanayā. śrīsaṃvarādyākāraś ca tathaiva bhāvyamāno viśvarūpaḥ sidhyan kena nivāraṇīyaḥ.
 
 ---
+
 āgamavirodhas tv abhiprāyāparijñānāt. tathā hi ye devatākārādikam eva kevalaṃ tattvataḥ pratipannās tān ārabhya yathetyādipravacanaṃ siddhācāryavacanaṃ ca, tattvasya satyadvayādvayarūpatvāt. tad vinā ca. tad uktaṃ <title id="t1">caturdevīparipṛcchāyām</title>—
 
 	<quote id="q1" titleid="t1">caturaśītisāhasre dharmaskandhe mahāmuneḥ |
@@ -142,6 +152,7 @@ iti. <author id="a2">sarahapādair</author> api—
 iti.
 
 ---
+
 tarhi tad eva prapañcabhāvanāvaiyarthyam āyātam.
 
 na, sādhyasya yuganaddhasamādhirūpatvāt sarvaskandhadhātvāyatanānām eva tathataikarasamahāsukhamayatayā pratipatteḥ. tad uktaṃ <title id="t1">śrīdvikalparāje</title>—
@@ -155,6 +166,7 @@ na, sādhyasya yuganaddhasamādhirūpatvāt sarvaskandhadhātvāyatanānām eva 
 iti.
 
 ---
+
 nanv etad eva yuganaddharūpaṃ gurūpadeśato nikhilaprapañcam avadhūyābhyasyatām yadi śakyam. kiṃ tu yasya sthūla eva viṣaye praveśo 'śakyaḥ kathaṃ tasya paramasūkṣme tathāvidhe praveśa iti na jānīmaḥ, gurūpadeśād eveti cet—
 
 tad etac chraddheyam. utpanno bhāvanāhīna ity uktayukter āgamato 'py anupannatvāt. tathā hi <title id="t1">śrīdvikalaparāje</title>—
@@ -181,6 +193,7 @@ iti. tathā—
 	<quote id="q3" titleid="t1">sāpekṣam asamarthatvād devatākārataḥ sukham |</quote> 
 
 ---
+
 <author id="a1">āryadevapādair</author> apīmam evārtham abhisaṃdhāyoktaṃ <title id="t1">sūtake</title>—
 
 	<quote id="q1" authorid="a1" titleid="t1">asmadvidhāḥ pṛthagjanā anādyabāhyavicitrabhāvābhiniveśena nāstitvāstitvaikatvānekatvobhayānubhayanaivāstinanāstinityānityasvabhāvavāsanāhetuvikalpābhiniveśe 'bhinniviṣṭā niṣpannakramasamādhau śikṣamāṇā yathānukrameṇa śikṣante, utāho gurūpadeśamātreṇa jhaṭiti pratibhāsate. vajragurur āha—kramavṛttyā śikṣante, na yugapat.</quote>
@@ -188,6 +201,7 @@ iti. tathā—
 ityādi. etenāpagatabhāvābhāvādivikalpasyaiva bāhulyenāryabhūmiprāptasyotpannakramābhyāso nyāyya iti gamyate.
 
 ---
+
 adhimokṣamātraṃ tv itarasyāpy aviruddham. yad api—
 
 	<quote>anabhyāsād asmād anadhigatamārgād avacanād 
@@ -198,6 +212,7 @@ adhimokṣamātraṃ tv itarasyāpy aviruddham. yad api—
 ityādi guruprabhāvam adhikṛtya jaḍavīpādaprabhṛtibhir bhaṇitam tad api tathāvidhopacitapuṇyajñānasambhārapudgalāpekṣayā pratipattavyam. anyathaikenaiva tathāgatena sarvasattvābhyuddhāraḥ syāt. ato dvikalpādyukta evābhyāsakramaḥ.
 
 ---
+
 uktaṃ hi tatra—
 
 	<quote id="q1">utapttikramayogena prapañcaṃ bhāvayed vratī |
@@ -216,6 +231,7 @@ iti. tathā samājottare 'py upāyatantrākhyasyotpattikramasya niṣpannakramaj
 iti.
 
 ---
+
 utpannakramāvasthāyāṃ cotpattikramabhāvitākāracakrasya mahāsukhamayaśūnyataikarasatayāvasthitir acchinnety api yathā māyetyādiśrīhevajragāthātaḥ sphuṭam avasīyate. <title id="t1">śrīḍākinīvajrapañjare</title> 'pi—
 
 	<quote id="q1" titleid="t1">jima jalamajjhe candamahi na u so sacca na miccha |
@@ -229,6 +245,7 @@ iti. yat tu—
 ity uktaṃ <author id="a1">kṛṣṇadevapādena</author> tad ātmasatkāreṇa punarābhogāvhāvāt.
 
 ---
+
 api ca kaś cānyathā pāramitānayād asyātiśayaḥ, niṣprapañcabhāvanāyā utpannakramākhyāyā ubhayatra tulyatvāt. uktaṃ hy <title id="t1">anantamukhanirhāradhāraṇyām</title>—
 
 	<quote id="q1" titleid="t1">na cintāṃ cintayec cintyām acintyāṃ naiva cintayet |
@@ -251,6 +268,7 @@ iti. <title id="t4" type="generic">prajñāpāramitāyām</title> api—
 iti.
 
 ---
+
 mahāsukhamayatvam api pāramitānaye pratipāditam. yathoktam <title id="t1">avikalpapraveśāyāṃ dhāraṇyām</title>—
 
 	<quote id="q1" titleid="t1">praśāntam acalaṃ śreṣṭhaṃ vaśavarti samāsamam |
@@ -271,6 +289,7 @@ iti. na caitat sukhaṃ mantranītyāsādhāraṇam.
 iti <author id="a1">sarahapādāḥ</author>.
 
 ---
+
 na cāsyopāyo noktaḥ. bodhicittam eva hi niḥśeṣapuṇyajñānasaṃbhārātmakatvāt sakalalaukikalokottarasukhasaṃpaddhetur mukhya iti sarvatra pāramitānaye nirdiṣṭaṃ mantranaye ca. tathā coktaṃ <title id="t1">pratibhāsavajrodaye</title>—
 
 	<quote id="q1" titleid="t1">sukhadānaphalaṃ puṇyaṃ tannirodhād vṛthaiva tat |
@@ -288,6 +307,7 @@ iti. ata evoktaṃ <title id="t2">śrīvajraśekharamahāyogatantra</title>—
 iti. 
 
 ---
+
 pañcakāmopabhogo 'pi pāramitānaye 'sty eva—
 
 	<quote id="q1">kāmasevābhyupāyikī</quote> 

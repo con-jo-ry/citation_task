@@ -25,7 +25,7 @@ class SanskritValidator:
     def __init__(self):
         self.valid_tags = {'quote', 'author', 'title'}
         self.valid_attributes = {'id', 'authorid', 'titleid', 'type'}
-        self.valid_type_values = {'generic'}  # Add more as needed
+        self.valid_type_values = {'generic', 'chapter', 'speaker'}  # Add more as needed
         self.errors: List[ValidationError] = []
     
     def validate_file(self, filename: str) -> List[ValidationError]:
@@ -173,14 +173,6 @@ class SanskritValidator:
                     "INVALID_ATTRIBUTE_USAGE",
                     f"Attribute 'titleid' should only be used in <quote> tags, not <{tag_name}> in prompt {prompt_number}"
                 ))
-        
-        # Check for type attribute usage (currently only valid for title tags)
-        if 'type' in attributes and tag_name != 'title':
-            self.errors.append(ValidationError(
-                line_number,
-                "INVALID_ATTRIBUTE_USAGE",
-                f"Attribute 'type' should only be used in <title> tags, not <{tag_name}> in prompt {prompt_number}"
-            ))
     
     def _validate_xml_structure(self, prompt_content: str, start_line: int, prompt_number: int):
         """Validate XML structure for proper tag closure."""

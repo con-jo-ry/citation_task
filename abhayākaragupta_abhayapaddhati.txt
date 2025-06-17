@@ -239,10 +239,10 @@ iti.
 
 ---
 
-te ca cittasyaivāgantusvabhāvāḥ. tataś cittam eva mūḍhaṃ raktaṃ dviṣṭaṃ vāntaraṃ viṣaṃ puṇyajñānasambhārajīvitavighātāt. taccittavaśād viṣayasvarūpam api viṣam. yadā tu cittaṃ śūnyatākaruṇābhinnasvabhāvaṃ nairmalyān nirviṣaṃ niścitaṃ tadā viṣayasvarūpam api malarahitaṃ kathaṃ naiva viṣam. evaṃ nyāyena sthāvaraviṣādibhakṣaṇādau tattvādhimokṣān na  bādheti sūcitam. tad uktaṃ hevajratantre dṛṣṭāntatvena—
+te ca cittasyaivāgantusvabhāvāḥ. tataś cittam eva mūḍhaṃ raktaṃ dviṣṭaṃ vāntaraṃ viṣaṃ puṇyajñānasambhārajīvitavighātāt. taccittavaśād viṣayasvarūpam api viṣam. yadā tu cittaṃ śūnyatākaruṇābhinnasvabhāvaṃ nairmalyān nirviṣaṃ niścitaṃ tadā viṣayasvarūpam api malarahitaṃ kathaṃ naiva viṣam. evaṃ nyāyena sthāvaraviṣādibhakṣaṇādau tattvādhimokṣān na  bādheti sūcitam. tad uktaṃ <title id="t1">hevajratantre</title> dṛṣṭāntatvena—
 
-	ghummaï garalaha bhakkhaṇeṃ jo ṇicceaṇa loa |
-	mohavivajjia tantamaṇu tasu para tuṭṭaï soa || [Hevajratantra 2.4.71]
+	<quote id="q1" titleid="t1">ghummaï garalaha bhakkhaṇeṃ jo ṇicceaṇa loa |
+	mohavivajjia tantamaṇu tasu para tuṭṭaï soa ||</quote>
 
 iti.
 
@@ -250,8 +250,8 @@ iti.
 
 atra mohavivarjito viṣatattvaparijñānāt. tantamaṇu viṣatattvādhimokṣamanāḥ. soa śokaḥ. āntaraviṣanāśanaṃ ca tatra dārṣṭāntikatvenoktam.
 
-	tathā nirvṛtyupāyajñā hevajre sukṛtaśramāḥ |
-	avidyādyair na bādhyante na ca mohādibandhanaiḥ || [Hevajratantra 2.4.7]
+	<quote id="q1">tathā nirvṛtyupāyajñā hevajre sukṛtaśramāḥ |
+	avidyādyair na bādhyante na ca mohādibandhanaiḥ ||</quote>
 
 iti. 
 
@@ -259,57 +259,56 @@ iti.
 
 atra mohavivarjito viṣatattvaparijñānāt. tantamaṇu viṣatattvādhimokṣamanāḥ. soa śokaḥ. āntaraviṣanāśanaṃ ca tatra dārṣṭāntikatvenoktam.
 
-	tathā nirvṛtyupāyajñā hevajre sukṛtaśramāḥ |
-	avidyādyair na bādhyante na ca mohādibandhanaiḥ || [Hevajratantra 2.4.7]
+	<quote id="q1">tathā nirvṛtyupāyajñā hevajre sukṛtaśramāḥ |
+	avidyādyair na bādhyante na ca mohādibandhanaiḥ ||</quote>
 
 iti. atra hevajra iti śūnyatāmahāsukhānālambanamahākaruṇābhinnajñāne. avidyādyair dvādaśabhir aṅgair mohādibhiḥ kleśaiś ca.
 
 ---
 
-sahāveṃ śuddheti | yadi svarūpeṇa śuddhaṃ jagat tadā sarva evāyatnato mahāmudrāṃ prāpnuyuḥ kiṃ yogābhyāsena | nanūktaṃ viyappeṃ ṇāsiā iti | ata evoktaṃ jñānapādaiḥ—
+sahāveṃ śuddheti | yadi svarūpeṇa śuddhaṃ jagat tadā sarva evāyatnato mahāmudrāṃ prāpnuyuḥ kiṃ yogābhyāsena | nanūktaṃ viyappeṃ ṇāsiā iti | ata evoktaṃ <author id="a1">jñānapādaiḥ</author>—
 
-   prākṛtavikalpavṛtter aparaṃ na hi kiṃcid asti bhavaduḥkham |
-   tasya viruddhaṃ caitat sākṣād avagamyate cetaḥ ||
+   <quote id="q1" authorid="a1">prākṛtavikalpavṛtter aparaṃ na hi kiṃcid asti bhavaduḥkham |
+   tasya viruddhaṃ caitat sākṣād avagamyate cetaḥ ||</quote>
 
 iti |
 
 ---
 
+adhyātmaṃ tu prajñā bhaginī lalanā | bhāgineyī rasanā | jananī avadhūtī | pūrvayor uttarayā gurūpadeśāt saṃyogo duhitā, tāsām eva prajñopāyādvayasvabhāvānāṃ tisṛṇāṃ nāḍīnāṃ saṃyogād utpadyamānaṃ mahāsukhaṃ bhāryā, tad uktam—
 
-adhyātmaṃ tu prajñā bhaginī lalanā | bhāgineyī rasanā | jananī avadhūtī | pūrvayor uttarayā gurūpadeśāt saṃyogo duhitā, tāsām eva prajñopāyādvayasvabhāvānāṃ tisṛṇāṃ nāḍīnāṃ saṃyogād utpadyamānaṃ mahāsukhaṃ bhāryā, tad uktam —
-
-   tatsukhaṃ kāminī smṛtam (HT 1.8.50b)
+   <quote id="q1">tatsukhaṃ kāminī smṛtam</quote>
 
 iti |
 
-13.9 śabdavijñānaṃ ḍombinī | rasavijñānaṃ nartakī | sparśavijñānaṃ dhovviṇī | ghrāṇavijñānaṃ caṇḍālinī | cakṣurvijñānaṃ carmakāriṇī |
+śabdavijñānaṃ ḍombinī | rasavijñānaṃ nartakī | sparśavijñānaṃ dhovviṇī | ghrāṇavijñānaṃ caṇḍālinī | cakṣurvijñānaṃ carmakāriṇī |
 
 ---
 
-satyadvayādvaidhīkāradarśanamātreṇa mokṣād bhāvyaṃ bhāvako bhāvanety abhiniveśo yuganaddhakramādhigatānāṃ nāstīti bhāvaḥ | tad uktaṃ śrīsamāje—
+satyadvayādvaidhīkāradarśanamātreṇa mokṣād bhāvyaṃ bhāvako bhāvanety abhiniveśo yuganaddhakramādhigatānāṃ nāstīti bhāvaḥ | tad uktaṃ <title id="t1">śrīsamāje</title>—
 
-   abhāve bhāvanābhāvo bhāvanā naiva bhāvanā |
-   iti bhāvo na bhāvaḥ syād bhāvanā nopalabhyate || (Guhyasamāja 2.3)
+   <quote id="q1" titleid="t1">abhāve bhāvanābhāvo bhāvanā naiva bhāvanā |
+   iti bhāvo na bhāvaḥ syād bhāvanā nopalabhyate ||</quote>
 
 iti |
 
-13.30 ata evopasaṃharati—kathaṃ bhaved iti bhāvanā, ato nopalabhyata iti bhāvaḥ | 
+ata evopasaṃharati—kathaṃ bhaved iti bhāvanā, ato nopalabhyata iti bhāvaḥ | 
 
 ---
 
 vikalpakau tu manovijñānasvabhāvau, manovijñānaṃ tu—
 
-   chedasandhānavairāgyahānicyutyupapattayaḥ | (Abhidharmakośa 3.42a–c)
-   manovijñāna eveṣṭāḥ |
+   <quote id="q1" titleid="t1">chedasandhānavairāgyahānicyutyupapattayaḥ |
+   manovijñāna eveṣṭāḥ |</quote>
    
 iti nyāyāt pradhānatvād upabhoktr iti nopakaraṇopabhogyaṃ prajñārūpaṃ vyavasthāpitam | niruttaraprajñātvaṃ tu prāg vyasthāpitaṃ manovijñānasyāsty eva | yat tūktaṃ mana iti tad iha niḥśeṣabhāvagrāmavicāraprakramārtham |
 
 ---
 
-āryanāgārjunapādaiś coktaṃ bodhicittavivaraṇe —
+<author id="a1">āryanāgārjunapādaiś</author> coktaṃ <title id="t1">bodhicittavivaraṇe</title> —
 
-   ātmagrahanivṛttyarthaṃ skandhadhātvādideśanā |
-   sāpi dhvastā mahābhāgaiś cittamātravyavasthayā || (Nāgarjuna, Bodhicittavivaraṇa, verse 25)
+   <quote id="q1" authorid="a1" titleid="t1">ātmagrahanivṛttyarthaṃ skandhadhātvādideśanā |
+   sāpi dhvastā mahābhāgaiś cittamātravyavasthayā ||</quote>
 
 iti |
 
@@ -317,110 +316,110 @@ iti |
 
 tac ca cittaṃ sāṃvṛtam | tad uktaṃ tatraiva —
 
-   cittamātram idaṃ sarvam iti yā deśanā muneḥ |
-   uttrāsaparihārārthaṃ bālānāṃ sā na tattvataḥ || (Nāgarjuna, Bodhicittavivaraṇa, verse 27)
+   <quote id="q1">cittamātram idaṃ sarvam iti yā deśanā muneḥ |
+   uttrāsaparihārārthaṃ bālānāṃ sā na tattvataḥ ||</quote>
 
 iti |
 
-13.49 katham atāttvikaṃ cittam ity āha — ubhayavicāraṇād iti bhāvābhāvasvarūpanirūpaṇāt |
+katham atāttvikaṃ cittam ity āha — ubhayavicāraṇād iti bhāvābhāvasvarūpanirūpaṇāt |
 
 ---
 
+tarhi vicārakaṃ cittaṃ pāramārthikam astīty āha—vicāram iti vicārayatīty acā vicāraṃ vicārakaṃ vijñānaṃ tatrobhayavicāraṇe sati na vidyate, tad uktam <author id="a1">ācāryaśāntidevapādaiḥ</author> —
 
-tarhi vicārakaṃ cittaṃ pāramārthikam astīty āha — vicāram iti vicārayatīty acā vicāraṃ vicārakaṃ vijñānaṃ tatrobhayavicāraṇe sati na vidyate, tad uktam ācāryaśāntidevapādaiḥ —
+   <quote id="q1" authorid="a1">vicārite vicārye tu vicārasyāsti nāśrayaḥ |
+   nirāśrayatvān nodeti tac ca nirvāṇam ucyate ||</quote>
 
-   vicārite vicārye tu vicārasyāsti nāśrayaḥ |
-   nirāśrayatvān nodeti tac ca nirvāṇam ucyate || (Śāntideva, Bodhicaryāvatāra, 9.111)
+tathā—
 
-13.51 tathā—
-
-   yadā na bhāvo nābhāvo mateḥ saṃtiṣṭhate puraḥ |
-   tadānyagatyabhāvena nirālambā praśāmyati || (Śāntideva, Bodhicaryāvatāra, 9.35)
+   <quote id="q2" authorid="a1">yadā na bhāvo nābhāvo mateḥ saṃtiṣṭhate puraḥ |
+   tadānyagatyabhāvena nirālambā praśāmyati ||</quote>
 
 iti |
 
-13.52 rājaratnāvalyāṃ coktam—
+<title id="t1">rājaratnāvalyāṃ</title> coktam—
 
-   vijñānāgner jagaddharmāḥ sarva evendhanaṃ matāḥ |
-   tān yathāvatpravicayajvālair dagdhvopaśāmyati || (Nāgarjuna?)
+   <quote id="q3" titleid="t1">vijñānāgner jagaddharmāḥ sarva evendhanaṃ matāḥ |
+   tān yathāvatpravicayajvālair dagdhvopaśāmyati ||</quote>
 
 iti |
 
 ---
-
 
 tathā hi na tad ekam, ekatve hi nīlapītarūpatayā citrāvabhāsinī saṃvittir na syāt, sakalasya pītāder nīlāntargatatvena pratītiprasaṅgāt | nīlasyāpi pūrvāparamadhyabhedena sthūlāvabhāsitayā ca pratītir na syāt |
 
-   digbhāgabhedo yasyāsti tasyaikatvaṃ na yujyate | (Vasubandhu, Viṃśatikākārikāḥ, 14ab)
+   <quote id="q1">digbhāgabhedo yasyāsti tasyaikatvaṃ na yujyate |</quote>
 
 iti nyāyāt paramāṇumātra eva pratibhāsaḥ syāt |
 
 ---
 
-idam eva ca tattvadarśanam | yat prajñācakṣuṣā nirūpayataḥ samyagjñānāloke sati sarvadharmāṇām adarśanam iti | yathoktaṃ bhagavatyām
+idam eva ca tattvadarśanam | yat prajñācakṣuṣā nirūpayataḥ samyagjñānāloke sati sarvadharmāṇām adarśanam iti | yathoktaṃ <title id="t1">bhagavatyām</title>
 
-   katamad buddhānāṃ bhagavatāṃ jñānacakṣuḥ? yena na kiṃcit paśyanti | (untranced, Prajñāpāramitā)
+   <quote id="q1" titleid="t1">katamad buddhānāṃ bhagavatāṃ jñānacakṣuḥ? yena na kiṃcit paśyanti |</quote>
    
 tathā
 
-   katamat paramārthadarśanam? yat sarvadharmāṇām adarśanam | (untranced, Prajñāpāramitā)
+   <quote id="q2" titleid="t1">katamat paramārthadarśanam? yat sarvadharmāṇām adarśanam |</quote>
 
 iti |
 
 ---
 
-sa eva —
+sa eva—
 
-   pratyāhāras tathā dhyānaṃ prāṇāyāmaś ca dhāraṇā |
-   anusmṛtiḥ samādhiś ca ṣaḍaṅgo yoga iṣyate || (Guhyasamāja 18.141 [Samāottara])
+   <quote id="q1" titleid="t1">pratyāhāras tathā dhyānaṃ prāṇāyāmaś ca dhāraṇā |
+   anusmṛtiḥ samādhiś ca ṣaḍaṅgo yoga iṣyate ||</quote>
 
-iti samājottaroktaḥ ṣaḍaṅgo yogaḥ |
+iti <title id="t1">samājottaro</title>ktaḥ ṣaḍaṅgo yogaḥ |
 
 ---
 
 evaṃ ca yogī yadā niṣprapañcaprajñopāyayogātmā tadā sarvapuṇyamayaḥ sarvajñānamayaḥ samastamāṇḍaleyadevatātmakaḥ sakalapāramitāmayaś ca nāthair vyavasthāpyate |
 
-13.77 tad uktam —
-   ayaṃ sa paramo yogaḥ sarvasaṃkalpavarjitaḥ |
+tad uktam—
+
+   <quote id="q1">ayaṃ sa paramo yogaḥ sarvasaṃkalpavarjitaḥ |
    yogī yatra sthitaḥ sākṣāt sarvajño bhagavān bhavet ||
    idaṃ tat paramaṃ tattvaṃ prajñopāyamayaṃ śivam |
-   idam evādvayaṃ jñānaṃ bodhicittam idaṃ param ||
+   idam evādvayaṃ jñānaṃ bodhicittam idaṃ param ||</quote>
 
 iti |
 
 ---
 
-uktaṃ cāryanāgārjunapādaiḥ—
+uktaṃ c<author id="a1">āryanāgārjunapādaiḥ</author>—
 
-   yaḥ pumān kṣaṇam apy ekaṃ bodhicittaṃ prabhāvayet |
+   <quote id="q1" authorid="a1">yaḥ pumān kṣaṇam apy ekaṃ bodhicittaṃ prabhāvayet |
    aśakyo gaṇituṃ tasya puṇyarāśir iyān iti ||
    cittaratnam asaṃkliṣṭam idam ekāntam ucyate | 
-   asaṃhāryam anāhāryaṃ kleśamārāditaskaraiḥ || (Nāgārjuna, Bodhicittavivaraṇa, verses 108–109)
+   asaṃhāryam anāhāryaṃ kleśamārāditaskaraiḥ ||</quote>
 
 iti |
 
-13.79 sarvam etad abhipretyāha—ete cittasya śuddhateti | eta eṣā |
+sarvam etad abhipretyāha—ete cittasya śuddhateti | eta eṣā |
 
 ---
 
-nanūktaṃ prajñāpāramitāyām—
+nanūktaṃ <title id="t1">prajñāpāramitāyām</title>—
 
-   yac cānuttaraṃ samyaksambodhisukham (Aṣṭasāhasrikā Prajñāpāramitā)
+   <quote id="q1" titleid="t1">yac cānuttaraṃ samyaksambodhisukham</quote>
 
 iti?
 
-13.86 uktam etat | na tv asyopāyo darśitaḥ | upāyabhūtasahajamahāsukhānupadeśāt | tasmāt tad apy anenaiva krameṇa boddhavyam |
+uktam etat | na tv asyopāyo darśitaḥ | upāyabhūtasahajamahāsukhānupadeśāt | tasmāt tad apy anenaiva krameṇa boddhavyam |
 
 ---
 
 tattvaṃ mahāmudrāsvabhāvaḥ | ataḥ saṃsāradoṣair na cchupyate | tasmāt prajñopāyasvabhāvādvayabodhicittabhāvanaiva sarvapāpaviśodhanī sarvaśreyaskarī ca |
 
-13.105 tad uktam āryanāgārjunapādaiḥ—
+tad uktam <author id="a1">āryanāgārjunapādaiḥ</author>—
 
-   mahāyānam idaṃ śreṣṭhaṃ bodhicittam idaṃ param |
+   <quote id="q1" authorid="a1">mahāyānam idaṃ śreṣṭhaṃ bodhicittam idaṃ param |
    utpādayantu yatnena bodhicittaṃ samāhitāḥ ||
+
    nānyopāyo 'sti saṃsāre svaparārthaprasiddhaye |
-   bodhicittād ṛte buddhair dṛṣṭapūrvaḥ kadācana || (Nāgārjuna, Bodhicittavivaraṇa, verse 105–106)
+   bodhicittād ṛte buddhair dṛṣṭapūrvaḥ kadācana ||</quote>
 
 iti |
 
@@ -428,10 +427,9 @@ iti |
 
 pañcakāmān vinā nīrasaiva śūnyatā syād ity āha—yāvetyādi | yāvan na viṣayarasaiḥ paripālyate bodhicittāṅkuras tāvan na buddhakāyakalpataruḥ prādurbhavati, jalasekarahitāṅkurāt tarusaṃpattir iva |
 
-13.108 tad uktaṃ sarahapādaiḥ—
+tad uktaṃ <author id="a1">sarahapādaiḥ</author>—
 
-   tanutaracittāṅkurako viṣayarasair yadi na sicyate śuddhaiḥ | 
-   gaganavyāpī phaladaḥ kalpatarutvaṃ kathaṃ labhate || (quoted in Raviśrījñāna, Amṛtakaṇikāṭippaṇī (ed. 68), one variant occurs: tanutarau cittāṅkurako for tanutaracittāṅkurako. It is also quoted in Munidatta's commentary on the Caryāgīti, cf. CGM: 71.
+   <quote id="q1" authorid="a1">tanutaracittāṅkurako viṣayarasair yadi na sicyate śuddhaiḥ | 
+   gaganavyāpī phaladaḥ kalpatarutvaṃ kathaṃ labhate ||</quote>
    
 iti paṇḍitābhayākaraguptakṛtāyām abhayapaddhatyāṃ śrībuddhakāpalamahātantraṭīkāyāṃ trayodaśaḥ paṭalaḥ ||
-
