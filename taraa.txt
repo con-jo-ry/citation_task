@@ -1,32 +1,32 @@
 ---
 nanu nirākāram api vijñānam upalabdhilakṣaṇaprāptaṃ svapne 'pi nopalabhyate. tat kathaṃ tad asti paramārthata ity ucyate? ucyate. sukhākāraṃ vijñānam antaḥparisphuradrūpaṃ nirākāraṃ saṃvedyata eva. nīlādyākārāḥ punar alīkāḥ pratibhāsante. anyathā teṣāṃ satyatve sarva evākārāḥ satyāḥ syuḥ. tathā hi grāhyagrāhakabhāvādikam api satyaṃ syāt. tataś ca sarveṣām eva satyapratibhāsatvena muktiprasaṅgaḥ, keṣāñcid api mithyāpratibhāsasya bhrāntirūpasyāpratibhāsanāt. tathā coktam—
 
-	<quote>draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate |</quote>
+	<quote id="q1">draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate |</quote>
 
 tasmād akāmakenāpi nīlādyākārāṇām alīkatvam evaiṣṭavyam. sukhādikaṃ nirākāraṃ satyam upalabhyate. tat kathaṃ nopalabhyata iti.
 
 ---
 nanv anena nyāyena sakalasākāranirākāravijñānasyālīkatvaprasādhanān na kiñcid api pāramārthikaṃ vastutattvam asti. tat kathaṃ lakṣyasya svarūpaṃ pramāṇata upalakṣayitavyam? naiṣa doṣaḥ, madhyamakamate pramāṇato 'līkatāsiddhāv api māyopamapratibhāsamātrasyaikānekasvabhāvarahitasya dharmirūpasyāpratiṣedhāt. tatraiva cālīke pratibhāsamātre lakṣyalakṣaṇasaṃsāranirvāṇamaṇḍalacakrādibhāvanāsakalajagadarthakriyādīnām avyāhatā vyavasthā sidhyatīti. tathā coktam—
 
-	<quote>buddhatvaṃ vajrasattvatvaṃ saṃvṛtyaiva prasādhayet |</quote>
+	<quote id="q1">buddhatvaṃ vajrasattvatvaṃ saṃvṛtyaiva prasādhayet |</quote>
 
 iti.
 
 nanu sarvam eva vastujātam alīkarūpatayā niḥsāram, tadā kimarthaṃ maṇḍalacakrādibhāvanāprayāsaḥ kriyate? asad etat,
 
-	<quote>mithyādhyāropahānārthaṃ yatno 'saty api moktari |</quote>
+	<quote id="q1">mithyādhyāropahānārthaṃ yatno 'saty api moktari |</quote>
 
 iti vacanāt. yady api vicāryamāṇaṃ pāramārthikaṃ vasturūpaṃ nāsti, tathāpy ahaṃ sukhī bhaveyaṃ duḥkhī vā mā bhūvam iti tṛṣṇā sakalaprāṇabhṛtām asti. yathā tulye 'pi mithyātve śubhāśubhasvapnayoḥ śubhasvapnadarśanāt saumanasyam, aśubhasvapnadarśanāc ca daurmanasyam, tadapanayanāya ca saddharmapāṭhamantrajāpādau pravṛttir bhavati, tathā mithyātvāviśeṣe 'pi duḥkhādiprākṛtavikalpahānāya samyaksaṃbodhilakṣaṇaprāptaye ca prekṣāvatām arthināṃ pravṛttir bhaviṣyatīti.
 
 ---
 prapañcarūpatvād iti cet. prapañcāprapañcayor bhāvanāvasthāyāṃ ko viśeṣaḥ? nanv aprapañcaṃ śīghram eva sthirībhavatīty ayaṃ viśeṣaḥ. yatraivālambane cittaṃ punaḥ punaḥ preryate nirantaraṃ dīrghakālaṃ ca tatraiva sthirībhavatīty āgamo yuktiś cātrāsti. tathā coktam—
 
-	<quote>tasmād bhūtam abhūtaṃ vā yad yad evābhibhāvyate |
+	<quote id="q1">tasmād bhūtam abhūtaṃ vā yad yad evābhibhāvyate |
 	bhāvanābalaniṣpattau tat sphuṭākalpadhīphalam ||</quote>
 
 punaś coktam—
 
-	<quote>aho kusīdatvam aho vimūḍhatā
+	<quote id="q2">aho kusīdatvam aho vimūḍhatā
 	aho janasyāsya sadarthavakratā |
 	svacittamātrapratibaddhabuddhatā
 	adūravartiny api yan na sevyate ||</quote>
@@ -38,7 +38,7 @@ bhrāntirūpatvenāparamārthatvam api sarvatraiva bhāvanāviṣaye vastuni sam
 ---
 na ca nivṛttyā nīrasarūpayā prayojanam asti prekṣāvatām. tathā coktam—
 
-	<quote>mucyamāneṣu sattveṣu ye te prāmodyasāgarāḥ |
+	<quote id="q1">mucyamāneṣu sattveṣu ye te prāmodyasāgarāḥ |
 	tair eva nanu paryāptaṃ mokṣeṇārasikena kim ||</quote>
 
 iti.

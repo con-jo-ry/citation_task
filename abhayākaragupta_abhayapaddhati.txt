@@ -182,7 +182,7 @@ trailokyasādhanamantra iti purakṣobhamantraḥ. karmānusāreṇa bhagavadbha
 
 yathoktaṃ <author id="a1">bhagavatā</author> <title id="t1">sampuṭāditantreṣv</title> <author id="a2">āryanāgārjunapādaiś</author> ca—
 
-	<quote id="q1" titleid="sampuṭāditantreṣv" authorid="a1" authorid="a2">āgneye caiva vāyavye māhendre vāruṇe tathā |
+	<quote id="q1" titleid="sampuṭāditantreṣv" authorid="a1" authorid2="a2">āgneye caiva vāyavye māhendre vāruṇe tathā |
 	maṇḍale tasya saṃcāra ūrdhvapārśvarjvadhogatiḥ ||</quote>
 
 iti. tatraiva pratyekaṃ prajñopāyarūpamaṇḍaladvayabhogato nāḍīcakrasaṃcārād dvātriṃśan nāḍyo mahāsukhacakre. divārātrivibhāgena prajñopāyabhedād aṣṭau praharāḥ. tantrāntareṣu ṣaṣṭidaṇḍātmakaṃ yad ahorātram uktaṃ tat ṣaṣṭyuttara śatatrayaśvāsair daṇḍavyavasthānena. iha tu caturmaṇḍalavyavasthayā sārdhasaptatriṃśaduttaraśatatrayaśvāsair daṇḍavyavasthā. ubhayatrāpi tv ahorātreṇa ṣaṭśatādhikaikaviṃśatiśvāsasahasrāṇi bhavantīty aviśeṣaḥ.
