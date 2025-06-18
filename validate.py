@@ -25,7 +25,7 @@ class SanskritValidator:
     def __init__(self):
         self.valid_tags = {'quote', 'author', 'title'}
         self.valid_attributes = {'id', 'authorid', 'titleid', 'type'}
-        self.valid_type_values = {'generic', 'chapter', 'speaker'}  # Add more as needed
+        self.valid_type_values = {'generic', 'chapter', 'speaker', 'possiblyauthorial'}  # Add more as needed
         self.errors: List[ValidationError] = []
     
     def validate_file(self, filename: str) -> List[ValidationError]:
