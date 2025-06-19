@@ -20,3 +20,5 @@ This repo contains annotated data for identification citations within Sanskrit t
 - Author and generic title in a single compound with vocalic sandhi in between: <author id="a1">lūyīpādā</author><title id="t3" type="generic">bhisamaye</title>
 - Commentary with a root text emded.
 - Some verses in prose are probably authorial but we can't be certain.
+- Sometimes an opponent's position is phrased as him speaking, but it does not correspond to an actual quote: it is a kind of paraphrase.
+- Mokṣākaragupta, for example, frequently cites the Nyāyabindu, and it is probably known to his readers, but he does not mark this in any way.

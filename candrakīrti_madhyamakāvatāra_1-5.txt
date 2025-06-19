@@ -12,7 +12,7 @@ ata eva <title id="t1">madhyamake</title> 'pi nirdiṣṭam—
 	<quote id="q1" titleid="t1">sambuddhānām anutpāde śrāvakāṇāṃ punaḥ kṣaye |
 	jñānaṃ pratyekabuddhānām asaṃsargāt pravartate ||</quote>
 
-tatra samyagavavādaphalaṃ śrāvayantīti śrāvakāḥ | tathā hi kṛtaṃ karaṇīyam | nāparam asmādbhavaṃ prajānīmaṃ ityādi | athavā, agraphalam anuttarasamyaksambuddhamārgaṃ vā tathāgatebhyaḥ śrutvā tadarthibhyaḥ śrāvayantīti śrāvakāḥ | yathoktam <title id="t2">āryasaddharmapuṇḍarīkasūtre</title>—
+tatra samyagavavādaphalaṃ śrāvayantīti śrāvakāḥ | tathā hi kṛtaṃ karaṇīyam | nāparam asmād bhavaṃ prajānīma ityādi | athavā, agraphalam anuttarasamyaksambuddhamārgaṃ vā tathāgatebhyaḥ śrutvā tadarthibhyaḥ śrāvayantīti śrāvakāḥ | yathoktam <title id="t2">āryasaddharmapuṇḍarīkasūtre</title>—
 
 	<quote id="q2" titleid="t2">adyavvarya śrāvakabhūta nātha saṃśrāvayiṣyāmy atha cāgrabodhim |
 	bodhīya śabdaṃ ca prakāśayāmas te ||</quote>
@@ -30,8 +30,8 @@ utpāditabodhicitto 'pi yady uttarakālaṃ karuṇāsalilapariṣekaṃ na muhu
 
 idānīm ālambanaviśeṣapravṛttyāpi karuṇāyāḥ svarūpātiśayam abhidyotya tasyai namaskāram ārabdhukāma āha—
 
-	purāhamityātmani sanniviṣṭe mamedam ity āhitabhāvasaṅge |
-	bhramadghaṭīyantra ivāsvatantre jagatyabhūdyā karuṇā name tām ||
+	purāham ity ātmani sanniviṣṭe mamedam ity āhitabhāvasaṅge |
+	bhramadghaṭīyantra ivāsvatantre jagaty abhūd yā karuṇā name tām ||
 
 ātmīyābhiniveśāt prāg evāhaṅkāreṇāsantam ātmānaṃ santam ity upakalpyedaṃ satyābhiniviṣṭo mamedam ity ahaṅkāraviṣayād anyasmin bhāvajāte sakala evāyaṃ loko 'bhiniviṣṭaḥ | sa cāyam ātmātmīyābhiniviṣṭo lokaḥ karmakleśarajjvā gāḍhataram avabaddho vijñānayantravāhākṣepaparāyattavṛttir ā bhavāgrād avīciparyantaṃ nimne mahati saṃsārakūpe 'navaratavāhyamānaḥ svarasata evādhogamanavṛttir yatnataḥ katham apy utthāpanīyo 'jñānādikleśakarmajanmasaṅkeśatraye 'py anavadhāryamāṇapūrvāparamadhyakramo duḥkhaduḥkhatāvipariṇāmaduḥkhatābhyām ahany ahani paribhidyamānatvād araghaṭṭaghaṭīyantrāvasthām anativṛtyāvasthitaḥ | bodhisattvas tadduḥkhaduḥkhitayā tam atīva karuṇayālambya yatas taṃ trātum utsahate | ataḥ prathamataram eva bhagavata mahākaruṇāṃ praṇauti sma | eṣā ca sattvālambanā bodhisattvānāṃ karuṇā ||
 
