@@ -2,7 +2,7 @@
 
 atha yo nāma kaścid gotraviśeṣāt paryupāsitakalyāṇamitratayā trijagatparyāpannasamastajanaduḥkhaduḥkhī sarvaprāṇabhṛtāṃ niḥśeṣaduḥkhasamuddharaṇāśayaḥ svasukhanirapekṣas tatpraśamopāyabhūtaṃ buddhatvam eva manyamānas tatprāptivāñchayā samutpāditabodhicitto mahātmā saugatapadasādhanopāyabhūtasaṃbhāradvayaparipūraṇārthaṃ krameṇa dānādiṣu pravartate. tasya tathā pravartamānasya samyakpratipannaśamathasyāpi dānādayaḥ prajñāvikalatayā jagadarthasaṃpādananidānaṃ buddhatvaṃ nāvahantīty abhisaṃdhāya avaśyaṃ saṃsāraduḥkhanirmokśārthinā prajñotpādanāya yatitavyam. yathoktam—
 
-	śamathena vipaśyanāsuyuktaḥ
+	<quote id="q1">śamathena vipaśyanāsuyuktaḥ</quote>
 
 ityādi.
 
@@ -19,9 +19,9 @@ na caitad vaktavyam—yadi prajñā pradhānaṃ dānādīnām, saiva kevalā sa
 
 ---
 
-sarvakalpanāvirahāt samāropāpavādāntadvayamaunād aśaikṣakāyavāṅmanaḥkarmalakṣaṇamaunatrayayogād vā munir buddho bhagavān. triduḥkhatāduḥkhitasarvajagatparitrāṇādhyāśayo jagau jagāda, uktavān ity arthaḥ. āryaprajñāpāramitādisūtrānteṣu prajñārtham uktavān krameṇa dānādiparikaram. yathoktam āryaśatasāhasrayāṃ prajñāpāramitāyām—
+sarvakalpanāvirahāt samāropāpavādāntadvayamaunād aśaikṣakāyavāṅmanaḥkarmalakṣaṇamaunatrayayogād vā munir buddho bhagavān. triduḥkhatāduḥkhitasarvajagatparitrāṇādhyāśayo jagau jagāda, uktavān ity arthaḥ. āryaprajñāpāramitādisūtrānteṣu prajñārtham uktavān krameṇa dānādiparikaram. yathoktam <title id="t1">āryaśatasāhasrayāṃ prajñāpāramitāyām</title>—
 
-	tad yathāpi nāma subhūte sūryamaṇḍalaṃ candramaṇḍalaṃ ca caturṣu dvīpeṣu karma karoti, caturaś ca dvīpān anugacchati, anuparivartate. evam eva subhūte prajñāpāramitā pañcasu pāramitāsu karma karoti, pañca pāramitā anugacchati, anuparivartate. prajñāpāramitāvirahitatvāt pañca pāramitāḥ pāramitānāmadheyaṃ na labhante. tad yathāpi nāma subhūte rājā cakravartī virahitaḥ saptabhī ratnaiś cakravartināmadheyaṃ na labhate. evam eva subhūte pañca pāramitāḥ prajñāpāramitāvirahitatvān na pāramitānāmadheyaṃ labhante. tad yathāpi nāma subhūte yāḥ kāścana kunadyaḥ, sarvās tā yena gaṅgā mahānadī tenānugacchanti. tā gaṅgayā mahānadyā sārdhaṃ mahāsamudram anugacchanti. evam eva subhūte pañca pāramitāḥ prajñāpāramitāparigṛhītā yena sarvākārajñatā tenānugacchanti.
+	<quote id="q1" titleid="t1">tad yathāpi nāma subhūte sūryamaṇḍalaṃ candramaṇḍalaṃ ca caturṣu dvīpeṣu karma karoti, caturaś ca dvīpān anugacchati, anuparivartate. evam eva subhūte prajñāpāramitā pañcasu pāramitāsu karma karoti, pañca pāramitā anugacchati, anuparivartate. prajñāpāramitāvirahitatvāt pañca pāramitāḥ pāramitānāmadheyaṃ na labhante. tad yathāpi nāma subhūte rājā cakravartī virahitaḥ saptabhī ratnaiś cakravartināmadheyaṃ na labhate. evam eva subhūte pañca pāramitāḥ prajñāpāramitāvirahitatvān na pāramitānāmadheyaṃ labhante. tad yathāpi nāma subhūte yāḥ kāścana kunadyaḥ, sarvās tā yena gaṅgā mahānadī tenānugacchanti. tā gaṅgayā mahānadyā sārdhaṃ mahāsamudram anugacchanti. evam eva subhūte pañca pāramitāḥ prajñāpāramitāparigṛhītā yena sarvākārajñatā tenānugacchanti.</quote>
 
 iti vistaraḥ.
 
@@ -29,7 +29,7 @@ iti vistaraḥ.
 
 punaś coktam—
 
-	iyaṃ kauśika prajñāpāramitā bodhisattvānāṃ mahāsattvānāṃ dānapāramitām abhibhavati, śīlapāramitām abhibhavati, kṣāntipāramitām abhibhavati, vīryapāramitām abhibhavati, dhyānapāramitām abhibhavati. tad yathāpi nāma kauśika jātyandhānāṃ śataṃ vā sahasraṃ vā apariṇāyakānām abhavyaṃ mārgāvataraṇāya, kutaḥ punar nagarān upraveśāya. evam eva kauśika acakṣuṣkāḥ pañca pāramitā jātyandhabhūtā bhavanti vinā prajñāpāramitayāpariṇāyakāḥ, vinā prajñāpāramitayābhavyā bodhimārgāvataraṇāya, kuta eva sarvākārajñatānagarānupraveśāya. yadā punaḥ kauśika pañca pāramitāḥ prajñāpāramitāparigṛhītā bhavanti, tadā etāḥ pañca pāramitāḥ sacakṣuṣkā bhavanti. prajñāpāramitāparigṛhītāś caitāḥ pañca pāramitāḥ pāramitānāmadheyaṃ labhante.
+	<quote id="q1" titleid="t1">iyaṃ kauśika prajñāpāramitā bodhisattvānāṃ mahāsattvānāṃ dānapāramitām abhibhavati, śīlapāramitām abhibhavati, kṣāntipāramitām abhibhavati, vīryapāramitām abhibhavati, dhyānapāramitām abhibhavati. tad yathāpi nāma kauśika jātyandhānāṃ śataṃ vā sahasraṃ vā apariṇāyakānām abhavyaṃ mārgāvataraṇāya, kutaḥ punar nagarān upraveśāya. evam eva kauśika acakṣuṣkāḥ pañca pāramitā jātyandhabhūtā bhavanti vinā prajñāpāramitayāpariṇāyakāḥ, vinā prajñāpāramitayābhavyā bodhimārgāvataraṇāya, kuta eva sarvākārajñatānagarānupraveśāya. yadā punaḥ kauśika pañca pāramitāḥ prajñāpāramitāparigṛhītā bhavanti, tadā etāḥ pañca pāramitāḥ sacakṣuṣkā bhavanti. prajñāpāramitāparigṛhītāś caitāḥ pañca pāramitāḥ pāramitānāmadheyaṃ labhante.</quote>
 
 iti vistaraḥ. 
 
@@ -37,24 +37,24 @@ iti vistaraḥ.
 
 evam anyatrāpi yathāsūtram avagantavyam. uktaṃ ca—
 
-	sarvapāramitābhis tvaṃ nirmalābhir anindite |
-	candralekh eva tārābhir anuyātāsi sarvadā || [prajñāpāramitāstava—8]
-
-iti || 
-
----
-
-athavā, imam iti samanantaraprakrāntarūpaṃ śamathātmakaṃ prabandham. parikaram iti prajñāsamutthāpakatayā tatkāraṇasaṃdohaṃ pīṭhikābandhaṃ ca. prajñārtham iti prajñaiva pūrvoktā arthaḥ prayojanaṃ sādhyatayā yasya tam, śamathapariśodhitacittasaṃtāne prajñāyāḥ prādurbhāvāt supraśodhitakṣetre sasyaniṣpattivat. yathoktaṃ śikśāsamuccaye—
-
-	kiṃ punar asya śamathasya māhātmyam? yathābhūtajñānajananaśaktiḥ. yasmāt—samāhito yathābhūtaṃ jānātīty uktavān muniḥ | [śikṣāsamuccayakārikā—9]
+	<quote id="q1">sarvapāramitābhis tvaṃ nirmalābhir anindite |
+	candralekh eva tārābhir anuyātāsi sarvadā ||</quote> 
 
 iti. 
 
 ---
 
-etad api dharmasaṃgītāv uktam—
+athavā, imam iti samanantaraprakrāntarūpaṃ śamathātmakaṃ prabandham. parikaram iti prajñāsamutthāpakatayā tatkāraṇasaṃdohaṃ pīṭhikābandhaṃ ca. prajñārtham iti prajñaiva pūrvoktā arthaḥ prayojanaṃ sādhyatayā yasya tam, śamathapariśodhitacittasaṃtāne prajñāyāḥ prādurbhāvāt supraśodhitakṣetre sasyaniṣpattivat. yathoktaṃ <title id="t1">śikśāsamuccaye</title>—
 
-	samāhitacetaso yathābhūtadarśanaṃ bhavati. yathābhūtadarśino bodhisattvasya sattveṣu mahākaruṇā pravartate. idaṃ mayā samādhimukhaṃ sarvasattvānāṃ niṣpādayitavyam. sa tayā mahākaruṇayā saṃcodyamāno 'dhiśīlam adhicittam adhiprajñaṃ ca śikṣāḥ paripūrya, anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate.
+	<quote id="q1"t1">kiṃ punar asya śamathasya māhātmyam? yathābhūtajñānajananaśaktiḥ. yasmāt—samāhito yathābhūtaṃ jānātīty uktavān muniḥ |</quote>
+
+iti. 
+
+---
+
+etad api <title id="t1">dharmasaṃgītāv</title> uktam—
+
+	<quote id="q1" titleid="t1">samāhitacetaso yathābhūtadarśanaṃ bhavati. yathābhūtadarśino bodhisattvasya sattveṣu mahākaruṇā pravartate. idaṃ mayā samādhimukhaṃ sarvasattvānāṃ niṣpādayitavyam. sa tayā mahākaruṇayā saṃcodyamāno 'dhiśīlam adhicittam adhiprajñaṃ ca śikṣāḥ paripūrya, anuttarāṃ samyaksaṃbodhim abhisaṃbudhyate.</quote>
 
 iti vistaraḥ.
 
@@ -72,18 +72,18 @@ ata evāha—duḥkhanivṛttikāṅkṣayeti. duḥkhasya pañcagatisaṃgṛh�
 
 evam asya kevalasya mahato duḥkhaskandhasya nirodho bhavati. tatra avidyā tṛṣṇopādānaṃ ca kleśavartmano vyavacchedaḥ. saṃskārā bhavaś ca karmavartmano vyavacchedaḥ. pariśiṣṭānyaṅgāni duḥkhavartmano vyavacchedaḥ. pūrvāntāparāntanirodho nirodhavartmano vyavacchedaḥ. evam eva trivartma nirātmakam ātmātmīyarahitaṃ saṃbhavati ca saṃbhavayogena, vibhavati ca vibhavayogena, svabhāvān naḍakalāpasadṛśa iti. etac ca uttaratra vistareṇa yuktayāgamābhyāṃ pratipādayiṣyate.
 
-tad evaṃ prajñayā svapnamāyādisvabhāvaṃ saṃskṛtaṃ pratyavekṣamāṇasya sarvadharmāṇāṃ niḥsvabhāvatayā pratipatteḥ paramārthādhigamāt savāsananiḥśeṣadoṣarāśivinivṛttir bhavatīti sarvaduḥkhopaśamahetuḥ prajñopapadyate ||
+tad evaṃ prajñayā svapnamāyādisvabhāvaṃ saṃskṛtaṃ pratyavekṣamāṇasya sarvadharmāṇāṃ niḥsvabhāvatayā pratipatteḥ paramārthādhigamāt savāsananiḥśeṣadoṣarāśivinivṛttir bhavatīti sarvaduḥkhopaśamahetuḥ prajñopapadyate.
 
 ---
 
 yathā ca yuktyāgamābhyāṃ vicārayato 'viparītavastutattvapravicayaḥ samupajāyate, tad upadarśayituṃ satyadvayavyavasthām āha saṃvṛtirityādi—
 
 	saṃvṛtiḥ paramārthaś ca satyadvayam idaṃ matam |
-	buddheragocarastattvaṃ buddhiḥ saṃvṛtir ucyate || 9.2 ||
+	buddhẹragocarastattvaṃ buddhiḥ saṃvṛtir ucyate || 9.2 ||
 
-saṃvriyata āvriyate yathābhūtaparijñānaṃ svabhāvāvaraṇād āvṛtaprakāśanāc ca anayeti saṃvṛtiḥ. avidyā moho viparyāsa iti paryāyāḥ. avidyā hi asatpadārthasvarūpāropikā svabhāvadarśanāvaraṇātmikā ca satī saṃvṛtir upapadyate. yad uktam āryaśālistambasūtre—
+saṃvriyata āvriyate yathābhūtaparijñānaṃ svabhāvāvaraṇād āvṛtaprakāśanāc ca anayeti saṃvṛtiḥ. avidyā moho viparyāsa iti paryāyāḥ. avidyā hi asatpadārthasvarūpāropikā svabhāvadarśanāvaraṇātmikā ca satī saṃvṛtir upapadyate. yad uktam <title id="t1">āryaśālistambasūtre</title>—
 
-	punar aparaṃ tattve 'pratipattiḥ mithyāpratipattir ajñānamavidyā
+	<quote id="q1" titleid="t1">punar aparaṃ tattve 'pratipattiḥ mithyāpratipattir ajñānamavidyā</quote>
 
 iti.
 
@@ -91,13 +91,13 @@ iti.
 
 uktaṃ ca—
 
-	abhūtaṃ khyāpayaty arthaṃ bhūtam āvṛtya vartate |
-	avidyā jāyamānaiva kāmalātaṅkavṛttivat ||
+	<quote id="q1">abhūtaṃ khyāpayaty arthaṃ bhūtam āvṛtya vartate |
+	avidyā jāyamānaiva kāmalātaṅkavṛttivat</quote>
 
 iti. tad upadarśitaṃ ca pratītyasamutpannaṃ vasturūpaṃ saṃvṛtir ucyate. tad eva lokasaṃvṛtisatyam ity abhidhīyate, lokasyaiva saṃvṛtyā tat satyam iti kṛtvā. yad uktam—
 
-	mohaḥ svabhāvāvaraṇādi saṃvṛtiḥ satyaṃ tayā khyāti yad eva kṛtrimam |
-	jagāda tat saṃvṛtisatyam ity asau muniḥ padārthaṃ kṛtakaṃ ca saṃvṛtim ||
+	<quote id="q2">mohaḥ svabhāvāvaraṇādi saṃvṛtiḥ satyaṃ tayā khyāti yad eva kṛtrimam |
+	jagāda tat saṃvṛtisatyam ity asau muniḥ padārthaṃ kṛtakaṃ ca saṃvṛtim.</quote>
 
 iti.
 
@@ -105,8 +105,8 @@ iti.
 
 sā ca saṃvṛtir dvividhā lokata eva—tathyasaṃvṛtir mithyāsaṃvṛtiś ceti. tathā hi kiṃcit pratītyajātaṃ nīlādikaṃ vasturūpam adoṣavad indriyairūpalabdhaṃ lokata eva satyam, māyāmarīcipratibimbādviṣu pratītya samupajātam api doṣavad indriyopalabdhaṃ yathāsvaṃ tīrthikasiddhāntaparikalpitaṃ ca lokata eva mithyā. tad uktam—
 
-	vinopaghātena yadindriyāṇāṃ ṣaṇṇām api grāhyamavaiti lokaḥ |
-	satyaṃ hi tallokata evaṃ śeṣaṃ vikalpitaṃ lokata eva mithyā ||
+	<quote id="q1">vinopaghātena yadindriyāṇāṃ ṣaṇṇām api grāhyamavaiti lokaḥ |
+	satyaṃ hi tallokata evaṃ śeṣaṃ vikalpitaṃ lokata eva mithyā</quote>
 
 iti. 
 
@@ -120,11 +120,11 @@ paramaḥ uttamo 'rthaḥ paramārthaḥ, akṛtrimaṃ vasturūpam, yadadhigam�
 
 itthaṃ kāraṇānurūpaṃ kāryam icchatā kathaṃ niḥsvabhāvāt sasvabhāvasyotpattir abhyupetavyā? yad vakṣyati—
 
-	māyayā nirmitaṃ yacca hetubhiryacca nirmitam.
+	<quote id="ROOT">māyayā nirmitaṃ yac ca hetubhiryac ca nirmitam |
 	āyāti tatkutaḥ kutra yāti ceti nirūpyatām ||
 
-	yadanyasaṃnidhānena dṛṣṭaṃ na tadabhāvataḥ.
-	pratibimbasame tasmin kṛtrime satyatā katham ||
+	yad anyasaṃnidhānena dṛṣṭaṃ na tad abhāvataḥ |
+	pratibimbasame tasmin kṛtrime satyatā katham ||</quote>
 
 iti.
 
@@ -132,8 +132,8 @@ iti.
 
 uktaṃ ca—
 
-	yaḥ pratyayairjāyati sa hyajāto na tasya utpādu sabhāvato 'sti |
-	yaḥ pratyayādhīnu sa śūnya ukto yaḥ śūnyatāṃ jānati so 'pramattaḥ || [anavataptahradāpasaṃkramaṇasūtram]
+	<quote id="q1">yaḥ pratyayairjāyati sa hyajāto na tasya utpādu sabhāvato 'sti |
+	yaḥ pratyayādhīnu sa śūnya ukto yaḥ śūnyatāṃ jānati so 'pramattaḥ</quote> ||
 
 iti. iti śūnyebhya eva śūnyā dharmāḥ prabhavanti dharmebhya iti.
 
@@ -153,39 +153,39 @@ nāpy ahetuta iti vikalpaḥ, yato nāyaṃ prasajyapratiṣedhātmatayāhetuta 
 
 tasmān na svaparobhayarūpahetubhya utpadyante satsvabhāvā bhāvāḥ. tad uktam—
 
-	na svato nāpi parato na dvābhyāṃ nāpyahetutaḥ |
-	utpannā jātu vidyante bhāvāḥ kvacana kecana ||
+	<quote id="q1">na svato nāpi parato na dvābhyāṃ nāpyahetutaḥ |
+	utpannā jātu vidyante bhāvāḥ kvacana kecana</quote>
 
-iti. [ma. śā.1.3]
+iti.
 
 ---
 
 ekānekasvabhāvavicāraṇayāpi sarvabhāvānāṃ svabhāvavikalatvān na satsvabhāvatvam. tasmāt svapnamāyāpratibimbādivad idaṃpratyayatāmātram eva avicāramanoharam astu. kim iha sarvaduḥkhahetunā bhāvābhiniveśena prayojanam? ataḥ idam arthasya tattvam—
 
-	niḥsvabhāvā amī bhāvās tattvataḥ svaparoditāḥ |
-	ekānekasvabhāvena viyogāt pratibimbavat || [madhyamakālaṃkārakārikā—1]
+	<quote id="q1">niḥsvabhāvā amī bhāvās tattvataḥ svaparoditāḥ |
+	ekānekasvabhāvena viyogāt pratibimbavat ||</quote> 
 
 evaṃ niḥsvabhāvataiva sarvabhāvānāṃ nijaṃ pāramārthikaṃ rūpam avatiṣṭhate. tad eva pradhānapuruṣārthatayā paramārtha utkṛṣṭaṃ prayojanam abhidhīyate.
 
 ---
 
-atrāpi nābhiniveṣṭavyam. anyathā bhāvābhiniveśo vā śūnyatābhiniveśo veti na kaścidviśeṣaḥ, ubhayor api kalpanātmakatayā sāṃvṛtatvāt. na ca abhāvasya kalpitasvabhāvatayā kiṃcit svarūpam asti. na ca bhāvanivṛttirūpo 'bhāvaḥ, nivṛtterniḥsvabhāvatvāt. yadi ca bhāvasyaiva kaścit svabhāvaḥ syāt, tadā tatpratiṣedhātmā abhāvo 'pi syāt. bhāvasya tu svabhāvo nāstīti pratipāditameva. ato na bhāvanivṛttirūpaḥ abhāvo nāma kaścit. na ca bhāvābhāvayoruktakrameṇa asattve pratipādite tadubhayasaṃkīrṇātmatā saṃbhavati ubhayapratiṣedhasvabhāvatā vā, bhāvavikalpasyaiva sakalavikalpanibandhanatvāt. tasminnirākṛte sarva eva amī ekaprahāreṇa nirastā bhavantīti. tasmāt—
+atrāpi nābhiniveṣṭavyam. anyathā bhāvābhiniveśo vā śūnyatābhiniveśo veti na kaścidviśeṣaḥ, ubhayor api kalpanātmakatayā sāṃvṛtatvāt. na ca abhāvasya kalpitasvabhāvatayā kiṃcit svarūpam asti. na ca bhāvanivṛttirūpo 'bhāvaḥ, nivṛtterniḥsvabhāvatvāt. yadi ca bhāvasyaiva kaścit svabhāvaḥ syāt, tadā tatpratiṣedhātmā abhāvo 'pi syāt. bhāvasya tu svabhāvo nāstīti pratipāditameva. ato na bhāvanivṛttirūpaḥ abhāvo nāma kaścit. na ca bhāvābhāvayor uktakrameṇa asattve pratipādite tadubhayasaṃkīrṇātmatā saṃbhavati ubhayapratiṣedhasvabhāvatā vā, bhāvavikalpasyaiva sakalavikalpanibandhanatvāt. tasmin nirākṛte sarva eva amī ekaprahāreṇa nirastā bhavantīti. tasmāt—
 
-na sannāsanna sadasanna cāpyanubhayātmakam.
+	<quote id="q1">na san nāsan na sadasan na cāpy anubhayātmakam |</quote>
 
-kiṃcidabhiniveśaviṣayatayā mantavyam. tad uktam āryaprajñāpāramitāyām—
+kiṃcid abhiniveśaviṣayatayā mantavyam. tad uktam <title id="t1">āryaprajñāpāramitāyām</title>—
 
-subhūtir āha—ihāyuṣman śāradvatīputra bodhisattvayānikaḥ kulaputro vā kuladuhitā vā anupāyakuśalo rūpaṃ śūnyam iti prajānāti, saṅgaḥ. vedanāṃ śūnyām iti saṃjānāti, saṅgaḥ. saṃjñāṃ śūnyām iti saṃjānāti, saṅgaḥ. saṃskārān śūnyān iti saṃjānāti, saṅgaḥ. vijñānaṃ śūnyam iti saṃjānāti, saṅgaḥ. evaṃ cakṣuḥ śrotraṃ ghrāṇaṃ jivhā kāyo manaḥ, yāvat sarvadharmaśūnyatāṃ śūnyām iti saṃjānāti, saṅgaḥ. iti vistaraḥ.
+	<quote id="q2" titleid="t1">subhūtir āha—ihāyuṣman śāradvatīputra bodhisattvayānikaḥ kulaputro vā kuladuhitā vā anupāyakuśalo rūpaṃ śūnyam iti prajānāti, saṅgaḥ. vedanāṃ śūnyām iti saṃjānāti, saṅgaḥ. saṃjñāṃ śūnyām iti saṃjānāti, saṅgaḥ. saṃskārān śūnyān iti saṃjānāti, saṅgaḥ. vijñānaṃ śūnyam iti saṃjānāti, saṅgaḥ. evaṃ cakṣuḥ śrotraṃ ghrāṇaṃ jivhā kāyo manaḥ, yāvat sarvadharmaśūnyatāṃ śūnyām iti saṃjānāti, saṅgaḥ. iti vistaraḥ.</quote>
 
 uktaṃ ca—
 
-	sarvasaṃkalpahānāya śūnyatāmṛtadeśanā |
-	yasya(yaśca) tasyām api grāhastvayāsāvavasāditaḥ || [catuḥstavanirupama—21]
+	<quote id="q3">sarvasaṃkalpahānāya śūnyatāmṛtadeśanā |
+	yasya tasyām api grāhas tvayāsāvavasāditaḥ ||</quote>
 
 iti. 
 
-	na sannāsanna sadasanna cāpyanubhayātmakam |
-	catuṣkoṭivinirmuktaṃ tattvaṃ mādhyamikā viduḥ ||
+	<quote id="q4">na san nāsan na sadasan na cāpy anubhayātmakam |
+	catuṣkoṭivinirmuktaṃ tattvaṃ mādhyamikā viduḥ ||</quote>
 
 iti.
 
@@ -195,10 +195,10 @@ evaṃ catuṣkoṭivinirmuktamādiśāntamanutpannāniruddhānucchedāśāśvat
 
 satyadvayam idaṃ matam iti. kiṃ tat? saṃvṛtiḥ paramārthaś ceti paścādyojanīyam. bhūtamiyaṃ brāhmaṇī, āvapanamiyaṃ muṣṭiketi yathā. saṃvṛtirekaṃ satyamaviparītam, paramārthaś ca aparaṃ satyam iti. cakāraḥ satyatāmātreṇa tulyabalatāṃ samuccinoti. tatra saṃvṛtisatyamavitathaṃ rūpaṃ lokasya, paramārthasatyaṃ ca satyamavisaṃvādakaṃ tattvamāryāṇām iti viśeṣaḥ. itthaṃ viśeṣopadarśanārtho 'pi yuktaścakāraḥ.
 
-etad uktaṃ bhavati—sarva eva amī ādhyātmikā bāhyāś ca bhāvāḥ svabhāvadvayamābibhrataḥ samupajāyante yaduta sāṃvṛtaṃ pāramārthikaṃ ca. tatraikamavidyātimirāvṛtabuddhilocanānāmabhūtārthadarśināṃ pṛthagjanānāṃ mṛṣādarśanaviṣayatayā samādarśitātmasattākam. anyat pravicayāñjanaśalākoddhātitāvidyāpaṭalasamyagjñānanayanānāṃ tattvavidāmāryāṇāṃ samyagdarśanaviṣayatayā upasthitasvarūpam. tadetat svabhāvadvayaṃ sarve padārthā dhārayanti. anayoś ca svabhāvayormṛṣādṛśāṃ bāliśānāṃ yo viṣayaḥ, tat saṃvṛtisatyam. yaś ca samyagdṛśāmadhigatatattvānāṃ viṣayaḥ, tat paramārthasatyam iti vyavasthā śāstravidām. yad āha—
+etad uktaṃ bhavati—sarva eva amī ādhyātmikā bāhyāś ca bhāvāḥ svabhāvadvayamābibhrataḥ samupajāyante yaduta sāṃvṛtaṃ pāramārthikaṃ ca. tatraikamavidyātimirāvṛtabuddhilocanānāmabhūtārthadarśināṃ pṛthagjanānāṃ mṛṣādarśanaviṣayatayā samādarśitātmasattākam. anyat pravicayāñjanaśalākoddhātitāvidyāpaṭalasamyagjñānanayanānāṃ tattvavidāmāryāṇāṃ samyagdarśanaviṣayatayā upasthitasvarūpam. tadetat svabhāvadvayaṃ sarve padārthā dhārayanti. anayoś ca svabhāvayor mṛṣādṛśāṃ bāliśānāṃ yo viṣayaḥ, tat saṃvṛtisatyam. yaś ca samyagdṛśāmadhigatatattvānāṃ viṣayaḥ, tat paramārthasatyam iti vyavasthā śāstravidām. yad āha—
 
-	samyagmṛṣādarśanalabdhabhāvaṃ rūpadvayaṃ bibhrati sarvabhāvāḥ |
-	samyagdṛśāṃ yo viṣayaḥ sa tattvaṃ mṛṣādṛśāṃ saṃvṛtisatyam uktam || [ma. a.6.23]
+	<quote id="q1">samyagmṛṣādarśanalabdhabhāvaṃ rūpadvayaṃ bibhrati sarvabhāvāḥ |
+	samyagdṛśāṃ yo viṣayaḥ sa tattvaṃ mṛṣādṛśāṃ saṃvṛtisatyam uktam ||</quote>
 
 iti. 
 
@@ -206,99 +206,96 @@ iti.
 
 iti dvayoḥ samudāyo dvayam iti yujyate. matam iti saṃmatamabhimatam. keṣām? prahīṇāvaraṇadhiyāṃ buddhānāṃ bhagavatām, tanmārgānuyāyinām āryaśrāvakapratyekabuddhabodhisattvānāṃ ca. idam eva satyadvayaṃ nānyat satyam astīty avadhāraṇārtho 'pi yujyate cakāraḥ. tad uktam—
 
-	dve satye samupāśritya buddhānāṃ dharmadeśanā |
-	lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ || [ma. śā.—24.8]
+	<quote id="q1">dve satye samupāśritya buddhānāṃ dharmadeśanā |
+	lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ ||</quote>
 
-iti. pitāputrasamāgame coktam—
+iti. <title id="t1">pitāputrasamāgame</title> coktam—
 
-	satya ime duvi lokavidūnāṃ diṣṭa svayaṃ aśruṇitva pareṣām |
-	saṃvṛti yā ca tathā paramārtho satyu na sidhyati kiṃ ca tṛtīyu ||
+	<quote id="q2" titleid="t1">satya ime duvi lokavidūnāṃ diṣṭa svayaṃ aśruṇitva pareṣām |
+	saṃvṛti yā ca tathā paramārtho satyu na sidhyati kiṃ ca tṛtīyu ||</quote>
+
+iti.
+
+---
+
+nanu catvāry āryasatyāni duḥkhasamudayanirodhamārgalakṣaṇāny abhidharme kathitāni <author id="a1">bhagavatā</author>. tat kathaṃ dve eva satye iti? satyam, kiṃ tarhi vaineyajanāśayānuśayavaśād ete dve eva catvāri kṛtvā kathitāni, amīṣāṃ dvayor evāntarbhāvāt. tathā hi duḥkhasamudayamārgasatyāni saṃvṛtisvabhāvatayā saṃvṛtisatye 'ntarbhavanti. nirodhasatyaṃ tu paramārthasatye. iti na kaścid virodhaḥ.
+
+---
+
+syād etat—saṃvṛtir avidyopadarśitātmatayābhūtasamāropasvarūpatvād vicārāt śataśo viśīryamāṇāpi kathaṃ satyam iti? etad api satyam, kiṃ tu lokādhyavasāyataḥ saṃvṛtisatyam ity ucyate. loka eva hi saṃvṛtisatyam iha pratipannaḥ. tadanuvṛttyā bhagavadbhir api tathaivānapekṣitatattvārthibhiḥ saṃvṛtisatyam ucyate. ata eva lokasaṃvṛtisatyaṃ ceti śāstre 'pi viśeṣa ukta <author id="a1">ācāryapādaiḥ</author>. vastutas tu paramārtha eva ekaṃ satyam. ato na kācit kṣatir iti. yathoktaṃ <author id="a2">bhagavatā</author>—
+
+	<quote id="q1" authorid="a2">ekam eva bhikṣavaḥ paramaṃ satyam—yad uta apramoṣadharma nirvāṇam, sarvasaṃskārāś ca mṛṣā moṣadharmāṇaḥ.</quote>
 
 iti.
 
 ---
 
-nanu catvāry āryasatyāni duḥkhasamudayanirodhamārgalakṣaṇāny abhidharme kathitāni bhagavatā. tat kathaṃ dve eva satye iti? satyam, kiṃ tarhi vaineyajanāśayānuśayavaśād ete dve eva catvāri kṛtvā kathitāni, amīṣāṃ dvayor evāntarbhāvāt. tathā hi duḥkhasamudayamārgasatyāni saṃvṛtisvabhāvatayā saṃvṛtisatye 'ntarbhavanti. nirodhasatyaṃ tu paramārthasatye. iti na kaścid virodhaḥ.
+satyadvayam idam uktam. tatra avidyopaplutacetasāṃ tatsvabhāvatayā saṃvṛtisatyam iti pratītam. paramārthasatyaṃ tu na jñāyate kīdṛk kiṃsvabhāvaṃ kiṃlakṣaṇam iti. ato vaktavyaṃ tatsvarūpam ity āha buddher agocaras tattvam iti. buddheḥ sarvajñānānām samatikrāntasarvajñānaviṣayatvād agocaraḥ aviṣayaḥ. kenacit prakāreṇa tat sarvabuddhiviṣayīkartuṃ na śakyata iti yāvat. iti kathaṃ tatsvarūpaṃ pratipādayituṃ śakyam? tathā hi sarvaprapañcavinirmuktasvabhāvaṃ paramārthasatyatattvam. ataḥ sarvopādhiśūnyatvāt kathaṃ kayācit kalpanayā paśyet? kalpanāsamatikrāntasvarūpaṃ ca śabdānām aviṣayaḥ. vikalpajanmāno hi śabdā vikalpadhiyām aviṣaye na pravartitum utsahante. tasmāt sakalavikalpābhilāpavikalatvād anāropitam asāṃvṛtam anabhilāpyaṃ paramārthatattvaṃ katham iva pratipādayituṃ śakyate? tathāpi bhājanaśrotṛjanānugrahārthaṃ parikalpam upādāya saṃvṛtyā nidarśanopadarśanena kiṃcid abhidhīyate.
+
+yathā timiraprabhāvāt taimirikaḥ sarvam ākāśadeśaṃ keśoṇḍukamaṇḍitam itastato mukhaṃ vikṣipann api paśyati. tathā kurvantam avekṣya ataimirikaḥ kim ayaṃ karotīti tatsamīpam upasṛtya tadupalabdhakeśapraṇihitalocano 'pi na keśākṛtim upalabhate, nāpi tatkeśādhikaraṇān bhāvābhāvādiviśeṣān parikalpayati. yadā punar asau taimirikaḥ ataimirikāya svābhiprāyaṃ prakāśayati—keśān iha paśyāmīti, tadā tadvikalpāpasāraṇāya tasmai yathābhūtam asau bravīti—nātra keśāḥ santīti. taimirikopalabdhānurodhena pratiṣedhaparam eva vacanam āha. na ca tena tathā pratipādayatāpi kasyacit pratiṣedhaḥ kṛto bhavati vidhānaṃ vā. tac ca keśānāṃ tattvaṃ yad ataimirikaḥ paśyati, tan na taimirikaḥ.
 
 ---
 
-syād etat—saṃvṛtir avidyopadarśitātmatayābhūtasamāropasvarūpatvād vicārāt śataśo viśīryamāṇāpi kathaṃ satyam iti? etad api satyam, kiṃ tu lokādhyavasāyataḥ saṃvṛtisatyam ity ucyate. loka eva hi saṃvṛtisatyam iha pratipannaḥ. tadanuvṛttyā bhagavadbhir api tathaivānapekṣitatattvārthibhiḥ saṃvṛtisatyam ucyate. ata eva lokasaṃvṛtisatyaṃ ceti śāstre 'pi viśeṣa ukta ācāryapādaiḥ. vastutas tu paramārtha eva ekaṃ satyam. ato na kācit kṣatir iti. yathoktaṃ bhagavatā—
+evam avidyātimiropaghātād atattvadṛśo bālāḥ yad etat skandhadhātvāyatanādisvarūpam upalabhante, tad eṣāṃ sāṃvṛtaṃ rūpam. tān eva skandhādīn yena svabhāvena nirastasamastāvidyāvāsanā buddhā bhagavantaḥ paśyanty ataimirikopalabdhakeśadarśananyāyena, tad eṣāṃ paramārthasatyam iti. yad āha <author id="a1" type="generic">śāstravit</author>—
 
-	ekam eva bhikṣavaḥ paramaṃ satyam—yad uta apramoṣadharma nirvāṇam, sarvasaṃskārāś ca mṛṣā moṣadharmāṇaḥ.
+	<quote id="q1" authorid="a1">vikalpitaṃ yat timiraprabhāvāt keśādirūpaṃ vitathaṃ tad eva |
+	yenātmanā paśyati śuddhadṛṣṭis tat tattvam ity evam ihāpy avehi ||</quote>
 
 iti.
 
-resume
 ---
 
-satyadvayam idam uktam. tatra avidyopaplutacetasāṃ tatsvabhāvatayā saṃvṛtisatyam iti pratītam. paramārthasatyaṃ tu na jñāyate kīdṛk kiṃsvabhāvaṃ kiṃlakṣaṇam iti. ato vaktavyaṃ tatsvarūpam ity āha buddheragocarastattvam iti. buddheḥ sarvajñānānām, samatikrāntasarvajñānaviṣayatvādagocaraḥ aviṣayaḥ. kenacit prakāreṇa tat sarvabuddhiviṣayīkartuṃ na śakyate iti yāvat. iti kathaṃ tatsvarūpaṃ pratipādayituṃ śakyam? tathā hi sarvaprapañcavinirmuktasvabhāvaṃ paramārthasatyatattvam, ataḥ sarvopādhiśūnyatvāt kathaṃ kayācit kalpanayā paśyet? kalpanāsamatikrāntasvarūpaṃ ca śabdānāmaviṣayaḥ. vikalpajanmāno hi śabdā vikalpadhiyāmaviṣaye na pravartitumutsahante. tasmāt sakalavikalpābhilāpavikalatvādanāropitamasāṃvṛtamanabhilāpyaṃ paramārthatattvaṃ kathamiva pratipādayituṃ śakyate? tathāpi bhājanaśrotṛjanānugrahārthaṃ parikalpamupādāya saṃvṛtyā nidarśanopadarśanena kiṃcidabhidhīyate.
+iti paramārthato 'vācyam api paramārthatattvaṃ dṛṣṭāntadvāreṇa saṃvṛtim upādāya kathaṃcit kathitam, na tu tadaśeṣasāṃvṛtavyavahāravirahitasvabhāvaṃ vastuto vaktuṃ śakyate iti. yad uktam—
 
-yathā timiraprabhāvāt taimirikaḥ sarvamākāśadeśaṃ keśoṇḍukamaṇḍitamitastato mukhaṃ vikṣipann api paśyati. tathā kurvantamavekṣya ataimirikaḥ kimayaṃ karotīti tatsamīpamupasṛtya tadupalabdhakeśapraṇihitalocano 'pi na keśākṛtimupalabhate, nāpi tatkeśādhikaraṇān bhāvābhāvādiviśeṣān parikalpayati. yadā punar asau taimirikaḥ ataimirikāya svābhiprāyaṃ prakāśayati—keśān iha paśyāmīti, tadā tadvikalpāpasāraṇāya tasmai yathābhūtamasau bravīti—nātra keśāḥ santīti. taimirikopalabdhānurodhena pratiṣedhaparam eva vacanam āha. na ca tena tathā pratipādayatāpi kasyacit pratiṣedhaḥ kṛto bhavati vidhānaṃ vā. tac ca keśānāṃ tattvaṃ yadataimirikaḥ paśyati, tanna taimirikaḥ.
+	<quote id="q1">anakṣarasya dharmasya śrutiḥ kā deśanā ca kā |
+	śrūyate deśyate cārthaḥ samāropād anakṣaraḥ ||</quote>
 
----
+iti. tasmād vayavahārasatya eva sthitvā paramārtho deśyate. paramārthadeśanāvagamāc ca paramārthādhigamo bhavati, tasyāstad upāyatvāt. yad uktaṃ <title id="t1">śāstre</title>—
 
-evam avidyātimiropaghātādatattvadṛśo bālāḥ yadetat skandhadhātvāyatanādisvarūpam upalabhante, tadeṣāṃ sāṃvṛtaṃ rūpam. tān eva skandhādīn yena svabhāvena nirastasamastāvidyāvāsanā buddhā bhagavantaḥ paśyanti ataimirikopalabdhakeśadarśananyāyena, tadeṣāṃ paramārthasatyam iti. yad āha śāstravit—
+	<quote id="q2">vyavahāram anāgamya paramārtho na deśyate |
+	paramārtham anāgamya nirvāṇaṃ nādhigamyate ||</quote>
 
-	vikalpitaṃ yattimiraprabhāvāt keśādirūpaṃ vitathaṃ tadeva |
-	yenātmanā paśyati śuddhadṛṣṭistattattvamityevam ihāpyavehi ||
-
-iti. [m.a. 6.29]
-
----
-
-iti paramārthato 'vācyam api paramārthatattvaṃ dṛṣṭāntadvāreṇa saṃvṛtimupādāya kathaṃcit kathitam. na tu tadaśeṣasāṃvṛtavyavahāravirahitasvabhāvaṃ vastuto vaktuṃ śakyate iti. yad uktam—
-
-	anakṣarasya dharmasya śrutiḥ kā deśanā ca kā |
-	śrūyate deśyate cārthaḥ samāropādanakṣaraḥ ||
-
-iti. tasmād vayavahārasatye eva sthitvā paramārtho deśyate. paramārthadeśanāvagamācca paramārthādhigamo bhavati, tasyāstadupāyatvāt. yad uktaṃ śāstre—
-
-	vyavahāramanāgamya paramārtho na deśyate.
-	paramārthamanāgamya nirvāṇaṃ nādhigamyate ||
-
-iti. [ma. śā.—24.10]
+iti.
 
 ---
 
-evaṃ paramārthadeśanopāyabhūtā saṃvṛtiḥ, paramārthādhigamaś ca upeyabhūta iti. anyathā tasya deśayitumaśakyatvāt. nanu ca tathāvidham api tathāvidhabuddhiviṣayaḥ paramārthataḥ kiṃ na bhavatītyatrāha—buddhiḥ saṃvṛtir ucyate iti. sarvā hi buddhiḥ ālambananirālambanatayā vikalpasvabhāvā, vikalpaś ca sarva eva avidyāsvabhāvaḥ, avastugrāhitvāt. yad āha—
+evaṃ paramārthadeśanopāyabhūtā saṃvṛtiḥ, paramārthādhigamaś ca upeyabhūta iti, anyathā tasya deśayitum aśakyatvāt. nanu ca tathāvidham api tathāvidhabuddhiviṣayaḥ paramārthataḥ kiṃ na bhavatīty atrāha—buddhiḥ saṃvṛtir ucyate iti. sarvā hi buddhir ālambananirālambanatayā vikalpasvabhāvā, vikalpaś ca sarva eva avidyāsvabhāvaḥ, avastugrāhitvāt. yad āha—
 
-	vikalpaḥ svayamevāyamavidyārūpatāṃ gataḥ.
+	<quote id="q1">vikalpaḥ svayam evāyam avidyārūpatāṃ gataḥ |</quote>
 
-iti
+iti. avidyā ca saṃvṛtir iti naiva kācid buddhiḥ pāramārthikarūpagrāhiṇī paramārthato yujyate. anyathā sāṃvṛtabuddhigrāhyatayā paramārtharūpataiva tasya hīyeta, paramārthasya vastutaḥ sāṃvṛtajñānāviṣayatvāt. tatra ced amuktaṃ <author id="a1">bhagavatā</author> <title id="t1">āryasatyadvayāvatāre</title>—
 
-avidyā ca saṃvṛtiḥ. iti naiva kācid buddhiḥ pāramārthikarūpagrāhiṇī paramārthato yujyate. anyathā sāṃvṛtabuddhigrāhyatayā paramārtharūpataiva tasya hīyeta, paramārthasya vastutaḥ sāṃvṛtajñānāviṣayatvāt. tatra cedamuktaṃ bhagavatā āryasatyadvayāvatāre—
+	<quote id="q2" authorid="a1" titleid="t1">yadi hi devaputra paramārthataḥ paramārthasatyaṃ kāyavāṅyanasāṃ viṣayatām upagacchet, na tat paramārthasatyam iti saṃkhyāṃ gacchet. saṃvṛtisatyam eva tad bhavet. api tu devaputra paramārthasatyaṃ sarvavyavahārasamatikrāntam, nirviśeṣam, asamutpannamaniruddham, abhidheyābhidhānajñeyajñānavigatam, yāvat sarvākāravaropetasarvajñajñānaviṣayabhāvasamatikrāntaṃ paramārthasatyam.</quote>
 
----
-
-yadi hi devaputra paramārthataḥ paramārthasatyaṃ kāyavāṅyanasāṃ viṣayatāmupagacchet, na tat paramārthasatyam iti saṃkhyāṃ gacchet, saṃvṛtisatyam eva tadbhavet. api tu devaputra paramārthasatyaṃ sarvavyavahārasamatikrāntam, nirviśeṣam, asamutpannamaniruddham, abhidheyābhidhānajñeyajñānavigatam, yāvat sarvākāravaropetasarvajñajñānaviṣayabhāvasamatikrāntaṃ paramārthasatyam iti vistaraḥ.
+iti vistaraḥ.
 
 ---
 
-ata eva tadaviṣayaḥ sarvakalpanānāṃ yadbhāvābhāvasvaparabhāvasatyāsatyaśāśvatocchedanityānityasukhaduḥkhaśucyaśucyātmānātmaśūnyāśūnyalakṣyalakṣaṇaikatvānyatvotpādanirodhādayo viśeṣāstattvasya na saṃbhavanti, amīṣāṃ sāṃvṛtadharmatvāt. etad uktaṃ bhagavatā pitāputrasamāgame—
+ata eva tad aviṣayaḥ sarvakalpanānāṃ yad bhāvābhāvasvaparabhāvasatyāsatyaśāśvatocchedanityānityasukhaduḥkhaśucyaśucyātmānātmaśūnyāśūnyalakṣyalakṣaṇaikatvānyatvotpādanirodhādayo viśeṣās tattvasya na saṃbhavanti, amīṣāṃ sāṃvṛtadharmatvāt. etad uktaṃ <author id="a1">bhagavatā</author> <title id="t1">pitāputrasamāgame</title>—
 
-	etāvaccaiva jñeyam—yaduta saṃvṛtiḥ paramārthaśca. tacca bhagavatā śūnyataḥ sudṛṣṭaṃ suviditaṃ susākṣātkṛtam. tena sarvajña ity ucyate. tatra saṃvṛtirlokapracāratastathāgatena dṛṣṭā. yaḥ punaḥ paramārthaḥ, so 'nabhilāpyaḥ, anājñeyaḥ, aparijñeyaḥ, avijñeyaḥ, adeśitaḥ, aprakāśitaḥ, yāvadakriyaḥ, akaraṇaḥ, yāvanna lābho nālabho na sukhaṃ na duḥkhaṃ na yaśo nāyaśo na rūpaṃ nārūpam ityādi ||
+	<quote id="q1" authorid="a1" titleid="t1">etāvac caiva jñeyam—yad uta saṃvṛtiḥ paramārthaś ca. tac ca bhagavatā śūnyataḥ sudṛṣṭaṃ suviditaṃ susākṣātkṛtam. tena sarvajña ity ucyate. tatra saṃvṛtir lokapracāratas tathāgatena dṛṣṭā. yaḥ punaḥ paramārthaḥ, so 'nabhilāpyaḥ, anājñeyaḥ, aparijñeyaḥ, avijñeyaḥ, adeśitaḥ, aprakāśitaḥ, yāvad akriyaḥ, akaraṇaḥ, yāvan na lābho nālabho na sukhaṃ na duḥkhaṃ na yaśo nāyaśo na rūpaṃ nārūpam ityādi.</quote>
 
-iti pratyastamitasamastasāṃvṛtavastuviśeṣamaśeṣopādhiviviktamuktamanantavastuvistaravyāpijñānālokāvabhāsitāntarātmanā bhagavatā paramārthasatyam iti. tadetadāryāṇām eva svasaṃvidita svabhāvatayā pratyātmavedyam. atastadevātra pramāṇam. saṃvṛtisatyaṃ tu lokavyavahāramāśritya prakāśitam. tadevaṃ yathāvadvibhāgataḥ satyadvayaparijñānādaviparīto dharmapravicaya upajāyate ||
+iti pratyastamitasamastasāṃvṛtavastuviśeṣam aśeṣopādhiviviktamuktam anantavastuvistaravyāpijñānālokāvabhāsitāntarātmanā bhagavatā paramārthasatyam iti. tad etad āryāṇām eva svasaṃvidita svabhāvatayā pratyātmavedyam. atas tad evātra pramāṇam. saṃvṛtisatyaṃ tu lokavyavahāram āśritya prakāśitam. tad evaṃ yathāvad vibhāgataḥ satyadvayaparijñānād aviparīto dharmapravicaya upajāyate.
 
 ---
 
-evaṃ saṃvṛtiparamārthabhedena dvividhaṃ satyaṃ vyavasthāpya tadadhikṛtaś ca loko 'pi dvividha evetyupadarśayann āha—tatra loke ityādi—
+evaṃ saṃvṛtiparamārthabhedena dvividhaṃ satyaṃ vyavasthāpya, tadadhikṛtaś ca loko 'pi dvividha evety upadarśayann āha—tatra loka ityādi.
 
-	tatra loko dvidhā dṛṣṭo yogī prākṛtakastathā.
+	tatra loko dvidhā dṛṣṭo yogī prākṛtakas tathā |
 	tatra prākṛtako loko yogilokena bādhyate || Bca_9.3 ||
 
-tatra tayoḥ saṃvṛttiparamārthasatyayoradhikṛtaḥ vyavasthitaḥ. tatsatyapratipatteti yāvat. loko janaḥ. dvidhā dviprakāraḥ saṃvṛtiparamārthasatyavedī. loka iti samudāyavacanam, tena rāśidvayamity arthaḥ. dṛṣṭa iti pratipannaḥ, yukterāgamācca. kathaṃ kṛtvā dvidhety āha—yogī prākṛtakastatheti. yogaḥ samādhiḥ sarvadharmānupalambhalakṣaṇaḥ, so 'syāstīti yogī loka ityekaḥ prakāro rāśiḥ. tathā prakṛtiḥ saṃsārapravṛtteḥ kāraṇamavidyā tṛṣṇā, tasyā jāta iti prākṛtaḥ. prākṛta eva prākṛtako loka iti dvitīyaḥ. tatra yogī pradhānatattvamaviparītaṃ paśyati, prākṛtakaś ca viparyastaṃ vastutattvaṃ paśyati bhrāntatvāt.
+tatra tayoḥ saṃvṛttiparamārthasatyayor adhikṛtaḥ vyavasthitaḥ. tatsatyapratipatteti yāvat. loko janaḥ. dvidhā dviprakāraḥ saṃvṛtiparamārthasatyavedī. loka iti samudāyavacanam. tena rāśidvayam ity arthaḥ. dṛṣṭa iti pratipannaḥ, yukter āgamāc ca. kathaṃ kṛtvā dvidhety āha—yogī prākṛtakastatheti. yogaḥ samādhiḥ sarvadharmānupalambhalakṣaṇaḥ. so 'syāstīti yogī loka ity ekaḥ prakāro rāśiḥ. tathā prakṛtiḥ saṃsārapravṛtteḥ kāraṇam avidyā tṛṣṇā, tasyā jāta iti prākṛtaḥ. prākṛta eva prākṛtako loka iti dvitīyaḥ. tatra yogī pradhānatattvam aviparītaṃ paśyati, prākṛtakaś ca viparyastaṃ vastutattvaṃ paśyati, bhrāntatvāt.
 
-syād etat—ubhayor api yathāsvaṃ tattvadarśitvāt kataraḥ punar anayorbhrāntimānas tu ya evānyatareṇa bādhyate? kaḥ punar anayoḥ kena bādhyata ity āha—tatretyādi. tatreti saptamyā samudāyanirdeśaḥ, nirdhāraṇe ca saptamī. tatra tayor yogiprākṛtakayorlokayormadhye prākṛtako lokaḥ prākṛtakatvajātyā samudāyānnirdhāryate, nirdhārya ca bādhyate, iti bādhanaṃ vidhīyate. kenetyapekṣāyām āha—yogilokeneti. yogī eva lokaḥ yogilokaḥ, tena bādhyate iti viparyastamatirvyavasthāpyate. katham? dhīviśeṣeṇeti yojanīyam. na tu yogī prākṛtakena bādhyate.
+syād etat—ubhayor api yathāsvaṃ tattvadarśitvāt kataraḥ punar anayor bhrāntimān astu, ya evānyatareṇa bādhyate? kaḥ punar anayoḥ kena bādhyata ity āha—tatretyādi. tatreti saptamyā samudāyanirdeśaḥ. nirdhāraṇe ca saptamī. tatra tayor yogiprākṛtakayor lokayor madhye prākṛtako lokaḥ prākṛtakatvajātyā samudāyān nirdhāryate. nirdhārya ca bādhyata iti bādhanaṃ vidhīyate. kenety apekṣāyām āha—yogilokeneti. yogy eva lokaḥ yogilokaḥ, tena bādhyate iti viparyastamatir vyavasthāpyate. katham? dhīviśeṣeṇeti yojanīyam. na tu yogī prākṛtakena bādhyate.
 
 ---
 
-idamihābhimatam—yathā vibhramāhitasadbhāvaṃ timiropahatacakṣuṣaḥ asadbhūtakeśoṇḍukādidarśino jñānaṃ yathāvasthitavastutattvagrāhiṇo 'taimirikajñānena bādhyate, na tathā taimirikajñānena ataimirikajñānaṃ bādhyate, evam avidyāmalatimiradūṣitabuddhicakṣuṣo viparītavastusvarūpagrāhiṇaḥ prākṛtakasya jñānaṃ prajñāsalilakṣālitavigatamalānāsravajñānacakṣuṣaḥ bhāvanijatattvavedinaḥ yogilokasya jñānena bādhyate, na punar itarajñānena yogijñānam iti. tathā coktam—
+idam ihābhimatam—yathā vibhramāhitasadbhāvaṃ timiropahatacakṣuṣar asadbhūtakeśoṇḍukādidarśino jñānaṃ yathāvasthitavastutattvagrāhiṇo 'taimirikajñānena bādhyate, na tathā taimirikajñānenātaimirikajñānaṃ bādhyate, evam avidyāmalatimiradūṣitabuddhicakṣuṣo viparītavastusvarūpagrāhiṇaḥ prākṛtakasya jñānaṃ prajñāsalilakṣālitavigatamalānāsravajñānacakṣuṣaḥ bhāvanijatattvavedinaḥ yogilokasya jñānena bādhyate, na punar itar ajñānena yogijñānam iti. tathā coktam—
 
-	na bādhate jñānamataimirāṇāṃ yathopalabdhaṃ timirekṣaṇānām |
-	tathāmalajñānatiraskṛtānāṃ dhiyāsti bādhā na dhiyo 'malāyāḥ ||
+	<quote id="q1">na bādhate jñānam ataimirāṇāṃ yathopalabdhaṃ timirekṣaṇānām |
+	tathāmalajñānatiraskṛtānāṃ dhiyāsti bādhā na dhiyo 'malāyāḥ ||</quote>
 
-iti. [ma. a.—6. 27]
+iti.
 
 tasmāt prākṛtakajñānam eva bhrāntam iti bādhyate.
 
@@ -306,341 +303,486 @@ tasmāt prākṛtakajñānam eva bhrāntam iti bādhyate.
 
 atha kiṃ prākṛtā eva bādhyante yogibhiḥ, uta yogino 'pīty āha—bādhyanta ityādi—
 
-bādhyante dhīviśeṣeṇa yogino 'pyuttarottaraiḥ.
+	bādhyante dhīviśeṣeṇa yogino 'py uttarottaraiḥ |
 
-yogino 'pi yogibhiraparāparairbādhyante. na kevalaṃ prākṛtakā ity apiśabdārthaḥ. kiṃbhūtaiḥ? uttarottaraiḥ. uttare ca uttare ca uttarottarāḥ, taiḥ. tāratamyabhedāvasthitaguṇaviśeṣapratilambhotkarṣaprāptaiḥ. adhikādhikairity arthaḥ. tadapekṣayā apacitaguṇā adharādhare bādhyante, jñānamāhātmyādibhirabhibhūyante. katham? dhīviśeṣeṇeti. dhiyo jñānasya prajñāyā viśeṣaḥ tattadāvaraṇavigamāt prakarṣaḥ, tena. upalakṣaṇaṃ caitat. dhyānasamādhisamāpattyādiviśeṣeṇāpi. tathā hi—pramuditākhyaprathamabhūmilābhino bodhisattvasya jñānādiguṇāpekṣayā taduttaravimalābhidhānadvitīyabhūmilābhino bodhisattvasya jñānaprabhāvādayo guṇā viśiṣyante. evam anyeṣām api uttarottarabhūmilābhināṃ veditavyam. tathā prathamadhyānādilābhinām api uttarottarairbādhanaṃ yojanīm, yāvat sāsravāṇāmanāsravair iti ||
+yogino 'pi yogibhir aparāparair bādhyante. na kevalaṃ prākṛtakā ity apiśabdārthaḥ. kiṃbhūtaiḥ? uttarottaraiḥ. uttare ca uttare ca uttarottarāḥ, taiḥ. tāratamyabhedāvasthitaguṇaviśeṣapratilambhotkarṣaprāptaiḥ, adhikādhikair ity arthaḥ. tadapekṣayāpacitaguṇādharādhare bādhyante, jñānamāhātmyādibhir abhibhūyante. katham? dhīviśeṣeṇeti. dhiyo jñānasya prajñāyā viśeṣas tattadāvaraṇavigamāt prakarṣaḥ, tena. upalakṣaṇaṃ caitat—dhyānasamādhisamāpattyādiviśeṣeṇāpi. tathā hi pramuditākhyaprathamabhūmilābhino bodhisattvasya jñānādiguṇāpekṣayā taduttaravimalābhidhānadvitīyabhūmilābhino bodhisattvasya jñānaprabhāvādayo guṇā viśiṣyante. evam anyeṣām api uttarottarabhūmilābhināṃ veditavyam. tathā prathamadhyānādilābhinām api uttarottarair bādhanaṃ yojanīm, yāvat sāsravāṇām anāsravair iti.
 
 ---
 
-syād etat—saty api yogināṃ dhiyo viśeṣe prākṛtajñānaṃ bhrāntam iti kathamavagamayituṃ śakyata ity āha dṛṣṭāntenobhayeṣṭeneti—
+syād etat—saty api yogināṃ dhiyo viśeṣe prākṛtajñānaṃ bhrāntam iti katham avagamayituṃ śakyata ity āha—dṛṣṭāntenobhayeṣṭeneti.
 
-dṛṣṭāntenobhayeṣṭena kāryārthamavicārataḥ || Bca_9.4 ||
+	dṛṣṭāntenobhayeṣṭena kāryārtham avicārataḥ || Bca_9.4 ||
 
-ubhayeṣāṃ yogiprākṛtakānāmiṣṭaḥ abhimataḥ, tena dṛṣṭāntena nidarśanena. ya eṣa sūtreṣu bhagavatā māyāmarīcigandharvanagarapratibimbādirukto dṛṣṭāntaḥ, sa ca ubhayeṣām api niḥsvabhāvatayā prasiddhaḥ. tatsādharmyeṇa sarvadharmāṇāṃ niḥsvabhāvatvapratipādanāt. tathā hi—ye tāvat sarvajanapratipannasvarūpā rūpādayaḥ, te yoginām eva paramārthasatyādhigamānniḥsvabhāvatayā siddhāḥ. ye punar ime svapnamāyādiṣu upalabdhāḥ, te prākṛtakānām api. atastatra ubhayor api vipratipatterabhāvāt dṛṣṭāntadharmatā na vihanyate. yeṣāṃ tu mīmāṃsakādīnāṃ deśakālānyathātmakaṃ vastu eva tattathā pratibhāsate iti matam, te 'nyatra nirākṛtā iti na tanmatam iha nirasyate. ye tu svayūthyāḥ cittam eva vastusat svapnādiṣu tathā pratibhāsate iti manyante, te 'pi yathāvasaramagrataḥ [9.17—18] svasaṃvedananirākaraṇānnirākariṣyante. yuktisiddham api ubhayasiddhameva. atastena dṛṣṭāntena viparītavastusvarūpagrāhitayā prākṛtakajñānaṃ bhrāntam iti vyavasthāpyate. evaṃ yoginām api yathāsaṃbhavaṃ vaktavyam ||
+ubhayeṣāṃ yogiprākṛtakānām iṣṭaḥ abhimataḥ, tena dṛṣṭāntena nidarśanena. ya eṣa sūtreṣu <author id="a1">bhagavatā</author> māyāmarīcigandharvanagarapratibimbādir ukto dṛṣṭāntaḥ, sa cobhayeṣām api niḥsvabhāvatayā prasiddhaḥ, tatsādharmyeṇa sarvadharmāṇāṃ niḥsvabhāvatvapratipādanāt. tathā hi ye tāvat sarvajanapratipannasvarūpā rūpādayaḥ, te yoginām eva paramārthasatyādhigamān niḥsvabhāvatayā siddhāḥ. ye punar ime svapnamāyādiṣūpalabdhāḥ, te prākṛtakānām api. atas tatra ubhayor api vipratipatter abhāvāt, dṛṣṭāntadharmatā na vihanyate. yeṣāṃ tu mīmāṃsakādīnāṃ deśakālānyathātmakaṃ vastu eva tat tathā pratibhāsata iti matam, te 'nyatra nirākṛteti na tanmatam iha nirasyate. ye tu svayūthyāś cittam eva vastusat svapnādiṣu tathā pratibhāsata iti manyante, te 'pi yathāvasaram agrataḥ svasaṃvedananirākaraṇān nirākariṣyante. yuktisiddham api ubhayasiddham eva. atas tena dṛṣṭāntena viparītavastusvarūpagrāhitayā prākṛtakajñānaṃ bhrāntam iti vyavasthāpyate. evaṃ yoginām api yathāsaṃbhavaṃ vaktavyam.
 
 nanu yadi niḥsvabhāvāḥ sarvabhāvā iti vastutattvam, kathaṃ tarhi sarvasattvasamuddharaṇāśayena dānādiṣu saṃbhāraparipūraṇārthaṃ tattvavedinām api bodhisattvānāṃ pravṛttiḥ? teṣām api niḥsvabhāvatvāt, ity ata āha—kāryārthamavicārataḥ iti. kāryaṃ sādhyam, upādeyam. phalam ucyate. tadarthaṃ tannimittam. avicārataḥ avicāreṇaiva taddhetau pravartanāt. tathābhūteṣv api tatra idaṃpratyayatāniyamasya vidyamānatvāt na hetuphalabhāvasya virodhaḥ. etad uktaṃ bhavati—yady api māyādisvabhāvatayā niḥsvabhāvā dānādayaḥ, tathāpi trikoṭipariśuddhyā sādarādiyogena abhyasyamānāḥ tathābhūtā api paramārthādhigamāya hetubhāvamāpadyante, teṣāṃ tadupāyatvāt, pratītyasamutpādasya ca acintyatvāt. etādṛśād eva hetoretādṛśaṃ phalamadhigamyate, tasya tadupeyatvāt. tad uktam—
 
-	upāyabhūtaṃ vyavahārasatyamupeyabhūtaṃ paramārthasatyam.
+	<quote id="q1">upāyabhūtaṃ vyavahārasatyam upeyabhūtaṃ paramārthasatyam |</quote>
 
-iti. [ma. a.—6.80]
+iti.
 
-avaśyaṃ caitad evam. anyathā mārgābhyāsataḥ samalāvasthāyā nirmalāvasthā, savikalpāvasthāyā nirvikalpāvasthā kathamutpadyeta? tasyāḥ paramārthatastatsvabhāvatvāt. anyatrāpi samānametat. sarvadharmāṇāṃ paramārthato niḥsvabhāvatvāt hetvanurūpaṃ ca sarvatra phalamiṣyate. ataḥ sāṃvṛtād api niḥsvabhāvāddhetoḥ niḥsvabhāvatādhigama eva phalam, kathamanyathā saṃskṛtād api mārgādaṃsaṃskṛtaṃ nirvāṇamavāpyeta? iti dānādayo vastuto niḥsvabhāvā api paramārthatattvādhigamāya sarvasattveṣu karuṇāyamānairbodhisattvairupādīyante, anyathā paramārthādhigamāyogāt. tato dānādiṣu pravṛttiranivāritā. evam iṣṭāniṣṭaphalaprāptiparihārārthināṃ kuśalākuśalayoḥ pravṛttinivṛttī vaktavye. etat punaḥ paścādvayaktīkariṣyate ||
+avaśyaṃ caitad evam. anyathā mārgābhyāsataḥ samalāvasthāyā nirmalāvasthā, savikalpāvasthāyā nirvikalpāvasthā katham utpadyeta, tasyāḥ paramārthatas tatsvabhāvatvāt, anyatrāpi samānametat. sarvadharmāṇāṃ paramārthato niḥsvabhāvatvāt, hetvanurūpaṃ ca sarvatra phalam iṣyate. ataḥ sāṃvṛtād api niḥsvabhāvād dhetoḥ niḥsvabhāvatādhigama eva phalam, katham anyathā saṃskṛtād api mārgādaṃsaṃskṛtaṃ nirvāṇam avāpyeta? iti dānādayo vastuto niḥsvabhāvā api paramārthatattvādhigamāya sarvasattveṣu karuṇāyamānair bodhisattvair upādīyante, anyathā paramārthādhigamāyogāt. tato dānādiṣu pravṛttir anivāritā. evam iṣṭāniṣṭaphalaprāptiparihārārthināṃ kuśalākuśalayoḥ pravṛttinivṛttī vaktavye. etat punaḥpaścād vyaktīkariṣyate.
 
 ---
 
-syād etat—yadetanmāyādisamānasvabhāvaṃ vasturūpaṃ yoginaḥ pratipadyante, tad eva yadi prākṛtako 'pi janaḥ pratipadyate, kva tarhi vipratipattir astīty āha lokenetyādi—
+syād etat—yad etan māyādisamānasvabhāvaṃ vasturūpaṃ yoginaḥ pratipadyante, tad eva yadi prākṛtako 'pi janaḥ pratipadyate, kva tarhi vipratipattir astīty āha lokenetyādi—
 
-	lokena bhāvā dṛśyante kalpyante cāpi tattvataḥ.
+	lokena bhāvā dṛśyante kalpyante cāpi tattvataḥ |
 	na tu māyāvad ity atra vivādo yogilokayoḥ || Bca_9.5 ||
 
-lokena prākṛtakajanena. hetupratyayaṃ pratītya bhavanti svarūpaṃ labhante iti bhāvāḥ. na punaḥ pāramārthikaṃ rūpaṃ nijameṣām asti, iti bhāvaśabdena niḥsvabhāvatābhidhānaṃ pratīyate. satsvarūpeṇa na kevalaṃ dṛśyante kalpyante cāpi tattvataḥ. yathāpratītasvabhāvenaiva paramārthato 'dhyavasīyante. abhiniviśyante iti yāvat. yadetadasmatpratītigocaro vasturūpam, tadvāstavam eve tyabhimananāt. na tu māyāvat, na tu punar yathā yoginā māy eva māyāvat svabhāvaśūnyā dṛśyante, paramārthatastathā pratīyante, ity atrāsmin vivādo vipratipattiryogilokayoḥ yoginā saha lokasyetyarthaḥ. tatpratipanne vastuttattve lokasyāpratipatteḥ lokena saha vā yoginaḥ, tatpratipanne yoginā yathārthatāpratiṣedhāt. ayamabhiprāyaḥ—sarvabhāvānāṃ sāṃvṛtaṃ pāramārthikaṃ ceti rūpadvayam asti, tatra yat sāṃvṛtaṃ tadeva lokena pratīyate, yattu pāramārthikaṃ tad yoginetyuktam. yathā māyākāranirmitahastyādirūpam eva mantrādisāmarthyavibhramitalocano janaḥ paśyati, māyākāras tu tatsvabhāvādi nijaṃ tatsvarūpam, evaṃ yogilokayor api yathāyogaṃ pratipattavyam ||
+lokena prākṛtakajanena. hetupratyayaṃ pratītya bhavanti, svarūpaṃ labhante iti bhāvāḥ. na punaḥ pāramārthikaṃ rūpaṃ nijam eṣām asti, iti bhāvaśabdena niḥsvabhāvatābhidhānaṃ pratīyate. satsvarūpeṇa na kevalaṃ dṛśyante kalpyante cāpi tattvataḥ. yathāpratītasvabhāvenaiva paramārthato 'dhyavasīyante, abhiniviśyanta iti yāvat, yad etad asmatpratītigocaro vasturūpam, tad vāstavam evety abhimananāt. na tu māyāvat, na tu punar yathā yoginā māyeva māyāvat svabhāvaśūnyā dṛśyante, paramārthatas tathā pratīyanta ity atrāsmin vivādo vipratipattir yogilokayoḥ yoginā saha lokasyety arthaḥ. tatpratipanne vastuttattve lokasyāpratipatteḥ lokena saha vā yoginaḥ, tatpratipanne yoginā yathārthatāpratiṣedhāt.
+
+ayam abhiprāyaḥ—sarvabhāvānāṃ sāṃvṛtaṃ pāramārthikaṃ ceti rūpadvayam asti. tatra yat sāṃvṛtaṃ tad eva lokena pratīyate. yat tu pāramārthikaṃ tad yoginety uktam. yathā māyākāranirmitahastyādirūpam eva mantrādisāmarthyavibhramitalocano janaḥ paśyati. māyākāras tu tatsvabhāvādi nijaṃ tatsvarūpam. evaṃ yogilokayor api yathāyogaṃ pratipattavyam.
 
 ---
 
-athāpi syāt—yadetat samastajanasādhāraṇamarthakriyākṣamaṃ pratyakṣapramāṇapratītaṃ vasturūpam, tat kathamapahrotuṃ śakyata iti parasya hṛdayamāśaṅkayāha pratyakṣamapītyādi—
+athāpi syāt—yad etat samastajanasādhāraṇam arthakriyākṣamaṃ pratyakṣapramāṇapratītaṃ vasturūpam, tat katham apahrotuṃ śakyata iti parasya hṛdayam āśaṅkyāha—pratyakṣam apītyādi.
 
-	pratyakṣam api rūpādi prasiddhayā na pramāṇataḥ.
+	pratyakṣam api rūpādi prasiddhyā na pramāṇataḥ |
 
-yad api ca pratyakṣamabhidhīyate rūpādi. ādiśabdena śabdādi vedanādi gṛhyate. tad api prasiddhayā rūḍhyā lokapravādena na pramāṇataḥ. na pramāṇenādhigataṃ sat pratyakṣaṃ rūpādīti saṃbandhaḥ. sāṃvyavahārikapramāṇatvāt pratyakṣādīnām, tadadhigataṃ sāṃvṛtam eva rūpādi. na ca laukikapramāṇasamadhigamyaṃ tāttvikaṃ rūpam, sarvajanānāṃ tattvaveditvaprasaṅgāt. yad āha—
+yad api ca pratyakṣam abhidhīyate rūpādi. ādiśabdena śabdādi vedanādi gṛhyate. tad api prasiddhyā rūḍhyā lokapravādena. na pramāṇataḥ na pramāṇenādhigataṃ sat pratyakṣaṃ rūpādīti saṃbandhaḥ. sāṃvyavahārikapramāṇatvāt pratyakṣādīnām, tadadhigataṃ sāṃvṛtam eva rūpādi. na ca laukikapramāṇasamadhigamyaṃ tāttvikaṃ rūpam, sarvajanānāṃ tattvaveditvaprasaṅgāt. yad āha—
 
-	indriyairupalabdhaṃ yattattattvena bhavedyadi.
-	jātāstattvavido bālāstattvajñānena kiṃ tadā ||
+	<quote id="q1">indriyair upalabdhaṃ yat tat tattvena bhaved yadi |
+	jātās tattvavido bālās tattvajñānena kiṃ tadā ||</quote>
 
-iti. [catuḥ 3.18]
+iti. 
 
-tasmāt pratyakṣam api na pramāṇenādhigatam ||
-
----
-
-rūpādi tattvaṃ pratyakṣam api yadi na pramāṇādhigatam, kathaṃ tatprasiddhiḥ? prasiddhiścet kathaṃ mṛṣetyatrāha aśucyādiṣvityādi—
-
-aśucyādiṣu śucyādiprasiddhiriva sā mṛṣā || Bca_9.6 ||
-
-yathā ca paramārthato 'śucini strīkalevarādau tadāsaktiviparyastacetasāṃ śucibuddhirupajāyate. ādiśabdādanityādau nityādibuddhirgṛhyate. sā ca atasmiṃstadgahānmṛṣā. vitathagrāhiṇītyarthaḥ. tadvadiyaṃ rūpādāvapītyaviśeṣaḥ ||
-
-yadi na pratyakṣapramāṇāt tatsiddhiḥ, āgamāttarhi bhaviṣyati. tathā hi skandhadhātvāyatanādisvabhāvatayā bhagavatā bhāvāḥ sūtre deśitāḥ, kṣaṇikādisvabhāvatayā ca. tatredamuktaṃ bhagavatā—
-
-sarvaṃ sarvam iti brāhmaṇa yāvad eva pañca skandhāḥ, dvādaśāyatanāni, aṣṭādaśaḥ dhātavaḥ. iti.
-
-tathā—
-
-	kṣaṇikāḥ sarvasaṃskārā asthirāṇāṃ kutaḥ kriyā.
-	bhūtiryaiṣāṃ kriyā saiva kārakaṃ saiva cocyate ||
-
-iti ||
+tasmāt pratyakṣam api na pramāṇenādhigatam.
 
 ---
 
-na ca māyādisvabhāvānāṃ kṣaṇikākṣaṇikādidharmatāpratipādanamucitam, niḥsvabhāvānāṃ kasyacit svabhāvasyābhāvāt. tatkathamamī na paramārthasanta ity atrāha lokāvatāraṇetyādi—
+rūpādi tattvaṃ pratyakṣam api yadi na pramāṇādhigatam, kathaṃ tatprasiddhiḥ? prasiddhiś cet kathaṃ mṛṣety atrāha—aśucyādiṣvityādi.
 
-	lokāvatāraṇārthaṃ ca bhāvā nāthena deśitāḥ.
-	tattvataḥ kṣaṇikā naite saṃvṛtyā cedvirudhyate || Bca_9.7 ||
+	aśucyādiṣu śucyādiprasiddhiriva sā mṛṣā ||
 
-lokānāṃ bhāvābhiniveśināṃ skandhādideśanāvaineyānāṃ sattvānāmāpātataḥ śūnyatādeśanānadhikṛtānāṃ śūnyatāyāmavatāraṇārthaṃ sukumāropakrameṇa pravartanāya. co hetau. yasmādbhāvāḥ skandhāyatanādilakṣaṇāḥ, vastuto niḥsvabhāvatve 'pi sarvadharmāṇām, nāthena narakādiduḥkhāt sattvān paritrāyamāṇena abhyudayaniḥśreyasasukhaṃ prāpayatā sattvāśayādivedinā buddhena bhagavatā deśitāḥ prakāśitāḥ, na tu paramārthataḥ. tasmān na sūtravirodhaḥ. tad uktam—
+yathā ca paramārthato 'śucini strīkalevarādau tadāsaktiviparyastacetasāṃ śucibuddhir upajāyate. ādiśabdād anityādau nityādibuddhir gṛhyate. sā cātasmiṃs tadgahān mṛṣā, vitathagrāhiṇīty arthaḥ. tadvad iyaṃ rūpādāv apīty aviśeṣaḥ. 
 
-	mametyaham iti proktaṃ yathā kāryavaśājjinaiḥ |
-	tathā kāryavaśātproktāḥ skandhāyatanadhātavaḥ ||
+yadi na pratyakṣapramāṇāt tatsiddhiḥ, āgamāt tarhi bhaviṣyati. tathā hi skandhadhātvāyatanādisvabhāvatayā bhagavatā bhāvāḥ sūtre deśitāḥ, kṣaṇikādisvabhāvatayā ca. tatredam uktaṃ <author id="a1">bhagavatā</author>—
 
-iti. [yuktiṣaṣṭikā]
+	<quote id="q1" authorid="a1">sarvaṃ sarvam iti brāhmaṇa yāvad eva pañca skandhāḥ, dvādaśāyatanāni, aṣṭādaśaḥ dhātavaḥ.</quote>
 
-yadi na paramārthato deśitāḥ, kathaṃ tarhi te kṣaṇikā ity āha—tattvataḥ kṣaṇikā naite iti. tattvataḥ paramārthataḥ niḥsvabhāvatvāt kṣaṇikā api na bhavanti ete ime bhāvāḥ. kśaṇikādideśanā vaineyānāṃ tatsvabhāvatāprakāśanāt. yadi na tattvataḥ kṣaṇikāḥ, kathaṃ tarhi deśanāyām api kathitā iti manasi nidhāya [āha] saṃvṛtyā cet [iti]—yadi saṃvṛtyā kṣaṇikā abhidhīyanta ity ucyate, ity uttaramāśaṅkaya dūṣayati, tadā virudhyate, saṃvṛtyā kṣaṇikā na paramārthataḥ iti virudhyate na saṃgacchate. akṣaṇikatayā pratīteḥ pratītivirodhaḥ, sāṃvyavahāribhirakṣaṇikatvapratīteḥ na kṣaṇikatvaṃ sāṃvṛtaṃ rūpam iti yāvat ||
+iti. tathā—
 
----
+	<quote id="q2">kṣaṇikāḥ sarvasaṃskārā asthirāṇāṃ kutaḥ kriyā |
+	bhūtir yaiṣāṃ kriyā saiva kārakaṃ saiva cocyate ||</quote>
 
-etat siddhāntavādī pariharati na doṣo yogisaṃvṛtyeti—
-
-	na doṣo yogisaṃvṛtyā lokātte tattvadarśinaḥ.
-	anyathā lokabādhā syād aśucistrīnirūpaṇe || Bca_9.8 ||
-
-nāyaṃ pratītivirodhalakṣaṇo doṣaḥ. kutaḥ? yogināṃ pudgalanairātmyasamādhilābhināṃ yā saṃvṛtirvyavahāraḥ, tayā kṣaṇikatayā pratīteḥ. ayamabhiprāyaḥ—yadi nāma arvāgdarśanaiḥ kṣaṇikatvaṃ na pratīyate, tathāpi yogivyavahāragocaraḥ. yogivyavahāro 'pi saṃvṛtirūpatāṃ na jahāti, buddhiḥ saṃvṛtirūcyate [9.2] iti vacanāt. na ca pratītibādhitaṃ bādhitameva, tathāvidhāyāḥ pratīterapramāṇatvāt.
-
-kutaḥ punar etat sāṃvṛtam api kṣaṇikatvādi yogina eva paśyanti nārvāgdarśina ity āha—lokātte tattvadarśina iti. lokādarvācīnadarśanāt sakāśāt te yoginastattvadarśinaḥ atīndriyadarśinaḥ. hetupadametat. yasmāt tattvadarśinaste, tasmāt kṣaṇikatvanairātmyādi lokāpratītam api pratipadyante. ata eva na teṣāṃ lokapratītibādhā.
+iti.
 
 ---
 
-avaśyaṃ caitad aṅgīkartavyam ity āha—anyathetyādi. anyathā yadi caivaṃ na svīkriyate, tadā bhavadabhyupagate 'pi lokabādhā syāt. kutra? aśucistrīnirūpaṇe iti. aśucibhāvanāsamaye aśucīti striyāḥ kāminyā nirūpaṇe vibhāvanāyāṃ lokabādhā syāt, lokapratītena virodho bhavet, lokena śucisvabhāvatayā strīśarīrasyādhyavasānāt. tasmān na lokapratītena yogidarśanabādheti. atra—
+na ca māyādisvabhāvānāṃ kṣaṇikākṣaṇikādidharmatāpratipādanam ucitam, niḥsvabhāvānāṃ kasyacit svabhāvasyābhāvāt. tatkatham amī na paramārthasanta ity atrāha—lokāvatāraṇetyādi.
 
-yathopalabdhaṃ timirekṣaṇānam
+	lokāvatāraṇārthaṃ ca bhāvā nāthena deśitāḥ |
+	tattvataḥ kṣaṇikā naite saṃvṛtyā ced virudhyate ||
 
-ityādinā upacayahetutvena yojanīyam. iti nāgamād api bhāvānāṃ paramārthataḥ siddhir asti. tasmān māyāsvapnādisvabhāvāḥ sarvadharmā iti niścitametat ||
+lokānāṃ bhāvābhiniveśināṃ skandhādideśanāvaineyānāṃ sattvānām āpātataḥ śūnyatādeśanānadhikṛtānāṃ śūnyatāyām avatāraṇārthaṃ sukumāropakrameṇa pravartanāya. co hetau. yasmād bhāvāḥ skandhāyatanādilakṣaṇāḥ, vastuto niḥsvabhāvatve 'pi sarvadharmāṇām, nāthena narakādiduḥkhāt sattvān paritrāyamāṇenābhyudayaniḥśreyasasukhaṃ prāpayatā sattvāśayādivedinā buddhena bhagavatā deśitāḥ prakāśitāḥ, na tu paramārthataḥ. tasmān na sūtravirodhaḥ. tad uktam—
 
----
+	<quote id="q1">mamety aham iti proktaṃ yathā kāryavaśāj jinaiḥ |
+	tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ ||</quote>
 
-syād etat—yadi sarvavyāpinī māyopamasvabhāvatā, buddho 'pi tarhi māyopamaḥ svapnopamaḥ syāt. uktaṃ caitad bhagavatyām—
+iti.
 
-evam ukte subhūtistān devaputrānetadavocat—māyopamāste devaputrāḥ sattvāḥ. svapnopamāste devaputrāḥ sattvāḥ. iti hi māyā ca sattvāś ca advayametadadvaidhīkāram. sarvadharmā api devaputrā māyopamāḥ svapnopamāḥ. strotaāpanno 'pi māyopamaḥ svapnopamaḥ. strotaāpattiphalam api māyopamaṃ svapnopamam. evaṃ sakṛdāgāmy api sakṛdāgāmiphalam api. anāgāmy api anāgāmiphalam api. arhann api arhattvam api māyopamaṃ svapnopamam. pratyekabuddho 'pi māyopamaḥ svapnopamaḥ. pratyekabuddhatvam api māyopamaṃ svapnopamam. samyaksaṃbuddho 'pi māyopamaḥ svapnopamaḥ. samyaksaṃbuddhatvam api māyopamaṃ svapnopamam. yāvat nirvāṇam api māyopamaṃ svapnopamam. sacennirvāṇād api kaścid dharmo viśiṣṭataraḥ syāt, tam apy ahaṃ māyopamaṃ svapnopamaṃ vadāmi ||
-
----
-
-evaṃ kathaṃ tatra satkārāpakārayoḥ puṇyapāpasamudbhava iti parasyābhiprāyamāśaṅkayann āha māyopamādityādi—
-
-māyopamājjinātpuṇyaṃ sadbhāve 'pi kathaṃ yathā.
-
-yadi bhagavān api māyopamasvabhāvaḥ, tadā māyopamānniḥsvabhāvājjinādbhagavataḥ puṇyaṃ sukṛtaṃ pūjāsatkārapādavandanādibhiḥ kathaṃ yathā kathamiveti manyase? upalakṣaṇaṃ caitat. pāpam api tadapakāre katham iti draṣṭavyam. na hi māyākāranirmitapuruṣasatkārāpakārayoḥ puṇyapāpaprasūtiryukteti parasyā bhiprāyaḥ. atra prāguktamevottaram. tathātra param eva paripṛcchati—sadbhāve 'pi kathaṃ yatheti. sadbhāve 'pi paramārthasatyatve 'pi bhagavataḥ kathamiva puṇyam? kathaṃ yathetyubhayatrāpi yojanīyam. ayamabhiprāyaḥ—yathā kasyacit paramārthasato jināt paramārthasat puṇyamupajāyate, tathā anyasya māyopamānmāyopamamevetyāvayorna kaścid viśeṣaḥ, idaṃpratyayatāmātrasyobhayasādhāraṇatvāt. iti yadevottaraṃ bhavatām, tadevāsmākam api, nātiricyate kiṃcit. na ca yuktisiddhaṃ paramārthasad vastusvarūpaṃ kiṃcid astīti pratipāditam ||
+yadi na paramārthato deśitāḥ, kathaṃ tarhi te kṣaṇikā ity āha—tattvataḥ kṣaṇikā naita iti. tattvataḥ paramārthataḥ niḥsvabhāvatvāt kṣaṇikāpi na bhavanty ete ime bhāvāḥ. kśaṇikādideśanā vaineyānāṃ tatsvabhāvatāprakāśanāt. yadi na tattvataḥ kṣaṇikāḥ, kathaṃ tarhi deśanāyām api kathitā iti manasi nidhāya saṃvṛtyā cet—yadi saṃvṛtyā kṣaṇikā abhidhīyanta ity ucyate, ity uttaram āśaṅkya dūṣayati, tadā virudhyate. saṃvṛtyā kṣaṇikā na paramārthataḥ iti virudhyate na saṃgacchate. akṣaṇikatayā pratīteḥ pratītivirodhaḥ, sāṃvyavahāribhir akṣaṇikatvapratīteḥ na kṣaṇikatvaṃ sāṃvṛtaṃ rūpam iti yāvat.
 
 ---
 
-bhavatu nāma māyopamād api jināt puṇyam. idaṃ tu kathaṃ samādhīyate ity āha yadi māyopama ityādi—
+etat siddhāntavādī pariharati na doṣo yogisaṃvṛtyeti.
 
-yadi māyopamaḥ sattvaḥ kiṃ punar jāyate mṛtaḥ || Bca_9.9 ||
+	na doṣo yogisaṃvṛtyā lokāt te tattvadarśinaḥ |
+	anyathā lokabādhā syād aśucistrīnirūpaṇe || 
 
-athavā anyathāvatāryate—yadi jino 'pi māyopamaḥ, kā vārtā tarhi sāṃsārikeṣu sattveṣu? te 'pi tatheti brūmaḥ. māyopamāste devaputrāḥ sattvāḥ iti vacanāt. evaṃ sati mahān doṣaḥ prasajyate ity āha—yadītyādi. yadi māyopamo māyāsvabhāvasamānadharmaḥ sattvaḥ prāṇī, tadā kiṃ punar jāyate mṛtaḥ? kim iti praśne akṣamāyāṃ vā. kiṃ punar jāyate utpadyate? mṛto nikāyasabhāgatāyāścyutaḥ. kāraṇamatra vaktavyam, naitadyuktam iti vā. nahi māyāpuruṣo vinaṣṭaḥ punar utpadyate. tasmāt paramārthasanto bhāvā ity upagantavyam ||
+nāyaṃ pratītivirodhalakṣaṇo doṣaḥ. kutaḥ? yogināṃ pudgalanairātmyasamādhilābhināṃ yā saṃvṛtir vyavahāraḥ, tayā kṣaṇikatayā pratīteḥ. ayam abhiprāyaḥ—yadi nāma arvāgdarśanaiḥ kṣaṇikatvaṃ na pratīyate, tathāpi yogivyavahāragocaraḥ. yogivyavahāro 'pi saṃvṛtirūpatāṃ na jahāti, <quote id="q1" titleid="ROOT">buddhiḥ saṃvṛtir ūcyata</quote> iti vacanāt. na ca pratītibādhitaṃ bādhitam eva, tathāvidhāyāḥ pratīter apramāṇatvāt.
 
-naitad upagantavyam ity āha yāvadityādi—
-
-	yāvatpratyayasāmagrī tāvan māyāpi vartate.
-
-yāvatkālaṃ pratyayānāṃ kāraṇānāṃ mantrauṣadhādīnāṃ sāmagrī samudāyaḥ, samagrāṇi kāraṇāni, tāvatkālaṃ māyāpi vartate, na arvāṅ nivartate, nāpi tataḥ paraṃ pravartate. evaṃ yāvadavidyākarmatṛṣṇāsvabhāvā sāmagrī, tāvat sattvasaṃtānamāyāpi vartate, idaṃpratyayatāyattavṛttitvāt. yadi na paramārthataḥ sattvo 'sti, kathamāsaṃsāraṃ sattvasaṃtānaḥ pravartate, na tu māyāvadaciraṃ nivartate? uktamatra—yāvatpratyayasāmagrī tāvat pravartate, yasya tu tathā nāsti, sa nānuvartate iti. api ca. na cirakālāvasthitiḥ samyaktvavyavasthānibandhanam ity āha dīrghasaṃtāna ityādi—
-
-	dīrghasaṃtānamātreṇa kathaṃ sattvo 'sti satyataḥ || Bca_9.10 ||
-
-dīrghaścirakālāvasthitaḥ saṃtānaḥ pravāhaḥ, sa eva kevalastanmātraṃ tena. katham iti pṛcchati—kena prakāreṇa sattvo 'sti vidyate? satyataḥ paramārthataḥ. etāvāṃstu viśeṣaḥ—yasya hi dīrghakālāvasthitihetupratyayaviśeṣo 'sti, sa dīrghakālamanuvartate. yasya tu tathā nāsti, sa nānuvartate iti. na tu tāvatā samyaṅyithyātvam. tasmān māyāsvabhāvatve 'pi na punarjanmāsaṃbhavaḥ ||
+kutaḥ punar etat sāṃvṛtam api kṣaṇikatvādi yogina eva paśyanti nārvāgdarśina ity āha—lokāt te tattvadarśina iti. lokād arvācīnadarśanāt sakāśāt te yoginas tattvadarśinaḥ atīndriyadarśinaḥ. hetupadam etat. yasmāt tattvadarśinas te, tasmāt kṣaṇikatvanairātmyādi lokāpratītam api pratipadyante. ata eva na teṣāṃ lokapratītibādhā.
 
 ---
 
-evaṃ tarhi yathā māyāpuruṣavadhādau na prāṇātipātaḥ, tathā tadaparapuruṣavadhādāv api na syāt, abhinnasvabhāvatvāt, ity atrāha māyāpuruṣa ityādi—
+avaśyaṃ caitad aṅgīkartavyam ity āha—anyathetyādi. anyathā yadi caivaṃ na svīkriyate, tadā bhavadabhyupagate 'pi lokabādhā syāt. kutra? aśucistrīnirūpaṇa iti. aśucibhāvanāsamaye 'śucīti striyāḥ kāminyā nirūpaṇe vibhāvanāyāṃ lokabādhā syāt, lokapratītena virodho bhavet, lokena śucisvabhāvatayā strīśarīrasyādhyavasānāt. tasmān na lokapratītena yogidarśanabādheti. atra—
 
-māyāpuruṣaghātādau cittābhāvānna pāpakam.
+	<quote id="q1">yathopalabdhaṃ timirekṣaṇānam</quote>
 
-māyāpuruṣasya ghātādau māraṇādau. ādiśabdena tasya adattādi gṛhṇataḥ. samāne 'pi niḥsvabhāvatve cittasya vijñānasya māyāpuruṣasaṃtāne 'bhāvāt asattvāt na pāpakaṃ na akuśalamutpadyate prāṇātipātādi. pāpam eva pāpakam. svārthe kanvidhānāt. tatrāpi māraṇābhiprāyeṇa prahāraṃ dadato bhavaty eva aśubham, na tu prāṇātipātaḥ. māyāpuruṣādanyatra kathaṃ prāṇātipāta iti ced āha cittamāyetyādi—
-
-	cittamāyāsamete tu pāpapuṇyasamudbhavaḥ || Bca_9.11 ||
-
-cittam eva māyā cittamāyā, tayā samete yukte. māyāsvabhāvena cittena saṃbaddhe ity arthaḥ. tuśabdaḥ pūrvasmādviśeṣārthaḥ. puṇyaṃ ca pāpaṃ ca puṇyapāpe, tayoḥ sukṛt aduṣkṛtayoḥ samudbhavaḥ samutpattiḥ. upakārāpakārayoḥ iti sāmagrīviśeṣāt kāryaviśeṣaḥ. yathā saty api gomayetarajanmanorvartikayorākārasāmye kāraṇabhedāt svabhāvabhedaḥ. tathā ihāpi noktadoṣaprasaṅgaḥ ||
-
-yad uktam—cittamāyeti, tat paro vighaṭayann āha mantrādīnāmityādi—
+ityādinā upacayahetutvena yojanīyam. iti nāgamād api bhāvānāṃ paramārthataḥ siddhir asti. tasmān māyāsvapnādisvabhāvāḥ sarvadharmā iti niścitam etat.
 
 ---
 
-	mantrādīnāmasāmarthyānna māyācittasaṃbhavaḥ.
+syād etat—yadi sarvavyāpinī māyopamasvabhāvatā, <author id="a1">buddho</author> 'pi tarhi māyopamaḥ svapnopamaḥ syāt. uktaṃ caitad <title id="t1">bhagavatyām</title>—
 
-mantrādīnām, ādiśabdādauṣadhādīnāṃ cittotpādaṃ prati asāmarthyādavyāpārāt na māyācittasaṃbhavaḥ na māyāsvabhāvaṃ cittaṃ saṃbhavati. yathā paravyāmohanibandhanānāṃ māyākāraprayuktānāṃ mantrādīnāṃ prabhāveṇa hastyādyākāranirvṛttiḥ, na tathā cittasyeti parasya bhāvaḥ. etat pariharann āha sāpi nānāvidhetyādi—
-
-	sāpi nānāvidhā māyā nānāpratyayasaṃbhavā.
-
-apiśabdo 'vadhāraṇārtho bhinnakramaśca. sā māyā nānāvidhaiva nānāprakāraiva. ata eva nānāpratyayasaṃbhavā nānāpratyayāt anekaprakārakāraṇāt saṃbhava utpādo yasyāḥ sā tathoktā. ayamabhiprāyaḥ—yadi māyā māyeti śabdasāmyam asti, tathāpi na tatkāraṇasyāpyabhedaḥ, māyāsvabhāvatve 'pi kāryasya nānāsvabhāvatvāt. na hi ekasmin kārye kiṃcit kāraṇaṃ dṛṣṭam iti kāryaśabdasāmyāt sarvatra tad eva prakalpayituṃ yujyate, api tu kvacid eva kasyacit sāmarthyam, śabdasāmye 'pi svabhāvabhedāt. etadevopadarśayann āha naikasyeti—
-
-naikasya sarvasāmarthyaṃ pratyayasyāsti kutracit || Bca_9.12 ||
+	<quote id="q1" titleid="t1">evam ukte subhūtis tān devaputrān etad avocat—māyopamās te devaputrāḥ sattvāḥ. svapnopamās te devaputrāḥ sattvāḥ. iti hi māyā ca sattvāś cā:w
+	dvayam etad advaidhīkāram. sarvadharmā api devaputrā māyopamāḥ svapnopamāḥ. strotaāpanno 'pi māyopamaḥ svapnopamaḥ. strotaāpattiphalam api māyopamaṃ svapnopamam. evaṃ sakṛdāgāmy api sakṛdāgāmiphalam api. anāgāmy api anāgāmiphalam api. arhann api arhattvam api māyopamaṃ svapnopamam. pratyekabuddho 'pi māyopamaḥ svapnopamaḥ. pratyekabuddhatvam api māyopamaṃ svapnopamam. samyaksaṃbuddho 'pi māyopamaḥ svapnopamaḥ. samyaksaṃbuddhatvam api māyopamaṃ svapnopamam. yāvan nirvāṇam api māyopamaṃ svapnopamam. sacen nirvāṇād api kaścid dharmo viśiṣṭataraḥ syāt, tam apy ahaṃ māyopamaṃ svapnopamaṃ vadāmi ||</quote>
 
 ---
 
-naikasya kvacidupalabdhasāmarthyasya pratyayasya kāraṇasya hetoḥ sarvasāmarthyaṃ sarvasmin kārye sāmarthyaṃ śaktir asti saṃbhavati. kvacidṛṣṭam iti kṛtvā kutracid iti kasmiṃścit samaye deśe kāle vā dṛṣṭamiṣṭaṃ vā. tataś ca kācinmāyā mantrādisāmarthyapratilabdhasvabhāvā, kācit punar anādisaṃsārapravṛttamāhātmyā avidyādiprabhāvapravartitā. tasmān na sarvāsu mantrādisāmarthyam iti. etat sarva lokavyavahārānugataṃ kalpanānirmitaṃ sāṃvṛtaṃ vastutattvamupādaya samutthitaṃ na tu paramārthataḥ. paramārthadaśāyāṃ jananamaraṇotpādanirodhahetuphalabhāvābhāvādikalpanāyā abhāvāt, prakṛtinirvṛtatvāt sarvadharmāṇām iti ||
+evaṃ kathaṃ tatra satkārāpakārayoḥ puṇyapāpasamudbhava iti parasyābhiprāyam āśaṅkyann āha—māyopamādityādi |
+
+	māyopamāj jināt puṇyaṃ sadbhāve 'pi kathaṃ yathā |
+
+yadi bhagavān api māyopamasvabhāvaḥ, tadā māyopamān niḥsvabhāvāj jinād bhagavataḥ puṇyaṃ sukṛtaṃ pūjāsatkārapādavandanādibhiḥ kathaṃ yathā katham iveti manyase? upalakṣaṇaṃ caitat–pāpam api tadapakāre katham iti draṣṭavyam. na hi māyākāranirmitapuruṣasatkārāpakārayoḥ puṇyapāpaprasūtir yukteti parasyābhiprāyaḥ. atra prāg uktam evottaram. tathātra param eva paripṛcchati—sadbhāve 'pi kathaṃ yatheti. sadbhāve 'pi paramārthasatyatve 'pi bhagavataḥ ayam abhiprāyaḥ—yathā kasyacit paramārthasato jināt paramārthasat puṇyam upajāyate, tathānyasya māyopamān māyopamam evety āvayor na kaścid viśeṣaḥ, idaṃpratyayatāmātrasyobhayasādhāraṇatvāt. iti yad evottaraṃ bhavatām, tad evāsmākam api, nātiricyate kiṃcit. na ca yuktisiddhaṃ paramārthasad vastusvarūpaṃ kiṃcid astīti pratipāditam.
 
 ---
 
-etadasahamānaḥ paraḥ punar anyathā prasañjayann āha nirvṛta iti—
+bhavatu nāma māyopamād api jināt puṇyam. idaṃ tu kathaṃ samādhīyate ity āha—yadi māyopama ityādi |
 
-	nirvṛtaḥ paramārthena saṃvṛtyā yadi saṃsaret |
+	yadi māyopamaḥ sattvaḥ kiṃ punar jāyate mṛtaḥ ||
 
-nirvṛtaḥ svabhāvaśūnyatvādutpādanirodharahitaḥ. paramārthena paramārthasatyataḥ prakṛtinirvāṇatayā ādiśāntatvāt. yadi saṃvṛtyā saṃvṛtisatyena kālpanikatvena saṃsaret, jātijarāmaraṇayogī bhavet, tadā ayaṃ mahān virodhaḥ syād ity āha buddho 'pi saṃsaredevam ityādi—
+athavānyathāvatāryate—yadi jino 'pi māyopamaḥ, kā vārtā tarhi sāṃsārikeṣu sattveṣu? te 'pi tatheti brūmaḥ, <quote id="q1">māyopamās te devaputrāḥ sattvā</quote> iti vacanāt. evaṃ sati mahān doṣaḥ prasajyate ity āha—yadītyādi. yadi māyopamo māyāsvabhāvasamānadharmaḥ sattvaḥ prāṇī, tadā kiṃ punar jāyate mṛtaḥ? kim iti praśna akṣamāyāṃ vā. kiṃ punar jāyata utpadyate? mṛto nikāyasabhāgatāyāś cyutaḥ. kāraṇam atra vaktavyam, naitad yuktam iti vā. na hi māyāpuruṣo vinaṣṭaḥ punar utpadyate. tasmāt paramārthasanto bhāvā ity upagantavyam.
 
-	buddho 'pi saṃsaredevaṃ tataḥ kiṃ bodhicaryayā || Bca_9.13 ||
+naitad upagantavyam ity āha—yāvad ityādi |
 
-evam abhyupagamyamāne buddho 'pi sarvāvaraṇaprahāṇato nirvṛto 'pi saṃsaret janmādibhāg bhavet. yata evam, tataḥ tasmāt kāraṇāt kiṃ bodhicaryayā? bodhaye buddhatvāya caryā karacaraṇaśiraḥpradānādyanekaduṣkaraśatalakṣaṇā, tayā kim? na kiṃcit prayojanam, uktakrameṇa vaiphalyāt. sā hi sarvasāṃsārikadharmanivṛttaye sarvaguṇasamuccayāśritabuddhatvaprāptaye ca samāśrīyate, tathāpi na sāṃsārikadharmanivṛttiścet, kiṃ tatsamāśrayeṇa saṃsādhitam iti bhāvaḥ.
+	yāvat pratyayasāmagrī tāvan māyāpi vartate |
 
----
+yāvatkālaṃ pratyayānāṃ kāraṇānāṃ tu vicchedān nivṛtteḥ, saṃvṛttyāpi kālpanikavyavahāreṇāpi na saṃbhavo na saṃsaraṇam. pratyayānāṃ samucchedaḥ punas tattvābhyāsād avidyādinirodhakrameṇa veditavyaḥ. tad yathoktam <title id="t1">āryaśālistambasūtre</title>—
 
-tat pratyuktam eva yāvatpratyayasāmagrītyādinā, punar api vispaṣṭayann āha pratyayānāmityādi—
+	<quote id="q2" titleid="t1">evam ukte maitreyo bodhisattvo mahāsattva āyuṣmantaṃ śāriputram etad avocat—yad uktaṃ bhagavatā dharmasvāminā sarvajñena—yo bhikṣavaḥ pratītyasamutpādaṃ paśyati, sa dharmaṃ paśyati. yo dharmaṃ paśyati, sa buddhaṃ paśyati. tatra katamaḥ pratītyasamutpādo nāma? yad idam—avidyāpratyayāḥ saṃskārāḥ. saṃskārapratyayaṃ vijñānam. vijñānapratyayaṃ nāmarūpam. nāmarūpapratyayaṃ ṣaḍāyatanam. ṣaḍāyatanapratyayaḥ sparśaḥ. sparśapratyayā vedanā. vedanāpratyayā tṛṣṇā. tṛṣṇāpratyayam upādānam. upādānapratyayo bhavaḥ. bhavapratyayā jātiḥ. jātipratyayā jarāmaraṇaśokaparidevaduḥkhadaurmanasyopāyāsāḥ. evam asya kevalasya mahato duḥkhaskandhasya samudayo bhavati. tatrāvidyānirodhāt saṃskārā nirudhyante. peyālaṃ. evam asya kevalasya mahato duḥkhaskandhasya nirodho bhavati. ayam ucyate pratītyasamutpādaḥ. peyālaṃ. ya imaṃ pratītyasamutpādaṃ satatasamitaṃ nirjīvaṃ yathāvad aviparītam ajātam abhūtam asaṃskṛtam apratigham anālambanaṃ śivam abhayam ahāryam avyupaśam asvabhāvaṃ paśyati, sa dharmaṃ paśyati. yas tu evaṃ satatasamitaṃ yāvad avyupaśam asvabhāvaṃ dharmaṃ paśyati, so 'nuttaraṃ dharmaśarīraṃ buddhaṃ paśyati. peyālam. tatrāvidyā katamā? eteṣām eva ṣaṇṇāṃ dhātūnāṃ yā ekasaṃjñā piṇḍasaṃjñā nityasaṃjñā dhruvasaṃjñā śāśvatasaṃjñā sukhasaṃjñā'tmasaṃjñā sattvasaṃjñā jīvasaṃjñā jantusaṃjñā manujasaṃjñā mānavasaṃjñā ahaṃkāramamakārasaṃjñā. evamādi vividhamajñānam, iyam ucyate 'vidyā. evam avidyāyāṃ satyāṃ viṣayeṣu rāgadveṣamohāḥ pravartante. tatra ye rāgadveṣamohā viṣayeṣu, amy avidyāpratyayāḥ saṃskārā ity ucyante. vastuprativijñaptirvijñānam. catvāri mahābhūtāni copādāya rūpam aikadhyarūpam. vijñānasahajāś catvāro 'rūpiṇa upādānaskandhā nāma, tannāmarūpam. nāmarūpasaṃniśritāniīndriyāṇi ṣaḍāyatanam. trayāṇāṃ dharmāṇāṃ saṃnipātaḥ sparśaḥ. sparśānubhavo vedanā. vedanādhyavasānaṃ tṛṣṇā. tṛṣṇāvaipulyamupādānam. upādānanirjātaṃ punar bhavajanakaṃ karma bhavaḥ. bhavahetukaḥ skandhaprādurbhāvo jātiḥ. jātyabhinirvṛttānāṃ skandhānāṃ paripāko jarā. skandhavināśo maraṇam. mriyamāṇasya saṃmūḍhasya sābhiṣvaṅgasyāntardāhaḥ śokaḥ. śokotthalapanaṃ paridevaḥ. pañcavijñānasaṃprayuktam āghātānubhavanaṃ duḥkham. duḥkhamanasikārasaṃprayuktaṃ mānasaṃ duḥkhaṃ daurmanasyam. ye cānye evam ādāya upakleśāḥ, ime upāyāsā ity ucyante.
 
-	pratyayānāmanucchede māyāpyucchidyate na hi.
-	pratyayānāṃ tu vicchedātsaṃvṛtyāpi na saṃbhavaḥ || Bca_9.14 ||
+	tatra mahāndhakārārthena avidyā. abhisaṃskārārthena saṃskārāḥ. viajñānanārthena vijñānam. mananārthena nāmarūpam. āyadvārārthena ṣaḍāyatanam. sparśanārthena sparśaḥ. anubhavanārthena vedanā. paritarṣaṇārthena tṛṣṇā. upādānārthena upādānam. punarbhavajananārthena bhavaḥ. skandhaprādurbhāvārthena jātiḥ. skandhaparipākārthena jarā. vināśārthena maraṇam. śocanārthena śokaḥ. vacanaparidevanārthena paridevaḥ. kāyasaṃpīḍanārthena duḥkham. cittasaṃpīḍanārthena daurmanasyam. upakleśārthena upāyāsāḥ.</quote>
 
-pratyayānāṃ kāraṇānām. anucchede avināśe. hiryasmāt. māyāpi na kevalaṃ saṃsāra iti samuccaye apiśabdaḥ. naivocchidyate na nivartate. pratyayānāṃ kāraṇānāṃ tu vicchedāt nivṛtteḥ, saṃvṛttyāpi kālpanikavyavahāreṇāpi na saṃbhavo na saṃsaraṇam. pratyayānāṃ samucchedaḥ punas tattvābhyāsādavidyādinirodhakrameṇa veditavyaḥ. tadyathoktamāryaśālistambasūtre—
-
-evam ukte maitreyo bodhisattvo mahāsattva āyuṣmantaṃ śāriputrametadavocat—yad uktaṃ bhagavatā dharmasvāminā sarvajñena—yo bhikṣavaḥ pratītyasamutpādaṃ paśyati, sa dharma paśyati. yo dharmaṃ paśyati, sa buddhaṃ paśyati. tatra katamaḥ pratītyasamutpādo nāma? yadidam—avidyāpratyayāḥ saṃskārāḥ. saṃskārapratyayaṃ vijñānam. vijñānapratyayaṃ nāmarūpam. nāmarūpapratyayaṃ ṣaḍāyatanam. ṣaḍāyatanapratyayaḥ sparśaḥ. sparśapratyayā vedanā. vedanāpratyayā tṛṣṇā. tṛṣṇāpratyayamupādānam. upādānapratyayo bhavaḥ. bhavapratyayā jātiḥ. jātipratyayā jarāmaraṇaśokaparidevaduḥkhadaurmanasyopāyāsāḥ. evam asya kevalasya mahato duḥkhaskandhasya samudayo bhavati. tatra avidyānirodhāt saṃskārā nirudhyante. peyālaṃ. evam asya kevalasya mahato duḥkhaskandhasya nirodho bhavati. ayam ucyate pratītyasamutpādaḥ. peyālaṃ. ya imaṃ pratītyasamutpādaṃ satatasamitaṃ nirjīvaṃ yathāvadaviparītamajātamabhūtamasaṃskṛtamapratighamanālambanaṃ śivamabhayamahāryamavyupaśamasvabhāvaṃ paśyati, sa dharmaṃ paśyati. yas tu evaṃ satatasamitaṃ yāvadavyupaśamasvabhāvaṃ dharmaṃ paśyati, so 'nuttaraṃ dharmaśarīraṃ buddhaṃ paśyati. peyālaṃ. tatra avidyā katamā? eteṣām eva ṣaṇṇāṃ dhātūnāṃ yā ekasaṃjñā piṇḍasaṃjñā nityasaṃjñā dhruvasaṃjñā śāśvatasaṃjñā sukhasaṃjñā ātmasaṃjñā sattvasaṃjñā jīvasaṃjñā jantusaṃjñā manujasaṃjñā mānavasaṃjñā ahaṃkāramamakārasaṃjñā. evamādi vividhamajñānam, iyam ucyate 'vidyā. evam avidyāyāṃ satyāṃ viṣayeṣu rāgadveṣamohāḥ pravartante. tatra ye rāgadveṣamohā viṣayeṣu, amī avidyāpratyayāḥ saṃskārā iutyucyante. vastuprativijñaptirvijñānam. catvāri mahābhūtāni copādāya rūpam aikadhyarūpam. vijñānasahajāścatvāro 'rūpiṇa upādānaskandhā nāma, tannāmarūpam. nāmarūpasaṃniśritāni indriyāṇi ṣaḍāyatanam. trayāṇāṃ dharmāṇāṃ saṃnipātaḥ sparśaḥ. sparśānubhavo vedanā. vedanādhyavasānaṃ tṛṣṇā. tṛṣṇāvaipulyamupādānam. upādānanirjātaṃ punar bhavajanakaṃ karma bhavaḥ. bhavahetukaḥ skandhaprādurbhāvo jātiḥ. jātyabhinirvṛttānāṃ skandhānāṃ paripāko jarā. skandhavināśo maraṇam. mriyamāṇasya saṃmūḍhasya sābhiṣvaṅgasya antardāhaḥ śokaḥ. śokotthalapanaṃ paridevaḥ. pañcavijñānasaṃprayuktamāghātānubhavanaṃ duḥkham. duḥkhamanasikārasaṃprayuktaṃ mānasaṃ duḥkhaṃ daurmanasyam. ye cānye evam ādāya upakleśāḥ, ime upāyāsā ity ucyante ||
+iti vistaraḥ ||
 
 ---
 
-tatra mahāndhakārārthena avidyā. abhisaṃskārārthena saṃskārāḥ. viajñānanārthena vijñānam. mananārthena nāmarūpam. āyadvārārthena ṣaḍāyatanam. sparśanārthena sparśaḥ. anubhavanārthena vedanā. paritarṣaṇārthena tṛṣṇā. upādānārthena upādānam. punarbhavajananārthena bhavaḥ. skandhaprādurbhāvārthena jātiḥ. skandhaparipākārthena jarā. vināśārthena maraṇam. śocanārthena śokaḥ. vacanaparidevanārthena paridevaḥ. kāyasaṃpīḍanārthena duḥkham. cittasaṃpīḍanārthena daurmanasyam. upakleśārthena upāyāsāḥ. iti vistaraḥ ||
+evam upadarśitapratyayānām anucchede saṃsāro 'vikalaḥ pravartate, dvādaśāṅgapratītyasamutpādasyaiva saṃsāratvāt. yadāhur <author id="a1">ācāryapādāḥ</author>—
 
-evam upadarśitapratyayānāmanucchede saṃsāro 'vikalaḥ pravartate, dvādaśāṅgapratītyasamutpādasyaiva saṃsāratvāt. yadāhurācāryapādāḥ—
+	<quote id="q1" authorid="a1">yathākṣepaṃ kramād vṛddhaḥ saṃtānaḥ kleśakarmabhiḥ |
+	paralokaṃ punar yātīty anādi bhavacakrakam ||
+	sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ |</quote>
 
-	yathākṣepaṃ kramād dvṛddhaḥ saṃtānaḥ klreśakarmabhiḥ |
-	paralokaṃ punar yātītyanādi bhavacakrakam ||
-	sa pratītyasamutpādo dvādaśāṅgastrikāṇḍakaḥ |
-
-iti. [abhi. kośa. 3.19—20]
-
-pratyayānāṃ punar ucchede sarvathaiva saṃsaraṇaṃ na syāt, kāraṇavaikalyāt. tataś ca "buddho 'pi saṃsaredevam" ityetanna prasajyate iti ||
+iti. pratyayānāṃ punar ucchede sarvathaiva saṃsaraṇaṃ na syāt, kāraṇavaikalyāt. tataś ca "<author id="a2">buddho</author> 'pi saṃsared evam" ity etan na prasajyate iti.
 
 ---
 
-evaṃ tāvat sautrāntikādicodyamudasya yogācāravipratipattinirākaraṇāya tanmatena dūṣaṇamudbhāvayann āha yadā na bhrāntirapītyādi—
+evaṃ tāvat sautrāntikādicodyamudasya yogācāravipratipattinirākaraṇāya tanmatena dūṣaṇamudbhāvayann āha—yadā na bhrāntir apītyādi.
 
-yadā na bhrāntir apy asti māyā kenopalabhyate || Bca_9.15 ||
+	yadā na bhrāntir apy asti māyā kenopalabhyate || Bca_9.15 ||
 
-yadā sarvaṃ jagat māyātmakatayā svabhāvaśūnyamupagataṃ madhyamakavādibhiḥ, māyāsvabhāvasaṃvṛtigrāhiṇī buddhir api bhavatāṃ nāsti bāhyavat, tadā māyā kenopalabhyate, kena pratīyate tadgāhakavastusajjñānamantareṇa? naiva kenacidity arthaḥ. yasya punaḥ svacittam eva paramārthasat bāhyarūpatayā bhrāntaṃ tathā pratibhāsate, na tasyāyaṃ doṣa iti bhāvaḥ ||
+yadā sarvaṃ jagat māyātmakatayā svabhāvaśūnyam upagataṃ madhyamakavādibhiḥ, māyāsvabhāvasaṃvṛtigrāhiṇī buddhir api bhavatāṃ nāsti bāhyavat, tadā māyā kenopalabhyate, kena pratīyate tadgrāhakavastusajjñānam antareṇa? naiva kenacidity arthaḥ. yasya punaḥ svacittam eva paramārthasat bāhyarūpatayā bhrāntaṃ tathā pratibhāsate, na tasyāyaṃ doṣa iti bhāvaḥ.
 
-etannirākartum āha yadā māyaivetyādi—
+etannirākartum āha—yadā māyaivetyādi.
 
 	yadā māyaiva te nāsti tadā kimupalabhyate |
 
 ---
 
-yadā māyaiva grāhyatayā hastyādyākārapravṛtyā tava vijñānavādino nāsti, cittamātraṃ jagadabhyupagacchanto bahirarthābhāvāt, tadā kimupalabhyate, tadā kim iha pratibhāsate? bahirarthābhāvāddeśādivicchedena pratibhāso na yukta ity arthaḥ. atra parasyābhiprāyamāśaṅkayann āha cittasyaiva sa ityādi—
+yadā māyaiva grāhyatayā hastyādyākārapravṛtyā tava vijñānavādino nāsti, cittamātraṃ jagad abhyupagacchanto bahirarthābhāvāt, tadā kim upalabhyate, tadā kim iha pratibhāsate? bahirarthābhāvād deśādivicchedena pratibhāso na yukta ity arthaḥ. atra parasyābhiprāyam āśaṅkyann āha—cittasyaiva sa ityādi.
 
 	cittasyaiva sa ākāro yady apy anyo 'sti tattvataḥ || Bca_9.16 ||
 
-uktamatra cittam eva bahīrūpatayā bhrāntaṃ hastyādyākāraṃ pratibhāsate iti. uktameva. kiṃ tu yady api cittasyaiva jñānasyaiva sa iti deśādivicchedena grāhyatayā pratibhāsamāna ākāro nirbhāsaḥ, anya ity aparaḥ āntarād grāhakāccittākārāt, asti vidyate, tattvato vastutaḥ ||
+uktam atra cittam eva bahīrūpatayā bhrāntaṃ hastyādyākāraṃ pratibhāsata iti. uktam eva. kiṃ tu yady api cittasyaiva jñānasyaiva sa iti deśādivicchedena grāhyatayā pratibhāsamāna ākāro nirbhāsaḥ, anya ity apara āntarād grāhakāc cittākārāt, asti vidyate, tattvato vastutaḥ.
 
-yadyapītyabhyupagamyoktam, tathāpi naitat saṃgacchata ity āha cittam eva yadā māyetyādi—
+yady apīty abhyupagamyoktam, tathāpi naitat saṃgacchata ity āha—cittam eva yadā māyetyādi.
 
-cittam eva yadā māyā tadā kiṃ kena dṛśyate.
+	cittam eva yadā māyā tadā kiṃ kena dṛśyate |
 
-cittam eva vijñānam eva vedakatayā svīkṛtam, yadā māyā nānyā, na hi vedakacittavyatiriktā kācidanyā māyā nāma, tadātmatayā tasyāstathā pratibhāsopagamāt, tadā kiṃ kena dṛśyate, kiṃ kena pratīyate? darśanam eva hi kevalam asti na dṛśyam. dṛśyamantareṇa darśanam api na syāt, dṛśyāpekṣatvāttasya. ato na kenacit kiṃcit dṛśyeta, iti āndhyamaśeṣasya jagataḥ prāptam iti bhāvaḥ. nanu syād evaitat yadi jñānasya ātmasaṃvedanaṃ na syāt, yāvatā svasaṃvedanatayā svarūpaṃ saṃvedayat tadabhinnaṃ māyādipratibhāsam api vedayet. tathā ca sati na kācit kṣatiḥ. iti vijñānavādino 'bhiprāyamāśaṅkayāha—
+cittam eva vijñānam eva vedakatayā svīkṛtam, yadā māyā nānyā, na hi vedakacittavyatiriktā kācid anyā māyā nāma, tadātmatayā tasyās tathā pratibhāsopagamāt, tadā kiṃ kena dṛśyate, kiṃ kena pratīyate? darśanam eva hi kevalam asti na dṛśyam. dṛśyam antareṇa darśanam api na syāt, dṛśyāpekṣatvāttasya. ato na kenacit kiṃcit dṛśyeta, iti āndhyamaśeṣasya jagataḥ prāptam iti bhāvaḥ. nanu syād evaitat yadi jñānasya ātmasaṃvedanaṃ na syāt, yāvatā svasaṃvedanatayā svarūpaṃ saṃvedayat tadabhinnaṃ māyādipratibhāsam api vedayet. tathā ca sati na kācit kṣatir iti vijñānavādino 'bhiprāyam āśaṅkyāha.
 
-uktaṃ ca lokanāthena cittaṃ cittaṃ na paśyati.
+	uktaṃ ca lokanāthena cittaṃ cittaṃ na paśyati |
 
-svabhāvaśūnyam eva sarva jagad yadā yuktitaḥ pratipāditam, tadā kaḥ kasya svabhāvo vastutaḥ iti kasya kena vedanaṃ syāt? uktaṃ ca bhagavatā—
+svabhāvaśūnyam eva sarva jagad yadā yuktitaḥ pratipāditam, tadā kaḥ kasya svabhāvo vastuta iti kasya kena vedanaṃ syāt? uktaṃ ca <author id="a1">bhagavatā</author>—
 
-sarvadharmāḥ śūnyāḥ, śūnyatālakṣaṇaṃ cittam. sarvadharmā viviktāḥ, viviktatālakṣaṇaṃ cittam. iti.
+	<quote id="q1" authorid="a1">sarvadharmāḥ śūnyāḥ, śūnyatālakṣaṇaṃ cittam. sarvadharmā viviktāḥ, viviktatālakṣaṇaṃ cittam.</quote>
 
----
-
-kiṃ ca. uktaṃ ca kathitaṃ ca lokanāthena lokānāṃ sarvasattvānāṃ nāthena śaraṇyena buddhena bhagavatā. kimuktam? cittaṃ cittaṃ na paśyatīti, cittaṃ svātmānaṃ na jānāti, saty api vastutve svātmani kāritravirodhāt. kathamiva?
-
-na cchinatti yathātmānamasidhārā tathā manaḥ || Bca_9.17 ||
-
-yathā sutīkṣṇāpyasidhārā khaṅgadhārā tadanyavadātmānaṃ svakāyaṃ na cchinatti na vighāṭayati, svātmani kriyāvirodhāt, tathā manaḥ. asidhārāvaccittam api svātmānaṃ na paśyatīti yojyam. tathā hi na tadevaikaṃ jñānaṃ vedyavedakavedanātmasvabhāvatrayaṃ yuktam. ekasya niraṃśasya trisvabhāvatāyogāt. tatredamuktamāryaratnacūḍasūtre—
-sa cittaṃ parigaveṣamāṇo nādhyātmaṃ cittaṃ samanupaśyati. na bahirdhā cittaṃ samanupaśyati. na skadheṣu cittaṃ samanupaśyati. na dhātuṣu cittaṃ samanupaśyati. nāyataneṣu cittaṃ samanupaśyati. sa cittamasamanupaśyaṃścittadhārāṃ paryeṣate—kutaścittasyotpattir iti. ālambane sati cittamutpadyate. tat kimanyaccittamanyadālambanam, atha yadevālambanaṃ tad eva cittam? yadi tāvad anyadālambanamanyaccittam, tad dvicittatā bhaviṣyati. atha yadevālambanaṃ tad eva cittam, tat kathaṃ cittaṃ cittaṃ paśyati? na hi cittaṃ cittaṃ samanupaśyati. tadyathā na tasyaiva asidhārayā saiva asiṃdhārā śakyate chettum, na tenaiva aṅgulyagreṇa tad eva aṅgulyagraṃ spraṣṭuṃ śakyate, evam eva tenaiva cittena tad eva cittaṃ draṣṭum iti vistaraḥ ||
+iti.
 
 ---
 
-atra cittāmātravādinaḥ svātmani kriyāvirodhaṃ vighaṭayituṃ svapakṣaprasādhanāya dṛṣṭāntamudbhāvayann āha ātmabhāvamityādi—
+kiṃ ca. uktaṃ ca kathitaṃ ca lokanāthena lokānāṃ sarvasattvānāṃ nāthena śaraṇyena buddhena bhagavatā. kim uktam? cittaṃ cittaṃ na paśyatīti cittaṃ svātmānaṃ na jānāti. saty api vastutve svātmani kāritravirodhāt. katham iva?
 
-ātmabhāvaṃ yathā dīpaḥ saṃprakāśayatīti cet.
+	na cchinatti yathātmānam asidhārā tathā manaḥ || Bca_9.17 ||
 
-ātmabhāvaṃ svasvarūpaṃ yathā dīpaḥ pradīpaḥ saṃprakāśayati dyotayati. yathā hi kila andhakārāvṛtaghaṭādivastupratipattaye pradīpa upādīyate, na tathā pradīpaprakāśanāya pradīpāntaram, api tu ghaṭādi prakāśayann eva ātmānam api prakāśayati, tathā prakṛte 'pi svasaṃvedane veditavyam. na cāpi kvacidvirodho dṛṣṭa iti sarvatra yojanīyam. tasmāt pradīpavadavirodha eveti cet, yadyevaṃ manyase, tadā naivaṃ vaktavyam. kuta ity āha naivetyādi—
+yathā sutīkṣṇāpy asidhārā khaṅgadhārā tadanyavad ātmānaṃ svakāyaṃ na cchinatti na vighāṭayati, svātmani kriyāvirodhāt, tathā manaḥ. asidhārāvac cittam api svātmānaṃ na paśyatīti yojyam. tathā hi na tad evaikaṃ jñānaṃ vedyavedakavedanātmasvabhāvatrayaṃ yuktam, ekasya niraṃśasya trisvabhāvatāyogāt. tatredam uktam <title id="t1">āryaratnacūḍasūtre</title>—
 
-naiva prakāśyate dīpo yasmānna tamasāvṛtaḥ || Bca_9.18 ||
+	<quote id="q1" titleid="t1">sa cittaṃ parigaveṣamāṇo nādhyātmaṃ cittaṃ samanupaśyati. na bahirdhā cittaṃ samanupaśyati. na skadheṣu cittaṃ samanupaśyati. na dhātuṣu cittaṃ samanupaśyati. nāyataneṣu cittaṃ samanupaśyati. sa cittam asamanupaśyaṃś cittadhārāṃ paryeṣate—kutaś cittasyotpattir iti. ālambane sati cittam utpadyate. tat kim anyac cittam anyad ālambanam, atha yad evālambanaṃ tad eva cittam? yadi tāvad anyad ālambanam anyac cittam, tad dvicittatā bhaviṣyati. atha yad evālambanaṃ tad eva cittam, tat kathaṃ cittaṃ cittaṃ paśyati? na hi cittaṃ cittaṃ samanupaśyati. tad yathā na tasyaivāsidhārayā saiva asidhārā śakyate chettum, na tenaivāṅgulyagreṇa tad evāṅgulyagraṃ spraṣṭuṃ śakyate. evam eva tenaiva cittena tad eva cittaṃ draṣṭum.</quote>
 
-naiva prakāśyate ghaṭādivannaiva uddayotyate dīpaḥ, yasmānna tamasāvṛtaḥ na andhakār apihitaḥ. vidyamānasyāvaraṇasya apanayanaṃ prakāśanam, tato yuktaṃ ghaṭādīnāṃ prakāśanam, teṣāṃ prāg vidyamānatvāt. naivaṃ pradīpasya, tasya prāgavidyamānatvāt. na ca avidyāmānasya prakāśanaṃ yuktam, asattvāt. tasmān naiva prakāśyate dīpaḥ. iti visadṛśatvān na pradīpadṛṣṭāntāt sādhyasiddhiḥ ||
-
----
-
-syād etat—ātmabhāvamityādinā naitadabhidhīyate yadātmānaṃ ghaṭavat tamasāvṛtaṃ prakāśayati dīpaḥ, api tu tatsvabhāvaṃ prati paranirapekṣatāmātramasyābhidhīyate. etadevopadarśayann āha na hītyādi—
-
-	na hi sphaṭikavannīlaṃ nīlatve 'nyamapekṣate.
-	tathā kiṃcitparāpekṣamanapekṣaṃ ca dṛśyate || Bca_9.19 ||
-
-hir iti yasmāt. yathā sphaṭikopalaḥ svayamanīlaḥ san, nīlatve nīlaguṇotpattinimittamanyamupādhiṃ nīlapatrādisaṃnidhimapekṣate, tathā svayam eva yadvastu nīlam, tad api na nīlatve 'nyamupādhimapekṣate. tathā tena prakāreṇa kiṃcid ghaṭādikaṃ parāpekṣaṃ pradīpādyapekṣaṃ prakāśaṃ dṛśyate, kiṃcit punaḥ pradīpādikamanapekṣaṃ ca svayaṃprakāśātmakaṃ dṛśyate upalabhyate. etāvanmātram eva vivakṣitam ||
+iti vistaraḥ.
 
 ---
 
-evaṃ vijñānavādinā upadarśite viśeṣe siddhāntavādī nīlam eva tāvan nīlatve paranirapekṣaṃ dṛṣṭāntatvenopadarśitaṃ pratiṣedhayann āha anīlatva ityādi—
+atra cittāmātravādinaḥ svātmani kriyāvirodhaṃ vighaṭayituṃ svapakṣaprasādhanāya dṛṣṭāntam udbhāvayann āha—ātmabhāvam ityādi.
 
-	anīlatve na tannīlaṃ nīlaheturyathekṣyate.
-	nīlam eva hi ko nīlaṃ kuryādātmānamātmanā || Bca_9.20 ||
+	ātmabhāvaṃ yathā dīpaḥ saṃprakāśayatīti cet |
 
-ayam api na sadṛśo dṛṣṭāntaḥ, yato nīlam api na nīlatve sphaṭikavannirapekṣam, tadbhāvaṃ prati svahetupratyayāpekṣatvāt. kadā punar idamanapekṣaṃ syāt? yadi tadanīlam eva svahetorutpadyeta. punas tadbhāve paranirapekṣaṃ svayam eva nīlamātmānaṃ kuryāt. na caitad asti. yataḥ anīlatve nīlaguṇarahitatve sati. neti niṣedhayati. tad iti nīlābhimataṃ vastu. nīlaṃ nīlaguṇayuktamātmānaṃ svarūpam ātmanā svayam eva na kuryāt, na kartuṃ śaknoti, pūrvavat svasmin kriyāvirodhāt. tasmān na nīlasyāpi parānapekṣatā nīlatvaṃ prati sphaṭikavat. tathā hi sphaṭikopalo 'pi vastuto 'vasthitarūpa eva upādhisaṃnidhau na nīloparāgamanubhavati, api tu sarvasvopādānalakṣaṇāt. nīlopādhiviśeṣahakāriṇaś ca pūrvasvarasanirodhāt anya eva nīlaguṇoparaktaḥ sphaṭikopala utpadyate iti siddhāntaḥ. tasmāt sādhāraṇamanayostadguṇaṃ prati hetupratyayādhīnatvam. iti prakṛte 'pi sādhye na kaścid viśeṣaḥ ||
+ātmabhāvaṃ svasvarūpaṃ yathā dīpaḥ pradīpaḥ saṃprakāśayati dyotayati. yathā hi kilāndhakārāvṛtaghaṭādivastupratipattaye pradīpa upādīyate, na tathā pradīpaprakāśanāya pradīpāntaram, api tu ghaṭādi prakāśayann eva ātmānam api prakāśayati, tathā prakṛte 'pi svasaṃvedane veditavyam. na cāpi kvacid virodho dṛṣṭa iti sarvatra yojanīyam. tasmāt pradīpavad avirodha eveti cet, yady evaṃ manyase, tadā naivaṃ vaktavyam. kuta ity āha—naivetyādi.
 
----
+	naiva prakāśyate dīpo yasmān na tam asāvṛtaḥ || Bca_9.18 ||
 
-nanu priyam idam anuṣṭhitaṃ priyeṇa yasmāt jaḍasvabhāvavyāvṛttātmatayā svahetupratyayāt utpattir eva jñānasya prakāśāntaranirapekṣasya ātmaprakāśatā svasaṃvedanam ucyate. etad eva tvayāpi nīlasvarūpaparāmarṣeṇa samarthitam. etāvanmātreṇa pradīpo 'pi dṛṣṭāntīkṛtaḥ. na punar asmābhiḥ karmakartṛkriyābhedena jñānasyātmaprakāśanamiṣyate. ekasya sataḥ karmādisvabhāvatrayasyāyogāt. tanna kriyādibhedena dūṣaṇe 'pi kiṃciddūṣitamasmākaṃ syāt, svahetujanitasyātmaprakāśasyānupaghātāt. iti nātmasaṃvedane pratipāditadoṣaprasaṅgaḥ. tad uktam—
-
-vijñānaṃ jaḍarūpebhyo vyāvṛttamupajāyate.
-iyamevātmasaṃvittirasya yā jaḍarūpatā ||
-kriyākārakabhedena na svasaṃvittirasya tu.
-ekasyānaṃśarūpasya trairūpyānupapattitaḥ ||
-iti. [tattvasaṃgraha—2000—1]
-
-atrocyate—kriyākārakabhedena vyavahāraprasiddhaṃ śabdārthamadhigamya dūṣaṇamuktam, svasaṃvedanaśabdasya tadarthābhidhāyakatvāt. yadi punar doṣabhayāllokaprasiddho 'pi śabdārthaḥ parityajyate, tadā lokata eva bādhā bhavato bhaviṣyati. ittham api na paramārthataḥ svasaṃvedanasiddhiḥ. tathā hi hetupratyayopajanitasya pratibimbasy eva niḥsvabhāvatvamuktam. tathā ca sutarāṃ na svasaṃvedanaṃ jñānasya, tattvato nijasvabhāvābhāvāt. na ca svabhāvābhāve gaganotpalasya ātmasaṃvedanamucitam. na cāpi jaḍasvabhāvatā madhyamakavādinaṃ prati paramārthataḥ kasyacit siddhā, yena jaḍavyāvṛttamajaḍaṃ svasaṃvedanaṃ syat. tasmād anyān eva vastuvādinaḥ prati yuktametadvaktum. tato niḥsvabhāvatayā na kathaṃcid api svasaṃvedanasiddhiḥ. etat punaḥ paścāt smṛtyupasthānopadarśanaprastāve [9.24] vistareṇopadarśayiṣyāmaḥ ||
+naiva prakāśyate ghaṭādivan naivoddayotyate dīpaḥ, yasmān na tamasāvṛtaḥ na andhakārapihitaḥ. vidyamānasyāvaraṇasyāpanayanaṃ prakāśanam. tato yuktaṃ ghaṭādīnāṃ prakāśanam, teṣāṃ prāg vidyamānatvāt. naivaṃ pradīpasya, tasya prāg avidyamānatvāt. na ca avidyāmānasya prakāśanaṃ yuktam, asattvāt. tasmān naiva prakāśyate dīpaḥ. iti visadṛśatvān na pradīpadṛṣṭāntāt sādhyasiddhiḥ.
 
 ---
 
-sāṃprataṃ pradīpasya svayaṃprakāśatāmabhyupagamya buddheḥ svasaṃvedanamayuktam iti pratipādayann āha dīpa ityādi—
+syād etat—ātmabhāvam ityādinā naitad abhidhīyate yad ātmānaṃ ghaṭavat tamasāvṛtaṃ prakāśayati dīpaḥ. api tu tatsvabhāvaṃ prati paranirapekṣatāmātram asyābhidhīyate. etad evopadarśayann āha—na hītyādi.
+
+	na hi sphaṭikavan nīlaṃ nīlatve 'nyam apekṣate |
+	tathā kiṃcit parāpekṣam anapekṣaṃ ca dṛśyate || Bca_9.19 ||
+
+hir iti yasmāt. yathā sphaṭikopalaḥ svayam anīlaḥ san, nīlatve nīlaguṇotpattinimittam anyam upādhiṃ nīlapatrādisaṃnidhim apekṣate, tathā svayam eva yad vastu nīlam, tad api na nīlatve 'nyam upādhim apekṣate. tathā tena prakāreṇa kiṃcid ghaṭādikaṃ parāpekṣaṃ pradīpādyapekṣaṃ prakāśaṃ dṛśyate, kiṃcit punaḥ pradīpādikam anapekṣaṃ ca svayaṃprakāśātmakaṃ dṛśyata upalabhyate. etāvanmātram eva vivakṣitam.
+
+---
+
+evaṃ vijñānavādinopadarśite viśeṣe siddhāntavādī nīlam eva tāvan nīlatve paranirapekṣaṃ dṛṣṭāntatvenopadarśitaṃ pratiṣedhayann āha—anīlatva ityādi.
+
+	anīlatve na tan nīlaṃ nīlahetur yathekṣyate |
+	nīlam eva hi ko nīlaṃ kuryād ātmānam ātmanā || Bca_9.20 ||
+
+ayam api na sadṛśo dṛṣṭāntaḥ, yato nīlam api na nīlatve sphaṭikavan nirapekṣam, tadbhāvaṃ prati svahetupratyayāpekṣatvāt. kadā punar idam anapekṣaṃ syāt yadi tad anīlam eva svahetor utpadyeta. punas tadbhāve paranirapekṣaṃ svayam eva nīlam ātmānaṃ kuryāt. na caitad asti, yataḥ anīlatve nīlaguṇarahitatve sati neti niṣedhayati. tad iti nīlābhimataṃ vastu. nīlaṃ nīlaguṇayuktam ātmānaṃ svarūpam ātmanā svayam eva na kuryāt, na kartuṃ śaknoti, pūrvavat svasmin kriyāvirodhāt. tasmān na nīlasyāpi parānapekṣatā nīlatvaṃ prati sphaṭikavat. tathā hi sphaṭikopalo 'pi vastuto 'vasthitarūpa evopādhisaṃnidhau na nīloparāgam anubhavati, api tu sarvasvopādānalakṣaṇāt. nīlopādhiviśeṣahakāriṇaś ca pūrvasvarasanirodhād anya eva nīlaguṇoparaktaḥ sphaṭikopala utpadyata iti siddhāntaḥ. tasmāt sādhāraṇam anayos tadguṇaṃ prati hetupratyayādhīnatvam. iti prakṛte 'pi sādhye na kaścid viśeṣaḥ.
+
+---
+
+nanu priyam idam anuṣṭhitaṃ priyeṇa yasmāt jaḍasvabhāvavyāvṛttātmatayā svahetupratyayād utpattir eva jñānasya prakāśāntaranirapekṣasyātmaprakāśatā svasaṃvedanam ucyate. etad eva tvayāpi nīlasvarūpaparāmarṣeṇa samarthitam. etāvanmātreṇa pradīpo 'pi dṛṣṭāntīkṛtaḥ. na punar asmābhiḥ karmakartṛkriyābhedena jñānasyātmaprakāśanam iṣyate, ekasya sataḥ karmādisvabhāvatrayasyāyogāt. tan na kriyādibhedena dūṣaṇe 'pi kiṃcid dūṣitam asmākaṃ syāt, svahetujanitasyātmaprakāśasyānupaghātāt. iti nātmasaṃvedane pratipāditadoṣaprasaṅgaḥ. tad uktam—
+
+	<quote id="q1">vijñānaṃ jaḍarūpebhyo vyāvṛttam upajāyate |
+	iyam evātmasaṃvittir asya yā jaḍarūpatā ||
+	kriyākārakabhedena na svasaṃvittir asya tu |
+	ekasyānaṃśarūpasya trairūpyānupapattitaḥ ||</quote>
+
+iti.
+
+atrocyate—kriyākārakabhedena vyavahāraprasiddhaṃ śabdārtham adhigamya dūṣaṇam uktam, svasaṃvedanaśabdasya tadarthābhidhāyakatvāt. yadi punar doṣabhayāl lokaprasiddho 'pi śabdārthaḥ parityajyate, tadā lokata eva bādhā bhavato bhaviṣyati. ittham api na paramārthataḥ svasaṃvedanasiddhiḥ. tathā hi hetupratyayopajanitasya pratibimbasyeva niḥsvabhāvatvam uktam. tathā ca sutarāṃ na svasaṃvedanaṃ jñānasya, tattvato nijasvabhāvābhāvāt. na ca svabhāvābhāve gaganotpalasyātmasaṃvedanam ucitam. na cāpi jaḍasvabhāvatā madhyamakavādinaṃ prati paramārthataḥ kasyacit siddhā, yena jaḍavyāvṛttam ajaḍaṃ svasaṃvedanaṃ syat. tasmād anyān eva vastuvādinaḥ prati yuktam etad vaktum. tato niḥsvabhāvatayā na kathaṃcid api svasaṃvedanasiddhiḥ. etat punaḥ paścāt smṛtyupasthānopadarśanaprastāve vistareṇopadarśayiṣyāmaḥ.
+
+---
+
+sāṃprataṃ pradīpasya svayaṃprakāśatām abhyupagamya buddheḥ svasaṃvedanam ayuktam iti pratipādayann āha—dīpa ityādi.
 
 	dīpaḥ prakāśata iti jñātvā jñānena kathyate |
 	buddhiḥ prakāśata iti jñātvedaṃ kena kathyate || Bca_9.22 ||
 
-bhavatu vā pradīpasya prakāśātmatā, tathāpi na buddhisaṃvedanasādhanaṃ prati sadṛśo dṛṣṭānta iti samudāyārthaḥ. dīpaḥ prakāśata iti ābhāsate prakāśāntaranirapekṣaḥ svayameva, iti jñātvā pratītya jñānena buddhyā kathyate pratipādyate, pradīpasya jñānaviṣayatvāt. buddhirjñānaṃ prakāśate iti yad ucyate, tat punaḥ kena jñānena jñātvā kathyate iti paraṃ pṛcchati. na cātra kiṃcid buddhipratipattinibandhanam astīti asaṃbhāvanāṃ prakāśayati. na tāvat pūrvajñānena tatpratipattiḥ, tatkālamanutpattestasyāsattvāt. nāpi paścātkālabhāvinā tadānīṃ kṣaṇikatayā grāhyasyātītatvāt. na ca tatsamānakālabhāvinā tena tasyānupakārāt. na ca anupakārakasya viṣayabhāvaḥ, nākāraṇaṃ viṣayaḥ iti vacanāt. nāpi svayam, tatraiva vipratipatteḥ. tat kathaṃ tatpratītir iti na vidmaḥ ||
+bhavatu vā pradīpasya prakāśātmatā. tathāpi na buddhisaṃvedanasādhanaṃ prati sadṛśo dṛṣṭānta iti samudāyārthaḥ. dīpaḥ prakāśata iti ābhāsate prakāśāntaranirapekṣaḥ svayam eva, iti jñātvā pratītya jñānena buddhyā kathyate pratipādyate, pradīpasya jñānaviṣayatvāt. buddhir jñānaṃ prakāśate iti yad ucyate, tat punaḥ kena jñānena jñātvā kathyata iti paraṃ pṛcchati. na cātra kiṃcid buddhipratipattinibandhanam astīty asaṃbhāvanāṃ prakāśayati. na tāvat pūrvajñānena tatpratipattiḥ, tatkālam anutpattes tasyāsattvāt. nāpi paścāt kālabhāvinā tadānīṃ kṣaṇikatayā grāhyasyātītatvāt. na ca tatsamānakālabhāvinā tena tasyānupakārāt. na cānupakārakasya viṣayabhāvaḥ, nākāraṇaṃ viṣaya iti vacanāt. nāpi svayam, tatraiva vipratipatteḥ. tat kathaṃ tatpratītir iti na vidmaḥ.
 
 ---
 
-itthaṃ sarvathā buddherapratipattau tatsaṃvedanamatīva ayuktam ity āha prakāśā vetyādi—
+itthaṃ sarvathā buddher apratipattau tat saṃvedanam atīva ayuktam ity āha—prakāśā vetyādi.
 
 	prakāśā vāprakāśā vā yadā dṛṣṭā na kenacit |
-	vandhyāduhitṛlīl eva kathyamānāpi sā mudhā || Bca_9.23 ||
+	vandhyād uhitṛlīleva kathyamānāpi sā mudhā || Bca_9.23 ||
 
-prakāśā vā prakāśātmikā dīpavat. aprakāśā vā aprakāśātmikā ghaṭādivat. parasparasamuccaye vāśabdadvayam. buddhiḥ yadā dṛṣṭā na kenacit, na pratipannā kenacit pratipantrā svayaṃrūpeṇa vā. yadeti padaṃ tadetyākarṣati. tadā vandhyāyā aprasavadharmiṇyāḥ striyā duhitā putrī, tasyā līlā vilāso lalitaṃ tadvat. kathyamānāpi ākhyāyamānāpi sā mudhā. seti buddhiḥ. mudheti niṣphalā. vandhyāduhituravidyamānatayā pratipannatvāt tallīlā sutarāmapratipannetyabhiprāyaḥ. athavā. anutpannāniruddhasvabhāvatayā vandhyāduhitṛsthānīyā buddhiḥ. apratītatatsvabhāvatayā tallīlāvat svasaṃvittiḥ. tadapratīteḥ tasyā api apratītir iti kathyamānāpi yuktirahitena vacanamātreṇa sā svasaṃvittirmudhāḥ, anupādeyatvānniṣprayojanā ||
-
----
-
-syād evam—yuktiśūnyaṃ vacanamātrametat. yataḥ iyamatra yuktir astīty āha yadi nāstītyādi—
-
-	yadi nāsti svasaṃvittirvijñānaṃ smaryate katham |
-
-yadi svasaṃvedanaṃ vijñānasya nāsti na vidyate, tadā vijñānaṃ smaryate katham? vijñānasya svasaṃvedanābhāvāduttarakālaṃ smaraṇaṃ na syāt. na hi ananubhūtasmaraṇaṃ yuktam, atiprasaṅgāt. tasmād anubhavaphalasya smaraṇasya uttarakālaṃ darśanāt jñānasaṃvedanam astīty anumīyate iti. naitat sādhanaṃ sādhīyaḥ. yato yadi svasaṃvedanakāryatayā smaraṇaṃ niścitaṃ bhavet, bhaved vahveryathā dhūmaḥ svasaṃvedanasya kāraṇaṃ smṛtiḥ. na ca asiddhe svasaṃvedane pramāṇataḥ, smaraṇasya tatkāryatāgrahaṇam asti. sarvathā ubhayapratipattināntarīyakatvāt kāryakāraṇabhāvapratipatteḥ. na ca cakṣurāderiva vijñānam, adarśane 'pi smaraṇaṃ tatkāryaṃ setsyati, cakṣuṣo hi vyatireke nīlādijñānābhāvato [vyatirekadvāreṇa] tatkāryamanumīyate. smṛtistu jñānasaṃvedanamantareṇāpi bhavatīti pratipādayiṣyāmaḥ, iti svasaṃvedanakāryatāniścayamantareṇa smaraṇasya tadvinābhāvānna saṃvedanasiddhiḥ. ataḥ smaraṇam api jñānatvāt kathaṃ siddham iti vaktavyam. na ca svayamasiddhaṃ liṅgaṃ jñāpakamanyasya. na ca smaraṇaṃ svasaṃvedanasya pratyakṣatayā grāhakam, tasya tasmād anyatvāt. na ca jñānasya jñānāntaraviṣayatvam, bahirarthavat saṃbandhāsiddhayādidoṣaprasaṅgāt. anyatvāviśeṣāt saṃtānāntarabhāvināpi smaraṇena tasya grahaṇaṃ syāt. atha tena pūrvamananubhūtatvān na smaryata iti cet, ekasaṃtatipatitenāpi na pūrvamanubhūtam iti samānaḥ prasaṅgaḥ ||
+prakāśā vā prakāśātmikā dīpavat. aprakāśā vāprakāśātmikā ghaṭādivat. parasparasamuccaye vāśabdadvayam. buddhiḥ yadā dṛṣṭā na kenacit, na pratipannā kenacit pratipattrā svayaṃrūpeṇa vā. yadeti padaṃ tadety ākarṣati. tadā vandhyāyā aprasavadharmiṇyāḥ striyā duhitā putrī, tasyā līlā vilāso lalitaṃ tadvat. kathyamānāpy ākhyāyamānāpi sā mudhā. seti buddhiḥ. mudheti niṣphalā. vandhyād uhitur avidyamānatayā pratipannatvāt tallīlā sutarām apratipannety abhiprāyaḥ. athavā. anutpannāniruddhasvabhāvatayā vandhyād uhitṛsthānīyā buddhiḥ. apratītatatsvabhāvatayā tallīlāvat svasaṃvittiḥ. tadapratīteḥ tasyā api apratītir iti kathyamānāpi yuktirahitena vacanamātreṇa sā svasaṃvittir mudhāḥ, anupādeyatvān niṣprayojanā.
 
 ---
 
-kāryakāraṇabhāvo 'pi na tasya niyāmako yujyate, kāryakāraṇabhāvasyaiva paramārthato 'bhāvāt, saty api tasmin sarvajñānānāṃ svapratipattiniṣṭhatayā tadgahaṇasyāśakyatvāt. yathāvyavahāramabhyupagame kālpanikatvam, kālpanikatve ca sarvavyavahārāṇāṃ kalpanānirmitatvāt sāṃvṛtatvam iti sādhitaṃ naḥ sādhyam. iti na smṛteḥ svasaṃvedanasiddhiḥ ||
+syād evam—yuktiśūnyaṃ vacanamātram etat, yataḥ iyam atra yuktir astīty āha—yadi nāstītyādi |
 
-bhavato 'pi kathaṃ tarhi svasaṃvedanābhāve smṛtir ity āha anyānubhūta ityādi—
+	yadi nāsti svasaṃvittir vijñānaṃ smaryate katham |
 
-	anyānubhūte saṃbandhāt smṛtirākhuviṣaṃ yathā || Bca_9.24 ||
+yadi svasaṃvedanaṃ vijñānasya nāsti na vidyate, tadā vijñānaṃ smaryate katham? vijñānasya svasaṃvedanābhāvād uttarakālaṃ smaraṇaṃ na syāt. na hi ananubhūtasmaraṇaṃ yuktam, atiprasaṃ mantrauṣadhādīnāṃ sāmagrī samudāyaḥ, samagrāṇi kāraṇāni, tāvatkālaṃ māyāpi vartate, na arvāṅ nivartate, nāpi tataḥ paraṃ pravartate. evaṃ yāvad avidyākarmatṛṣṇāsvabhāvā sāmagrī, tāvat sattvasaṃtānamāyāpi vartate, idaṃpratyayatāyattavṛttitvāt. yadi na paramārthataḥ sattvo 'sti, katham āsaṃsāraṃ sattvasaṃtānaḥ pravartate? na tu māyāvad aciraṃ nivartate? uktam atra—yāvat pratyayasāmagrī tāvat pravartate, yasya tu tathā nāsti, sa nānuvartata iti. api ca na cirakālāvasthitiḥ samyaktvavyavasthānibandhanam ity āha—dīrghasaṃtāna ityādi.
 
-jñānādanyasmin grāhye vastuni viṣaye 'nubhūte sati jñāne smṛtiḥ smaraṇamupajāyate. nanu anyasminnanubhūte anyatra smaraṇe atiprasaṅgaḥ syād ity āha—saṃbandhād iti. viṣaye 'nubhūte tadvijñānasmaraṇaṃ saṃbandhādbhavati. vijñānaṃ hi tadgāhakatayā tatsaṃbaddham, ato vijñānaṃ smaryate, nānyat. saty api saṃbandhe anyasminnanubhūte anyasya smaraṇe viplutaṃ smaraṇaṃ syād iti cenna, pūrvamanubhūto viṣayaḥ uttarakālamanusmaryamāṇaḥ sa evānubhavaviśiṣṭo 'nusmaryate. tadviśiṣṭasya tasya grahaṇāt. jñānam eva ca viṣayānubhavo nānya iti viṣayānubhavasmaraṇāttatsaṃbaddhatayā jñāne smaraṇamabhidhīyate, na tu viṣayarahitaṃ jñānam api kevalamanusmaryate ity adoṣaḥ ||
+	dīrghasaṃtānamātreṇa kathaṃ sattvo 'sti satyataḥ ||
 
-nanu kathamiva jñānasaṃvedanāhitasmṛtivāsanābījamantareṇa smṛtiruttarakālaṃ syād ity āhaākhuviṣaṃ yatheti. ākhuviṣaṃ mūṣikaviṣaṃ yathā saṃbandhāt kālāntareṇa jāyate, tathā smṛtirapītyarthaḥ. tathā hi mūṣikaviṣamekasmin kṣaṇe śarīrasaṃkrāntaṃ punaḥ kālāntareṇa meghastanitamadhigamya vināpi svasaṃvedanāhitasmṛtivāsanābījam idaṃpratyayatāmātrāyatavṛttitvāt anyasmin kṣaṇe vikṛtimupayāti, tathā prakṛte 'pi na duṣyatīti bhāvaḥ ||
-
-punar api vijñānavādī jñānasaṃvedanasiddhaye prakārāntaramupadarśayitum āha pratyayāntareti—
-
-pratyayāntarayuktasya darśanātsvaṃ prakāśate.
-
-pratyayāntaraṃ kāraṇāntaram [kālāntaram
-?]. īkṣaṇikādividyā paracittādijñānābhijñā ca tābhyāṃ yuktasya tatsāmagrīsaṃbaddhasya cittasya darśanāt pratibhāsanāt vijñānasya khaṃ prakāśate svarūpaṃ pratibhāsate. saṃvedanam astīti yāvat. yadi hi tat sarvadā parokṣarūpaṃ kathaṃ kadācit sāmagrīviśeṣādupalabhyeta, tato yathā sāmagrīviśeṣāt paracittamupalabhyate, tathā samanantarālambanādipratyayāt svacittam apy upalabhyate iti bhāvaḥ. etad api na jñānasaṃvedanasāmarthyam ity āha siddhāñjanetyādi—
+dīrghaś cirakālāvasthitaḥ saṃtānaḥ pravāhaḥ, sa eva kevalas tanmātraṃ tena. katham iti pṛcchati kena prakāreṇa sattvo 'sti vidyate satyataḥ paramārthataḥ. etāvāṃs tu viśeṣaḥ—yasya hi dīrghakālāvasthitihetupratyayaviśeṣo 'sti, sa dīrghakālam anuvartate. yasya tu tathā nāsti, sa nānuvartata iti. na tu tāvatā samyaṅmithyātvam. tasmān māyāsvabhāvatve 'pi na punarjanmāsaṃbhavaḥ.
 
 ---
 
-siddhāñjanavidherdṛṣṭo ghaṭo naivāñjanaṃ bhavet || Bca_9.25 ||
+evaṃ tarhi yathā māyāpuruṣavadhādau na prāṇātipātaḥ, tathā tadaparapuruṣavadhādāv api na syāt, abhinnasvabhāvatvāt, ity atrāha—māyāpuruṣa ityādi.
 
-siddhaṃ ca tadañjanaṃ ca, siddhasya vā añjanam, tasya vidhiḥ vidhānaṃ prayogaḥ, tasmād dṛṣṭaḥ pratītaḥ ghaṭo nidhānādi vā naiva añjanaṃ bhavati. na ca ghaṭādirañjanam eva syāt. na yad yasmātpratīyate tad eva tadbhavati. evam īkṣaṇikādividyāsahakāriṇā jñānena paracittaṃ ca ghaṭādivad dṛṣṭam iti naitāvatā tatsaṃvedanaṃ siddhaṃ syāt. tasmān naitad api sādhyopayogi sādhanam. nanu yadi jñānamaviditasvarūpaṃ syāt, arthasyāpi pratītirna syāt. avyaktavyaktikatvād jñānasya, na hi arthasya vyaktiḥ. tadapratītau kathamarthasya pratītiḥ? tathā hi svasaṃvedanasya pratiṣedhāt, anyena anyasya grahaṇāyogācca, tadgahaṇābhyupagame ca uttarottarasya apratītasya pratītaye jñānāntarānusaraṇena anavasthāprasaṅgācca na kathaṃcid api arthasya pratītir iti. tena yad uktam "anyānubhūte" ityādi, tadasaṃgatam, arthasyānubhavābhāvāt ||
+	māyāpuruṣaghātādau cittābhāvān na pāpakam |
 
-sarvaścāyaṃ dṛṣṭādivyavahāro loke na syād ity āha yathā dṛṣṭamityādi. yad ucyate dṛṣṭādivyavahāro na syād iti, sa kiṃ paramārthato na syāt, saṃvṛtyā vā? tatra yadi paramārthato na syād ity ucyate, tadā priyam idam asmākam. na hi sāṃvṛtasya paramārthacintāyāmavatāro 'sti. atha lokaprasiddhiḥ, tadā—
+māyāpuruṣasya ghātādau māraṇādau. ādiśabdena tasyādattādi gṛhṇataḥ. samāne 'pi niḥsvabhāvatve cittasya vijñānasya māyāpuruṣasaṃtāne 'bhāvād asattvān na pāpakaṃ nākuśalam utpadyate prāṇātipātādi. pāpam eva pāpakam, svārthe kanvidhānāt. tatrāpi māraṇābhiprāyeṇa prahāraṃ dadato bhavaty eva aśubham, na tu prāṇātipātaḥ. māyāpuruṣād anyatra kathaṃ prāṇātipāta iti ced āha—cittam āyetyādi.
+
+	cittamāyāsamete tu pāpapuṇyasamudbhavaḥ || Bca_9.11 ||
+
+cittam eva māyā cittamāyā, tayā samete yukte, māyāsvabhāvena cittena saṃbaddha ity arthaḥ. tuśabdaḥ pūrvasmād viśeṣārthaḥ. puṇyaṃ ca pāpaṃ ca puṇyapāpe, tayoḥ sukṛt aduṣkṛtayoḥ samudbhavaḥ samutpattiḥ. upakārāpakārayor iti sāmagrīviśeṣāt kāryaviśeṣaḥ. yathā saty api gomayetarajanmanor vartikayor ākārasāmye kāraṇabhedāt svabhāvabhedaḥ. tathā ihāpi noktadoṣaprasaṅgaḥ.
 
 ---
 
-yathā dṛṣṭaṃ śrutaṃ jñātaṃ naiveha pratiṣidhyate.
+yad uktam—cittamāyeti, tat paro vighaṭayann āha—mantrādīnām ityādi.
 
-iti. yathā dṛṣṭam iti cakṣurādivijñānena pratyakṣeṇa pratipannam. śrutam iti parapudgalādāgamācca. jñātam iti trirūpaliṅgajādanumānānniścitam. tadetad iha sarvaṃ vyavahāramāśritya naiva pratiṣidhyate, naiva vāryate. yad yathā lokataḥ pratīyate, tat tathaiva avicāritasvarūpam abhyupagamyate lokaprasiddhitaḥ, na tu punaḥ paramārthataḥ. tena jñānasaṃvedanābhāvādarthānadhigamādayo 'pi doṣāḥ paramārthapakṣavādina iha nāvataranti. yadi tat tathaivābhyupagamyate, kiṃ nāma tarhi pratiṣidhyate ity āha satyata ityādi—
+	mantrādīnām asāmarthyān na māyācittasaṃbhavaḥ |
+
+mantrādīnām ādiśabdādauṣadhādīnāṃ cittotpādaṃ prati asāmarthyād avyāpārān na māyācittasaṃbhavo na māyāsvabhāvaṃ cittaṃ saṃbhavati. yathā paravyāmohanibandhanānāṃ māyākāraprayuktānāṃ mantrādīnāṃ prabhāveṇa hastyādyākāranirvṛttiḥ, na tathā cittasyeti parasya bhāvaḥ. etat pariharann āha—sāpi nānāvidhetyādi.
+
+	sāpi nānāvidhā māyā nānāpratyayasaṃbhavā || Bca_9.12 ||
+
+apiśabdo 'vadhāraṇārtho bhinnakramaś ca. sā māyā nānāvidhaiva nānāprakāraiva. ata eva nānāpratyayasaṃbhavā nānāpratyayāt anekaprakārakāraṇāt saṃbhava utpādo yasyāḥ sā tathoktā. ayamabhiprāyaḥ—yadi māyā māyeti śabdasāmyam asti, tathāpi na tatkāraṇasyāpyabhedaḥ, māyāsvabhāvatve 'pi kāryasya nānāsvabhāvatvāt. na hi ekasmin kārye kiṃcit kāraṇaṃ dṛṣṭam iti kāryaśabdasāmyāt sarvatra tad eva prakalpayituṃ yujyate, api tu kvacid eva kasyacit sāmarthyam, śabdasāmye 'pi svabhāvabhedāt.
+
+---
+
+etadevopadarśayann āha—naikasyeti.
+
+	naikasya sarvasāmarthyaṃ pratyayasyāsti kutracit ||
+
+naikasya kvacid upalabdhasāmarthyasya pratyayasya kāraṇasya hetoḥ sarvasāmarthyaṃ sarvasmin kārye sāmarthyaṃ śaktir asti saṃbhavati. kvacid dṛṣṭam iti kṛtvā kutracid iti kasmiṃścit samaye deśe kāle vā dṛṣṭam iṣṭaṃ vā. tataś ca kācin māyā mantrādisāmarthyapratilabdhasvabhāvā, kācit punar anādisaṃsārapravṛttamāhātmyā'vidyādiprabhāvapravartitā. tasmān na sarvāsu mantrādisāmarthyam iti. etat sarvaṃ lokavyavahārānugataṃ kalpanānirmitaṃ sāṃvṛtaṃ vastutattvam upādaya samutthitaṃ na tu paramārthataḥ, paramārthadaśāyāṃ jananamaraṇotpādanirodhahetuphalabhāvābhāvādikalpanāyā abhāvāt, prakṛtinirvṛtatvāt sarvadharmāṇām iti.
+
+---
+
+etad asahamānaḥ paraḥ punar anyathā prasañjayann āha—nirvṛta iti.
+
+	nirvṛtaḥ paramārthena saṃvṛtyā yadi saṃsaret || bca_9.13 ||
+
+nirvṛtaḥ svabhāvaśūnyatvād utpādanirodharahitaḥ. paramārthena paramārthasatyataḥ prakṛtinirvāṇatayādiśāntatvāt. yadi saṃvṛtyā saṃvṛtisatyena kālpanikatvena saṃsaret, jātijarāmaraṇayogī bhavet, tadā ayaṃ mahān virodhaḥ syād ity āha—<author id="a1">buddho</author> 'pi saṃsaredevam ityādi.
+
+	buddho 'pi saṃsared evaṃ tataḥ kiṃ bodhicaryayā | 
+
+evam abhyupagamyamāne buddho 'pi sarvāvaraṇaprahāṇato nirvṛto 'pi saṃsaret janmādibhāg bhavet. yata evam, tataḥ tasmāt kāraṇāt kiṃ bodhicaryayā? bodhaye buddhatvāya caryā karacaraṇaśiraḥpradānādyanekaduṣkaraśatalakṣaṇā, tayā kim? na kiṃcit prayojanam, uktakrameṇa vaiphalyāt. sā hi sarvasāṃsārikadharmanivṛttaye sarvaguṇasamuccayāśritabuddhatvaprāptaye ca samāśrīyate, tathāpi na sāṃsārikadharmanivṛttiś cet, kiṃ tatsamāśrayeṇa saṃsādhitam iti bhāvaḥ.
+
+---
+
+tat pratyuktam eva yāvat pratyayasāmagrītyādinā, punar api vispaṣṭayann āha—pratyayānām ityādi.
+
+	pratyayānām anucchede māyāpy ucchidyate na hi |
+	pratyayānāṃ tu vicchedāt saṃvṛtyāpi na saṃbhavaḥ || Bca_9.14 ||
+
+pratyayānāṃ kāraṇānām. anucchede avināśe. hir yasmāt. māyāpi na kevalaṃ saṃsāra iti samuccaye apiśabdaḥ. naivocchidyate na nivartate. pratyayānāṃ kāraṇānāṃ tu vicchedān nivṛtteḥ, saṃvṛttyāpi kālpanikavyavahāreṇāpi na saṃbhavo na saṃsaraṇam. pratyayānāṃ samucchedaḥ punas tattvābhyāsād avidyādinirodhakrameṇa veditavyaḥ. tad yathoktam <title id="t1">āryaśālistambasūtre</title>—
+
+	<quote id="q1" titleid="t1">evam ukte maitreyo bodhisattvo mahāsattva āyuṣmantaṃ śāriputram etad avocat—yad uktaṃ bhagavatā dharmasvāminā sarvajñena—yo bhikṣavaḥ pratītyasamutpādaṃ paśyati, sa dharmaṃ paśyati. yo dharmaṃ paśyati, sa buddhaṃ paśyati. tatra katamaḥ pratītyasamutpādo nāma? yad idam—avidyāpratyayāḥ saṃskārāḥ. saṃskārapratyayaṃ vijñānam. vijñānapratyayaṃ nāmarūpam. nāmarūpapratyayaṃ ṣaḍāyatanam. ṣaḍāyatanapratyayaḥ sparśaḥ. sparśapratyayā vedanā. vedanāpratyayā tṛṣṇā. tṛṣṇāpratyayam upādānam. upādānapratyayo bhavaḥ. bhavapratyayā jātiḥ. jātipratyayā jarāmaraṇaśokaparidevaduḥkhadaurmanasyopāyāsāḥ. evam asya kevalasya mahato duḥkhaskandhasya samudayo bhavati. tatrāvidyānirodhāt saṃskārā nirudhyante. peyālaṃ. evam asya kevalasya mahato duḥkhaskandhasya nirodho bhavati. ayam ucyate pratītyasamutpādaḥ. peyālaṃ. ya imaṃ pratītyasamutpādaṃ satatasamitaṃ nirjīvaṃ yathāvad aviparītam ajātam abhūtam asaṃskṛtam apratigham anālambanaṃ śivam abhayam ahāryam avyupaśam asvabhāvaṃ paśyati, sa dharmaṃ paśyati. yas tu evaṃ satatasamitaṃ yāvad avyupaśam asvabhāvaṃ dharmaṃ paśyati, so 'nuttaraṃ dharmaśarīraṃ buddhaṃ paśyati. peyālam. tatrāvidyā katamā? eteṣām eva ṣaṇṇāṃ dhātūnāṃ yā ekasaṃjñā piṇḍasaṃjñā nityasaṃjñā dhruvasaṃjñā śāśvatasaṃjñā sukhasaṃjñā'tmasaṃjñā sattvasaṃjñā jīvasaṃjñā jantusaṃjñā manujasaṃjñā mānavasaṃjñā ahaṃkāramamakārasaṃjñā. evamādi vividhamajñānam, iyam ucyate 'vidyā. evam avidyāyāṃ satyāṃ viṣayeṣu rāgadveṣamohāḥ pravartante. tatra ye rāgadveṣamohā viṣayeṣu, amy avidyāpratyayāḥ saṃskārā ity ucyante. vastuprativijñaptirvijñānam. catvāri mahābhūtāni copādāya rūpam aikadhyarūpam. vijñānasahajāś catvāro 'rūpiṇa upādānaskandhā nāma, tannāmarūpam. nāmarūpasaṃniśritāniīndriyāṇi ṣaḍāyatanam. trayāṇāṃ dharmāṇāṃ saṃnipātaḥ sparśaḥ. sparśānubhavo vedanā. vedanādhyavasānaṃ tṛṣṇā. tṛṣṇāvaipulyamupādānam. upādānanirjātaṃ punar bhavajanakaṃ karma bhavaḥ. bhavahetukaḥ skandhaprādurbhāvo jātiḥ. jātyabhinirvṛttānāṃ skandhānāṃ paripāko jarā. skandhavināśo maraṇam. mriyamāṇasya saṃmūḍhasya sābhiṣvaṅgasyāntardāhaḥ śokaḥ. śokotthalapanaṃ paridevaḥ. pañcavijñānasaṃprayuktam āghātānubhavanaṃ duḥkham. duḥkhamanasikārasaṃprayuktaṃ mānasaṃ duḥkhaṃ daurmanasyam. ye cānye evam ādāya upakleśāḥ, ime upāyāsā ity ucyante.
+
+	tatra mahāndhakārārthena avidyā. abhisaṃskārārthena saṃskārāḥ. viajñānanārthena vijñānam. mananārthena nāmarūpam. āyadvārārthena ṣaḍāyatanam. sparśanārthena sparśaḥ. anubhavanārthena vedanā. paritarṣaṇārthena tṛṣṇā. upādānārthena upādānam. punarbhavajananārthena bhavaḥ. skandhaprādurbhāvārthena jātiḥ. skandhaparipākārthena jarā. vināśārthena maraṇam. śocanārthena śokaḥ. vacanaparidevanārthena paridevaḥ. kāyasaṃpīḍanārthena duḥkham. cittasaṃpīḍanārthena daurmanasyam. upakleśārthena upāyāsāḥ.</quote>
+
+iti vistaraḥ ||
+
+---
+
+evam upadarśitapratyayānām anucchede saṃsāro 'vikalaḥ pravartate, dvādaśāṅgapratītyasamutpādasyaiva saṃsāratvāt. yadāhur <author id="a1">ācāryapādāḥ</author>—
+
+	<quote id="q1" authorid="a1">yathākṣepaṃ kramād vṛddhaḥ saṃtānaḥ kleśakarmabhiḥ |
+	paralokaṃ punar yātīty anādi bhavacakrakam ||
+	sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ |</quote>
+
+iti. pratyayānāṃ punar ucchede sarvathaiva saṃsaraṇaṃ na syāt, kāraṇavaikalyāt. tataś ca "buddho 'pi saṃsared evam" ity etan na prasajyate iti.
+
+---
+
+evaṃ tāvat sautrāntikādicodyamudasya yogācāravipratipattinirākaraṇāya tanmatena dūṣaṇamudbhāvayann āha—yadā na bhrāntir apītyādi.
+
+	yadā na bhrāntir apy asti māyā kenopalabhyate || Bca_9.15 ||
+
+yadā sarvaṃ jagat māyātmakatayā svabhāvaśūnyam upagataṃ madhyamakavādibhiḥ, māyāsvabhāvasaṃvṛtigrāhiṇī buddhir api bhavatāṃ nāsti bāhyavat, tadā māyā kenopalabhyate, kena pratīyate tadgrāhakavastusajjñānam antareṇa? naiva kenacidity arthaḥ. yasya punaḥ svacittam eva paramārthasat bāhyarūpatayā bhrāntaṃ tathā pratibhāsate, na tasyāyaṃ doṣa iti bhāvaḥ.
+
+etan nirākartum āha—yadā māyaivetyādi.
+
+	yadā māyaiva te nāsti tadā kimupalabhyate |
+
+---
+
+yadā māyaiva grāhyatayā hastyādyākārapravṛtyā tava vijñānavādino nāsti, cittamātraṃ jagad abhyupagacchanto bahirarthābhāvāt, tadā kim upalabhyate, tadā kim iha pratibhāsate? bahirarthābhāvād deśādivicchedena pratibhāso na yukta ity arthaḥ. atra parasyābhiprāyam āśaṅkyann āha—cittasyaiva sa ityādi.
+
+	cittasyaiva sa ākāro yady apy anyo 'sti tattvataḥ || Bca_9.16 ||
+
+uktam atra cittam eva bahīrūpatayā bhrāntaṃ hastyādyākāraṃ pratibhāsata iti. uktam eva. kiṃ tu yady api cittasyaiva jñānasyaiva sa iti deśādivicchedena grāhyatayā pratibhāsamāna ākāro nirbhāsaḥ, anya ity apara āntarād grāhakāc cittākārāt, asti vidyate, tattvato vastutaḥ.
+
+yady apīty abhyupagamyoktam, tathāpi naitat saṃgacchata ity āha—cittam eva yadā māyetyādi.
+
+	cittam eva yadā māyā tadā kiṃ kena dṛśyate |
+
+cittam eva vijñānam eva vedakatayā svīkṛtam, yadā māyā nānyā, na hi vedakacittavyatiriktā kācid anyā māyā nāma, tadātmatayā tasyās tathā pratibhāsopagamāt, tadā kiṃ kena dṛśyate, kiṃ kena pratīyate? darśanam eva hi kevalam asti na dṛśyam. dṛśyam antareṇa darśanam api na syāt, dṛśyāpekṣatvāttasya. ato na kenacit kiṃcit dṛśyeta, iti āndhyamaśeṣasya jagataḥ prāptam iti bhāvaḥ. nanu syād evaitat yadi jñānasya ātmasaṃvedanaṃ na syāt, yāvatā svasaṃvedanatayā svarūpaṃ saṃvedayat tadabhinnaṃ māyādipratibhāsam api vedayet. tathā ca sati na kācit kṣatir iti vijñānavādino 'bhiprāyam āśaṅkyāha.
+
+	uktaṃ ca lokanāthena cittaṃ cittaṃ na paśyati |
+
+svabhāvaśūnyam eva sarva jagad yadā yuktitaḥ pratipāditam, tadā kaḥ kasya svabhāvo vastuta iti kasya kena vedanaṃ syāt? uktaṃ ca <author id="a1">bhagavatā</author>—
+
+	<quote id="q3" authorid="a1">sarvadharmāḥ śūnyāḥ, śūnyatālakṣaṇaṃ cittam. sarvadharmā viviktāḥ, viviktatālakṣaṇaṃ cittam.</quote>
+
+iti.
+
+---
+
+kiṃ ca. uktaṃ ca kathitaṃ ca lokanāthena lokānāṃ sarvasattvānāṃ nāthena śaraṇyena buddhena bhagavatā. kim uktam? cittaṃ cittaṃ na paśyatiti cittaṃ svātmānaṃ na jānāti. saty api vastutve svātmani kāritravirodhāt. katham iva?
+
+	na cchinatti yathātmānam asidhārā tathā manaḥ || Bca_9.17 ||
+
+yathā sutīkṣṇāpy asidhārā khaṅgadhārā tadanyavad ātmānaṃ svakāyaṃ na cchinatti na vighāṭayati, svātmani kriyāvirodhāt, tathā manaḥ. asidhārāvac cittam api svātmānaṃ na paśyatīti yojyam. tathā hi na tad evaikaṃ jñānaṃ vedyavedakavedanātmasvabhāvatrayaṃ yuktam, ekasya niraṃśasya trisvabhāvatāyogāt. tatredam uktam <title id="t1">āryaratnacūḍasūtre</title>—
+
+	<quote id="q1" titleid="t1">sa cittaṃ parigaveṣamāṇo nādhyātmaṃ cittaṃ samanupaśyati. na bahirdhā cittaṃ samanupaśyati. na skadheṣu cittaṃ samanupaśyati. na dhātuṣu cittaṃ samanupaśyati. nāyataneṣu cittaṃ samanupaśyati. sa cittam asamanupaśyaṃś cittadhārāṃ paryeṣate—kutaś cittasyotpattir iti. ālambane sati cittam utpadyate. tat kim anyac cittam anyad ālambanam, atha yad evālambanaṃ tad eva cittam? yadi tāvad anyad ālambanam anyac cittam, tad dvicittatā bhaviṣyati. atha yad evālambanaṃ tad eva cittam, tat kathaṃ cittaṃ cittaṃ paśyati? na hi cittaṃ cittaṃ samanupaśyati. tad yathā na tasyaivāsidhārayā saiva asidhārā śakyate chettum, na tenaivāṅgulyagreṇa tad evāṅgulyagraṃ spraṣṭuṃ śakyate. evam eva tenaiva cittena tad eva cittaṃ draṣṭum.</quote>
+
+iti vistaraḥ.
+
+---
+
+atra cittāmātravādinaḥ svātmani kriyāvirodhaṃ vighaṭayituṃ svapakṣaprasādhanāya dṛṣṭāntam udbhāvayann āha—ātmabhāvam ityādi.
+
+	ātmabhāvaṃ yathā dīpaḥ saṃprakāśayatīti cet |
+
+ātmabhāvaṃ svasvarūpaṃ yathā dīpaḥ pradīpaḥ saṃprakāśayati dyotayati. yathā hi kilāndhakārāvṛtaghaṭādivastupratipattaye pradīpa upādīyate, na tathā pradīpaprakāśanāya pradīpāntaram, api tu ghaṭādi prakāśayann eva ātmānam api prakāśayati, tathā prakṛte 'pi svasaṃvedane veditavyam. na cāpi kvacid virodho dṛṣṭa iti sarvatra yojanīyam. tasmāt pradīpavad avirodha eveti cet, yady evaṃ manyase, tadā naivaṃ vaktavyam. kuta ity āha—naivetyādi.
+
+	naiva prakāśyate dīpo yasmān na tam asāvṛtaḥ || Bca_9.18 ||
+
+naiva prakāśyate ghaṭādivan naivoddayotyate dīpaḥ, yasmān na tamasāvṛtaḥ na andhakārapihitaḥ. vidyamānasyāvaraṇasyāpanayanaṃ prakāśanam. tato yuktaṃ ghaṭādīnāṃ prakāśanam, teṣāṃ prāg vidyamānatvāt. naivaṃ pradīpasya, tasya prāg avidyamānatvāt. na ca avidyāmānasya prakāśanaṃ yuktam, asattvāt. tasmān naiva prakāśyate dīpaḥ. iti visadṛśatvān na pradīpadṛṣṭāntāt sādhyasiddhiḥ.
+
+---
+
+syād etat—ātmabhāvam ityādinā naitad abhidhīyate yad ātmānaṃ ghaṭavat tamasāvṛtaṃ prakāśayati dīpaḥ. api tu tatsvabhāvaṃ prati paranirapekṣatāmātram asyābhidhīyate. etad evopadarśayann āha—na hītyādi.
+
+	na hi sphaṭikavan nīlaṃ nīlatve 'nyam apekṣate |
+	tathā kiṃcit parāpekṣam anapekṣaṃ ca dṛśyate || Bca_9.19 ||
+
+hir iti yasmāt. yathā sphaṭikopalaḥ svayam anīlaḥ san, nīlatve nīlaguṇotpattinimittam anyam upādhiṃ nīlapatrādisaṃnidhim apekṣate, tathā svayam eva yad vastu nīlam, tad api na nīlatve 'nyam upādhim apekṣate. tathā tena prakāreṇa kiṃcid ghaṭādikaṃ parāpekṣaṃ pradīpādyapekṣaṃ prakāśaṃ dṛśyate, kiṃcit punaḥ pradīpādikam anapekṣaṃ ca svayaṃprakāśātmakaṃ dṛśyata upalabhyate. etāvanmātram eva vivakṣitam.
+
+---
+
+evaṃ vijñānavādinopadarśite viśeṣe siddhāntavādī nīlam eva tāvan nīlatve paranirapekṣaṃ dṛṣṭāntatvenopadarśitaṃ pratiṣedhayann āha—anīlatva ityādi.
+
+	anīlatve na tan nīlaṃ nīlahetur yathekṣyate |
+	nīlam eva hi ko nīlaṃ kuryād ātmānam ātmanā || Bca_9.20 ||
+
+ayam api na sadṛśo dṛṣṭāntaḥ, yato nīlam api na nīlatve sphaṭikavan nirapekṣam, tadbhāvaṃ prati svahetupratyayāpekṣatvāt. kadā punar idam anapekṣaṃ syāt yadi tad anīlam eva svahetor utpadyeta. punas tadbhāve paranirapekṣaṃ svayam eva nīlam ātmānaṃ kuryāt. na caitad asti, yataḥ anīlatve nīlaguṇarahitatve sati neti niṣedhayati. tad iti nīlābhimataṃ vastu. nīlaṃ nīlaguṇayuktam ātmānaṃ svarūpam ātmanā svayam eva na kuryāt, na kartuṃ śaknoti, pūrvavat svasmin kriyāvirodhāt. tasmān na nīlasyāpi parānapekṣatā nīlatvaṃ prati sphaṭikavat. tathā hi sphaṭikopalo 'pi vastuto 'vasthitarūpa evopādhisaṃnidhau na nīloparāgam anubhavati, api tu sarvasvopādānalakṣaṇāt. nīlopādhiviśeṣahakāriṇaś ca pūrvasvarasanirodhād anya eva nīlaguṇoparaktaḥ sphaṭikopala utpadyata iti siddhāntaḥ. tasmāt sādhāraṇam anayos tadguṇaṃ prati hetupratyayādhīnatvam. iti prakṛte 'pi sādhye na kaścid viśeṣaḥ.
+
+---
+
+nanu priyam idam anuṣṭhitaṃ priyeṇa yasmāt jaḍasvabhāvavyāvṛttātmatayā svahetupratyayād utpattir eva jñānasya prakāśāntaranirapekṣasyātmaprakāśatā svasaṃvedanam ucyate. etad eva tvayāpi nīlasvarūpaparāmarṣeṇa samarthitam. etāvanmātreṇa pradīpo 'pi dṛṣṭāntīkṛtaḥ. na punar asmābhiḥ karmakartṛkriyābhedena jñānasyātmaprakāśanam iṣyate, ekasya sataḥ karmādisvabhāvatrayasyāyogāt. tan na kriyādibhedena dūṣaṇe 'pi kiṃcid dūṣitam asmākaṃ syāt, svahetujanitasyātmaprakāśasyānupaghātāt. iti nātmasaṃvedane pratipāditadoṣaprasaṅgaḥ. tad uktam—
+
+	<quote id="q1">vijñānaṃ jaḍarūpebhyo vyāvṛttam upajāyate |
+	iyam evātmasaṃvittir asya yā jaḍarūpatā ||
+	kriyākārakabhedena na svasaṃvittir asya tu |
+	ekasyānaṃśarūpasya trairūpyānupapattitaḥ ||</quote>
+
+iti.
+
+atrocyate—kriyākārakabhedena vyavahāraprasiddhaṃ śabdārtham adhigamya dūṣaṇam uktam, svasaṃvedanaśabdasya tadarthābhidhāyakatvāt. yadi punar doṣabhayāl lokaprasiddho 'pi śabdārthaḥ parityajyate, tadā lokata eva bādhā bhavato bhaviṣyati. ittham api na paramārthataḥ svasaṃvedanasiddhiḥ. tathā hi hetupratyayopajanitasya pratibimbasyeva niḥsvabhāvatvam uktam. tathā ca sutarāṃ na svasaṃvedanaṃ jñānasya, tattvato nijasvabhāvābhāvāt. na ca svabhāvābhāve gaganotpalasyātmasaṃvedanam ucitam. na cāpi jaḍasvabhāvatā madhyamakavādinaṃ prati paramārthataḥ kasyacit siddhā, yena jaḍavyāvṛttam ajaḍaṃ svasaṃvedanaṃ syat. tasmād anyān eva vastuvādinaḥ prati yuktam etad vaktum. tato niḥsvabhāvatayā na kathaṃcid api svasaṃvedanasiddhiḥ. etat punaḥ paścāt smṛtyupasthānopadarśanaprastāve vistareṇopadarśayiṣyāmaḥ.
+
+---
+
+sāṃprataṃ pradīpasya svayaṃprakāśatām abhyupagamya buddheḥ svasaṃvedanam ayuktam iti pratipādayann āha—dīpa ityādi.
+
+	dīpaḥ prakāśata iti jñātvā jñānena kathyate |
+	buddhiḥ prakāśata iti jñātvedaṃ kena kathyate || Bca_9.22 ||
+
+bhavatu vā pradīpasya prakāśātmatā. tathāpi na buddhisaṃvedanasādhanaṃ prati sadṛśo dṛṣṭānta iti samudāyārthaḥ. dīpaḥ prakāśata iti ābhāsate prakāśāntaranirapekṣaḥ svayam eva, iti jñātvā pratītya jñānena buddhyā kathyate pratipādyate, pradīpasya jñānaviṣayatvāt. buddhir jñānaṃ prakāśate iti yad ucyate, tat punaḥ kena jñānena jñātvā kathyata iti paraṃ pṛcchati. na cātra kiṃcid buddhipratipattinibandhanam astīty asaṃbhāvanāṃ prakāśayati. na tāvat pūrvajñānena tatpratipattiḥ, tatkālam anutpattes tasyāsattvāt. nāpi paścāt kālabhāvinā tadānīṃ kṣaṇikatayā grāhyasyātītatvāt. na ca tatsamānakālabhāvinā tena tasyānupakārāt. na cānupakārakasya viṣayabhāvaḥ, nākāraṇaṃ viṣaya iti vacanāt. nāpi svayam, tatraiva vipratipatteḥ. tat kathaṃ tatpratītir iti na vidmaḥ.
+
+---
+
+itthaṃ sarvathā buddher apratipattau tat saṃvedanam atīva ayuktam ity āha—prakāśā vetyādi.
+
+	prakāśā vāprakāśā vā yadā dṛṣṭā na kenacit |
+	vandhyād uhitṛlīleva kathyamānāpi sā mudhā || Bca_9.23 ||
+
+prakāśā vā prakāśātmikā dīpavat. aprakāśā vāprakāśātmikā ghaṭādivat. parasparasamuccaye vāśabdadvayam. buddhiḥ yadā dṛṣṭā na kenacit, na pratipannā kenacit pratipattrā svayaṃrūpeṇa vā. yadeti padaṃ tadety ākarṣati. tadā vandhyāyā aprasavadharmiṇyāḥ striyā duhitā putrī, tasyā līlā vilāso lalitaṃ tadvat. kathyamānāpy ākhyāyamānāpi sā mudhā. seti buddhiḥ. mudheti niṣphalā. vandhyād uhitur avidyamānatayā pratipannatvāt tallīlā sutarām apratipannety abhiprāyaḥ. athavā. anutpannāniruddhasvabhāvatayā vandhyād uhitṛsthānīyā buddhiḥ. apratītatatsvabhāvatayā tallīlāvat svasaṃvittiḥ. tadapratīteḥ tasyā api apratītir iti kathyamānāpi yuktirahitena vacanamātreṇa sā svasaṃvittir mudhāḥ, anupādeyatvān niṣprayojanā.
+
+---
+
+syād evam—yuktiśūnyaṃ vacanamātram etat, yataḥ iyam atra yuktir astīty āha—yadi nāstītyādi |
+
+	yadi nāsti svasaṃvittir vijñānaṃ smaryate katham |
+
+yadi svasaṃvedanaṃ vijñānasya nāsti na vidyate, tadā vijñānaṃ smaryate katham? vijñānasya svasaṃvedanābhāvād uttarakālaṃ smaraṇaṃ na syāt. na hi ananubhūtasmaraṇaṃ yuktam, atiprasaṅgāt. tasmād anubhavaphalasya smaraṇasyottarakālaṃ darśanāj jñānasaṃvedanam astīty anumīyata iti. naitat sādhanaṃ sādhīyaḥ. yato yadi svasaṃvedanakāryatayā smaraṇaṃ niścitaṃ bhavet, bhaved vahner yathā dhūmaḥ svasaṃvedanasya kāraṇaṃ smṛtiḥ. na cāsiddhe svasaṃvedane pramāṇataḥ. smaraṇasya tatkāryatāgrahaṇam asti. sarvathobhayapratipattināntarīyakatvāt kāryakāraṇabhāvapratipatteḥ. na ca cakṣurāder iva vijñānam, adarśane 'pi smaraṇaṃ tatkāryaṃ setsyati. cakṣuṣo hi vyatireke nīlādijñānābhāvato tatkāryamanumīyate. smṛtis tu jñānasaṃvedanam antareṇāpi bhavatīti pratipādayiṣyāmaḥ, iti svasaṃvedanakāryatāniścayamantareṇa smaraṇasya tadvinābhāvān na saṃvedanasiddhiḥ. ataḥ smaraṇam api jñānatvāt kathaṃ siddham iti vaktavyam. na ca svayam asiddhaṃ liṅgaṃ jñāpakam anyasya. na ca smaraṇaṃ svasaṃvedanasya pratyakṣatayā grāhakam, tasya tasmād anyatvāt. na ca jñānasya jñānāntaraviṣayatvam, bahirarthavat saṃbandhāsiddhayādidoṣaprasaṅgāt. anyatvāviśeṣāt saṃtānāntarabhāvināpi smaraṇena tasya grahaṇaṃ syāt. atha tena pūrvam ananubhūtatvān na smaryata iti cet, ekasaṃtatipatitenāpi na pūrvam anubhūtam iti samānaḥ prasaṅgaḥ.
+
+---
+
+kāryakāraṇabhāvo 'pi na tasya niyāmako yujyate, kāryakāraṇabhāvasyaiva paramārthato 'bhāvāt, saty api tasmin sarvajñānānāṃ svapratipattiniṣṭhatayā tadgrahaṇasyāśakyatvāt. yathāvyavahāram abhyupagame kālpanikatvam, kālpanikatve ca sarvavyavahārāṇāṃ kalpanānirmitatvāt sāṃvṛtatvam iti sādhitaṃ naḥ sādhyam. iti na smṛteḥ svasaṃvedanasiddhiḥ.
+
+bhavato 'pi kathaṃ tarhi svasaṃvedanābhāve smṛtir ity āha—anyānubhūta ityādi.
+
+	anyānubhūte saṃbandhāt smṛtir ākhuviṣaṃ yathā || Bca_9.24 ||
+
+jñānād anyasmin grāhye vastuni viṣaye 'nubhūte sati jñāne smṛtiḥ smaraṇam upajāyate. nanu anyasminn anubhūte 'nyatra smaraṇe 'tiprasaṅgaḥ syād ity āha—saṃbandhād iti. viṣaye 'nubhūte tadvijñānasmaraṇaṃ saṃbandhād bhavati. vijñānaṃ hi tadgrāhakatayā tatsaṃbaddham. ato vijñānaṃ smaryate, nānyat. saty api saṃbandhe 'nyasminn anubhūte 'nyasya smaraṇe viplutaṃ smaraṇaṃ syād iti cet, na, pūrvam anubhūto viṣaya uttarakālam anusmaryamāṇaḥ sa evānubhavaviśiṣṭo 'nusmaryate, tadviśiṣṭasya tasya grahaṇāt. jñānam eva ca viṣayānubhavo nānya iti viṣayānubhavasmaraṇāt tatsaṃbaddhatayā jñāne smaraṇam abhidhīyate, na tu viṣayarahitaṃ jñānam api kevalam anusmaryate ity adoṣaḥ.
+
+---
+
+nanu kathamiva jñānasaṃvedanāhitasmṛtivāsanābījamantareṇa smṛtiruttarakālaṃ syād ity āhaākhuviṣaṃ yatheti. ākhuviṣaṃ mūṣikaviṣaṃ yathā saṃbandhāt kālāntareṇa jāyate, tathā smṛtirapīty arthaḥ. tathā hi mūṣikaviṣamekasmin kṣaṇe śarīrasaṃkrāntaṃ punaḥ kālāntareṇa meghastanitamadhigamya vināpi svasaṃvedanāhitasmṛtivāsanābījam idaṃpratyayatāmātrāyatavṛttitvāt anyasmin kṣaṇe vikṛtimupayāti, tathā prakṛte 'pi na duṣyatīti bhāvaḥ.
+
+punar api vijñānavādī jñānasaṃvedanasiddhaye prakārāntaram upadarśayitum—āha pratyayāntareti.
+
+	pratyayāntarayuktasya darśanātsvaṃ prakāśate |
+
+pratyayāntaraṃ kāraṇāntaram. īkṣaṇikādividyā paracittādijñānābhijñā ca tābhyāṃ yuktasya tatsāmagrīsaṃbaddhasya cittasya darśanāt pratibhāsanāt vijñānasya khaṃ prakāśate svarūpaṃ pratibhāsate, saṃvedanam astīti yāvat. yadi hi tat sarvadā parokṣarūpaṃ kathaṃ kadācit sāmagrīviśeṣād upalabhyeta. tato yathā sāmagrīviśeṣāt paracittam upalabhyate, tathā samanantarālambanādipratyayāt svacittam apy upalabhyata iti bhāvaḥ.
+
+---
+
+etad api na jñānasaṃvedanasāmarthyam ity āha—siddhāñjanetyād.
+
+	siddhāñjanavidher dṛṣṭo ghaṭo naivāñjanaṃ bhavet || Bca_9.25 ||
+
+siddhaṃ ca tad añjanaṃ ca, siddhasya vāñjanam, tasya vidhiḥ vidhānaṃ prayogaḥ, tasmād dṛṣṭaḥ pratītaḥ ghaṭo nidhānādi vā naivāñjanaṃ bhavati. na ca ghaṭādir añjanam eva syāt. na yad yasmāt pratīyate tad eva tad bhavati. evam īkṣaṇikādividyāsahakāriṇā jñānena paracittaṃ ca ghaṭādivad dṛṣṭam iti naitāvatā tatsaṃvedanaṃ siddhaṃ syāt. tasmān naitad api sādhyopayogi sādhanam. nanu yadi jñānamaviditasvarūpaṃ syāt, arthasyāpi pratītirna syāt. avyaktavyaktikatvād jñānasya, na hi arthasya vyaktiḥ. tadapratītau kathamarthasya pratītiḥ? tathā hi svasaṃvedanasya pratiṣedhāt, anyena anyasya grahaṇāyogāc ca, tadgahaṇābhyupagame ca uttarottarasya apratītasya pratītaye jñānāntarānusaraṇena anavasthāprasaṅgāc ca na kathaṃcid api arthasya pratītir iti. tena yad uktam "anyānubhūte" ityādi, tadasaṃgatam, arthasyānubhavābhāvāt.
+
+---
+
+sarvaś cāyaṃ dṛṣṭādivyavahāro loke na syād ity āha yathā dṛṣṭamityādi. yad ucyate dṛṣṭādivyavahāro na syād iti, sa kiṃ paramārthato na syāt, saṃvṛtyā vā? tatra yadi paramārthato na syād ity ucyate, tadā priyam idam asmākam. na hi sāṃvṛtasya paramārthacintāyāmavatāro 'sti. atha lokaprasiddhiḥ, tadā—
+
+	yathā dṛṣṭaṃ śrutaṃ jñātaṃ naiveha pratiṣidhyate |
+
+iti. yathā dṛṣṭam iti cakṣurādivijñānena pratyakṣeṇa pratipannam. śrutam iti parapudgalādāgamāc ca. jñātam iti trirūpaliṅgajādanumānān niścitam. tad etad iha sarvaṃ vyavahāram āśritya naiva pratiṣidhyate, naiva vāryate. yad yathā lokataḥ pratīyate, tat tathaiva avicāritasvarūpam abhyupagamyate lokaprasiddhitaḥ, na tu punaḥ paramārthataḥ. tena jñānasaṃvedanābhāvādarthānadhigamādayo 'pi doṣāḥ paramārthapakṣavādina iha nāvataranti.
