@@ -24,7 +24,7 @@ class ValidationError:
 class SanskritValidator:
     def __init__(self):
         self.valid_tags = {'quote', 'author', 'title'}
-        self.valid_attributes = {'id', 'authorid', 'titleid', 'type'}
+        self.valid_attributes = {'id', 'authorid', 'titleid', 'type', 'authorid2', 'chapterid'}
         self.valid_type_values = {'generic', 'chapter', 'speaker', 'possiblyauthorial'}  # Add more as needed
         self.errors: List[ValidationError] = []
     

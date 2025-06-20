@@ -77,9 +77,9 @@ def main():
     file_results: Dict[str, Tuple[int, int, int]] = {}
     
     print("Analyzing samples in .txt files...")
-    print("=" * 80)
-    print(f"{'File':<30} {'Total':<8} {'With <quote>':<12} {'Without <quote>':<15} {'Negative %':<10}")
-    print("-" * 80)
+    print("=" * 95)
+    print(f"{'File':<45} {'Total':<8} {'With <quote>':<12} {'Without <quote>':<15} {'Negative %':<10}")
+    print("-" * 95)
     
     for filename in sorted(txt_files):
         samples, with_quotes, without_quotes = analyze_samples_in_file(filename)
@@ -92,15 +92,15 @@ def main():
         # Calculate percentage of negative examples
         negative_percent = (without_quotes / samples * 100) if samples > 0 else 0
         
-        print(f"{filename:<30} {samples:<8} {with_quotes:<12} {without_quotes:<15} {negative_percent:<10.1f}%")
+        print(f"{filename:<45} {samples:<8} {with_quotes:<12} {without_quotes:<15} {negative_percent:<10.1f}%")
     
-    print("=" * 80)
+    print("=" * 95)
     
     # Calculate overall percentages
     overall_negative_percent = (total_without_quotes / total_samples * 100) if total_samples > 0 else 0
     overall_positive_percent = (total_with_quotes / total_samples * 100) if total_samples > 0 else 0
     
-    print(f"{'TOTAL':<30} {total_samples:<8} {total_with_quotes:<12} {total_without_quotes:<15} {overall_negative_percent:<10.1f}%")
+    print(f"{'TOTAL':<45} {total_samples:<8} {total_with_quotes:<12} {total_without_quotes:<15} {overall_negative_percent:<10.1f}%")
     print()
     print("SUMMARY:")
     print(f"  Total samples: {total_samples}")
