@@ -108,7 +108,7 @@ def report_duplicates(first_words_dict):
         print(f"Total potential duplicate samples: {potential_duplicates}")
 
 def main():
-    filename = "todo_āryadeva_sūtaka.txt"
+    filename = "abhayākaragupta_munimatālaṅkāra.txt"
     
     print(f"Analyzing file: {filename}")
     print("Looking for potential duplicates based on first words...\n")

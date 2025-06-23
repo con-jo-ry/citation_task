@@ -2,7 +2,7 @@
 
 śrayanty etāṃ sarva iti śrīr lakṣmīḥ. <quote id="q1">kvib vacipracchyāyatastukaṭaprujuśrīṇāṃ dīrgho 'saṃprasāraṇaṃ ca</quote> iti kvip dīrghaś ca. sā śrīr nityam asminn astīti śrīmān.
 
-maṅgalādīni maṅgalamadhyāni maṅgalāntāni ca śāstrāṇi prathanta iti māṅgalike śabde prayojye granthādau śrīśabdaprayogaḥ, etadadhyetṝṇāṃ lakṣmīsaubhāgyādi bhūyād ity etadartham. tathā ca <author id="a1">vārttikakāreṇā</author>dau prayukto yaḥ siddhaśabdas tadvayākhyāsamaye <title id="t1">bhāṣya</title> uktam—<quote id="q2" titleid="t1">māṅgalika ācāryo mahataḥ śāstraughasya maṅgalārthaṃ siddhaśabdam āditaḥ prayuṅkte. maṅgalādīni hi śāstrāṇi prathante, vīrapuruṣakāṇi bhaventy āyuṣmatpuruṣakāṇi ca. adhyetāraś ca siddhārthā yathā syur</quote> iti. <author id="a1">sūtrakāreṇā</author>dau prayukto yo vṛddhiśabdas tadvayākhyāyām api māṅgalika ityādy uktvā vṛddhiḥ prayuktety uktam.
+maṅgalādīni maṅgalamadhyāni maṅgalāntāni ca śāstrāṇi prathanta iti māṅgalike śabde prayojye granthādau śrīśabdaprayogaḥ, etadadhyetṝṇāṃ lakṣmīsaubhāgyādi bhūyād ity etadartham. tathā ca <author id="a1">vārttikakāreṇā</author>dau prayukto yaḥ siddhaśabdas tadvayākhyāsamaye <title id="t1">bhāṣya</title> uktam—<quote id="q2" titleid="t1">māṅgalika ācāryo mahataḥ śāstraughasya maṅgalārthaṃ siddhaśabdam āditaḥ prayuṅkte. maṅgalādīni hi śāstrāṇi prathante, vīrapuruṣakāṇi bhaventy āyuṣmatpuruṣakāṇi ca. adhyetāraś ca siddhārthā yathā syur</quote> iti. <author id="a2">sūtrakāreṇā</author>dau prayukto yo vṛddhiśabdas tadvayākhyāyām api māṅgalika ityādy uktvā vṛddhiḥ prayuktety uktam.
 
 ---
 
@@ -46,10 +46,10 @@ prakriyākaumudīm. prakriyante prakṛtipratyayādivibhāgena vyutpādyante śa
 
 kurmaḥ. ḍukṛñ karaṇe. asmāt <quote id="q5">asmado dvayoś ca</quote> ity asmada ekatve bahuvacanavidhānād asmadarthakartṛvācina uttamapuruṣasya bahuvacanam. paropakārārthaṃ granthakaraṇe pravṛttatvāt tajjanitaśreyaso 'pi
 
-	<quote id="q6" author="t1">yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat |
+	<quote id="q6" authorid="t1">yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat |
 	yat tapasyasi kaunteya tat kuruṣva madarpaṇam ||</quote>
 
-īti <author id="t1">bhagavad</title>ukter īśvarārpitatvāt paragāmi kriyāphalam iti parasmaipadaṃ prayuktam ācāryavaryaiḥ.
+īti <author id="t1">bhagavad</author>ukter īśvarārpitatvāt paragāmi kriyāphalam iti parasmaipadaṃ prayuktam ācāryavaryaiḥ.
 
 ---
 

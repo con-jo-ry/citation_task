@@ -7,7 +7,7 @@ iha prekṣāpūrvakāriṇaḥ puruṣārthasaṃpadam abhivāñchantas tatsād
 
 adṛṣṭe tu svargāpavargamārge naisargikamohāndhatamasaviluptālokasya lokasya śāstram eva prakāśaḥ. tad eva sakalasadupāyadarśane divyaṃ cakṣur asmadādeḥ, na yoginām iva yogasamādhijajñānādyupāyāntaram apīti. tasmād asmadādibhiḥ śāstram evādhigantavyam.
 
-tac ca caturdaśavidham, yāni vidvāṃsaś caturdaśavidyāsthānāny ācakṣate. tatra vedāś catvāraḥ. prathamo <title id="t1">atharvavedaḥ</title>, dvitīya <title id="t2">ṛgvedaḥ</title>, tṛtīyo <title id="t3">yajurvedaḥ</title>, caturthaḥ <title id="t4">sāmavedaḥ</title>. ta ete catvāro vedās tāvat sākṣād eva puruṣārthasādhanopadeśasvabhāvāḥ, <quote id="q1" titleid="t1">agnihotraṃ juhuyāt svargakāmaḥ,</quote> <quote id="q2" titleid="t1">ātmā jñātavya</quote> ityādi<title id="t1" type="generic">śruteḥ</title>.
+tac ca caturdaśavidham, yāni vidvāṃsaś caturdaśavidyāsthānāny ācakṣate. tatra vedāś catvāraḥ. prathamo <title id="t1">atharvavedaḥ</title>, dvitīya <title id="t2">ṛgvedaḥ</title>, tṛtīyo <title id="t3">yajurvedaḥ</title>, caturthaḥ <title id="t4">sāmavedaḥ</title>. ta ete catvāro vedās tāvat sākṣād eva puruṣārthasādhanopadeśasvabhāvāḥ, <quote id="q1" titleid="t5">agnihotraṃ juhuyāt svargakāmaḥ,</quote> <quote id="q2" titleid="t5">ātmā jñātavya</quote> ityādi<title id="t5" type="generic">śruteḥ</title>.
 
 ---
 
@@ -77,7 +77,7 @@ nanu vedaprāmāṇyanirṇayaprayojanaś cen nyāyavistaraḥ, kṛtam anena, m
 
 ---
 
-nanv <author id="a1">akṣapādāt</author> pūrvaṃ kuto vedaprāmāṇyaniścaya āsit? atyalpam idam ucyate. <author id="a1">jaimineḥ</author> pūrvaṃ kena vedārtho vyākhyātaḥ? <author id="a2">pāṇineḥ</author> pūrvaṃ kena padāni vyutpāditāni? ādisargāt prabhṛti vedavad imā vidyāḥ pravṛttāḥ. saṃkṣepavistaravivakṣayā tu tāṃs tāṃs tatra tatra kartṝnācakṣate.
+nanv <author id="a1">akṣapādāt</author> pūrvaṃ kuto vedaprāmāṇyaniścaya āsit? atyalpam idam ucyate. <author id="a2">jaimineḥ</author> pūrvaṃ kena vedārtho vyākhyātaḥ? <author id="a3">pāṇineḥ</author> pūrvaṃ kena padāni vyutpāditāni? ādisargāt prabhṛti vedavad imā vidyāḥ pravṛttāḥ. saṃkṣepavistaravivakṣayā tu tāṃs tāṃs tatra tatra kartṝnācakṣate.
 
 nanu vedaprāmāṇyaṃ nirvicārasiddham eva sādhavo manyanta iti kim atra vicārayatnena? na, saṃśayaviparyāsanirāsārthatvāt. yasya hi vedaprāmāṇye saṃśayānā viparyastā vā matiḥ, taṃ prati śāstrārambhaḥ. na hi viditavedārthaṃ prati mīmāṃsā prastūyate. tad uktam- 
 

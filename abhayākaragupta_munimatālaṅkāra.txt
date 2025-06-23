@@ -101,9 +101,9 @@ tathā coktaṃ <author id="a1">bhagavatā</author>—
 
 	<quote id="q1" authorid="a1">bodhisattvena mahāmate māyāsvapnavatsarvadharmopadeśaḥ karaṇīyaḥ, dṛśyādṛśyalakṣaṇatvāt.</quote> 
 
-iti. tathā dṛśyalakṣaṇatvaṃ vyavahārato 'dṛśyalakṣaṇatvaṃ tu paramārthata eveti sūtrārthaḥ. etad evābhisandhāyoktam <author id="a1">āryanāgārjunapādaiḥ</author>—
+iti. tathā dṛśyalakṣaṇatvaṃ vyavahārato 'dṛśyalakṣaṇatvaṃ tu paramārthata eveti sūtrārthaḥ. etad evābhisandhāyoktam <author id="a2">āryanāgārjunapādaiḥ</author>—
 
-	<quote id="q1" authorid="a1">nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate | 
+	<quote id="q2" authorid="a2">nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate | 
 	parijñānaṃ bhavasyaiva nirvāṇam iti kathyate ||</quote> 
 
 iti. 
@@ -146,7 +146,7 @@ iti.
 
 ---
 
-<author id="a1">āryeṇāpy</author> uktaṃ <title id="t1" authorid="a1">madhyamakaśāstre</title>—
+<author id="a1">āryeṇāpy</author> uktaṃ <title id="t1">madhyamakaśāstre</title>—
 
 	<quote id="q1" authorid="a1" titleid="t1">yaḥ pratītyasamutpādaḥ śūnyatāṃ tāṃ pracakṣmahe | 
 	sā prajñaptir upādāya pratipat saiva madhyamā ||</quote> 
@@ -231,7 +231,11 @@ yad āha—
 
 	āha—tathā hi sāgaramate ebhir evaṃrūpaiḥ kleśair bodhisattvās traidhātuke śliṣyante. kleśasaṃbhūtaṃ ca traidhātukam. tatra bodhisattva upāyakauśalyena kuśalamūlabalādhānena ca saṃcintya traidhātuke śliṣyate. tenocyate kuśalamūlasaṃprayuktāḥ kleśā iti. yāvad eva traidhātuke śleṣatayā na punaś cittopakleśatayā.</quote>
 
-ityādi. <title id="t1">mahāyānottare</title> ca | 
+ityādi. 
+
+---
+
+<title id="t1">mahāyānottare</title> ca | 
 
 	<quote id="q2" titleid="t1">tāṃ cāvidyāvāsabhūmim avidyāvāsabhūmipratyayaṃ ca sūkṣmanimittaprapañcasamudācārasamutthāpitam anāsravaṃ karma pratītya manomayaskandhasamudāyaḥ. tatra kleśasaṃkleśavad avidyāvāsabhūmiḥ. karmasaṃkleśavad anāsravakarmābhisaṃskāraḥ. janmasaṃkleśavat trividhamanomayātmabhāvanirvṛttiḥ | tatpratyayā ca jātipratyayam iva jarāmaraṇam acintyapāriṇāmikī cyutiḥ</quote>
 
@@ -274,7 +278,7 @@ iti.
 
 idaṃ hi malānām āgantukatvāt prakṛtiprabhāsvaratayā cittasyāśeṣasya ca jagato buddhatvayogyatāsty evety abhisandhinaiva vyākhyātaṃ nyāyyam. tathā tathāgatagarbhāḥ sarvasattvā ity anena sarveṣām anuttarasambodhipadādhigamayogyataiva paridīpitā bhagavatā sūtreṣu. <author id="a1">āryamaitreyeṇa</author> ca <title id="t2">mahāyānottare</title>—
 
-	<quote id="q1" authorid="a1" titleid="t2">sarveṣām aviśiṣṭāpi tathatā śuddhim āgatā |
+	<quote id="q2" authorid="a1" titleid="t2">sarveṣām aviśiṣṭāpi tathatā śuddhim āgatā |
 	tathāgatatvaṃ tasmāc ca tadgarbhāḥ sarvadehinaḥ ||</quote> 
 
 ityādinā. tathāgataśabdenāpi pudgaladharmanairātmyalakṣaṇasya dharmadhātoḥ prakṛtiprabhāsvarasya vivakṣitatvāt.
@@ -288,7 +292,7 @@ tatsaṃkṣiptaprabhedas tūkta <title id="t1">āryalaṅkāvatārasūtre</titl
 
 iti tatra pañca dharmā nāma nimittaṃ vikalpas tathatā samyagjñānaṃ ca. tatra saṃvṛtisatyanirdeśān nāmanimittavikalpā uktāḥ. tathatāsamyagjñāne ukte mukhyopacārataḥ paramārthasatyanirdeśāt. 
 
-----
+---
 
 <title id="t1">satyadvayāvatārasūtre</title> ca
 
@@ -300,7 +304,7 @@ iti darśitam.
 
 yad āha— 
 
-	<quote id="q1">kathaṃ mañjuśrīḥ kleśā vinayaṃ gacchanti, kathaṃ parijñātā bhavanti?</quote>
+	<quote id="q1">kathaṃ mañjuśrīḥ kleśā vinayaṃ gacchanti, kathaṃ parijñātā bhavanti?
 
 	mañjuśrīr āha—paramārthato 'tyantājātānutpannābhāveṣu sarvadharmeṣu yaḥ saṃvṛtyāsadviparyāsaḥ. tasmāt saṃkalpavikalpaḥ. tasmād ayoniśomanasikāraḥ. tasmād ātmasamāropaḥ. tasmād dṛṣṭisamutthānam. tasmāt kleśāḥ pravartante. 
 
@@ -441,7 +445,7 @@ iti <title id="t1">sūtre</title> 'bhihitam, tatrāpi ye vastubhūtam evābhidh�
 
 yathā ca bahuṣu māyānareṣu naro nara iti sāmānyākārarūpaḥ kalpitaḥ śabdārtho vyavasthāpyate, tathā paramārthāsvabhāveṣv api bhāveṣu paramārtho 'py adhyāropitarūpeṇa kathyamānaḥ saṃvṛtir eva bhavet, tasya sarvaprapañcātikrāntatvāt. tathā coktaṃ <title id="t1">sūtre</title>—
 
-	<quote id="q1" title="t1">yadi devaputra paramārthataḥ paramārthasatyaṃ kāyavāṅmanasāṃ viṣayabhāvam āgacchet, na paramārthasatyam iti saṃkhyāṃ gacchet. saṃvṛtisatyam eva tad bhavet. api tu paramārthataḥ paramārthasatyaṃ sarvavyavahārātikrāntam.</quote>
+	<quote id="q1" titleid="t1">yadi devaputra paramārthataḥ paramārthasatyaṃ kāyavāṅmanasāṃ viṣayabhāvam āgacchet, na paramārthasatyam iti saṃkhyāṃ gacchet. saṃvṛtisatyam eva tad bhavet. api tu paramārthataḥ paramārthasatyaṃ sarvavyavahārātikrāntam.</quote>
 
 iti.
 
@@ -503,277 +507,3 @@ iti tasya savistaraṃ sūtrāntareṣu niḥsvabhāvatvadeśanāt pāramārthik
 	<quote id="q2">evaṃ vipaśyamānānāṃ grāhyagrāho nirudhyate ||</quote> 
 
 iti. tataḥ paścāt krameṇa cittamātrasvabhāvapratyavekṣaṇam. tasyāpi nirātmatām avagamya gambhīranayaṃ praviṣṭo bhavet.
-
----
-
-saṃvṛtyā tu vijñānavad bāhyo 'py artho 'vasthitaḥ, anyathā<title id="t1">ryadaśabhūmake</title> 'ṣṭamyāṃ bhūmau bodhisatvasya lokadhātugataparamāṇusaṃkhyādiparijñānaṃ yad uktaṃ tad virudhyete. yathoktam—
-
-	<quote id="q1" titleid="t1">sa paramāṇurajaḥsūkṣmatāṃ ca prajānāti, mahadgatatāṃ cāpramāṇatāṃ ca viviktatāṃ ca prajānāti. yasmiṃś ca lokadhātau yāvanti pṛthivīdhātoḥ paramāṇurajāṃsi, tāni prajānāti. evam abdhātos tejodhātor vāyudhātoḥ prajānāti.</quote>
-
-iti vistaraḥ.
-
----
-
-yac coktam—
-
-	<quote id="q1">nāsty arthaś cittam eva tu |</quote>
-
-tathā—
-
-	<quote id="q2">vāsanāluṭhitaṃ cittam arthābhāsaṃ pravartate |</quote>
-
-ityādi, tatrāpi nirākāreṇa cetasā kathaṃcid viṣayagrahaṇāyogāt, avaśyaṃ sākārataiva tasyāṅgīkartavyā. tataś ca cittākāravyatiriktārthākārāpratibhāsanāt tatpratiṣedhena kevalaṃ sākārataiva cittasya pratipāditā. na tu tattvato bāhyārthāsattvaṃ pratīyate.
-
----
-
-yad vātmāstitvādideśanāvat tathā vineyajanāpekṣayā bhagavatāṃ deśanā. tathā coktaṃ <title id="t1">laṅkāvatāre</title>—
-
-	<quote id="q1" titleid="t1">āture āture yadvad bhiṣag dravyaṃ prayacchati |
-	buddhā hi tadvat sattvānāṃ cittamātram vadanti vai ||</quote>
-
-iti. 
-
----
-
-na ca pareṣāṃ visamvādanakathā, vineyajanahitasukhasaṃprāpaṇenābandhyaphalatvād deśanāyāḥ. nāpi bhagavatāṃ mṛṣāvāditā, paraikāntahitasyaiva satyatvāt. yathoktam <author id="a1">āryanāgārjunapādaiḥ</author>—
-
-	<quote id="q1" authorid="a1">paraikāntahitaṃ satyam ahitatvān mṛṣetarat |</quote>
-
-iti. 
-
----
-
-anye tv āhuḥ—
-
-	<quote id="q1">cittamātram eva svataḥprasiddharūpatvāt saṃvṛtyā 'vasthitaṃ. na tu bāhyārthaḥ saṃvṛtyāpi sthitaḥ, cittākāravyatirekeṇa tasyāsiddheḥ. atas tatpradarśanāya bhagavatā cittamātratā bhāvānāṃ deśitā.</quote> 
-
-iti.
-
----
-
-tathā hi tāthāgatam eva pratyakṣaṃ kevalaṃ pramāṇam. na ca taiḥ kiñcid api bhāvikam vastūpalabdham. yathoktaṃ <title id="t1">bodhisattvapiṭake</title>—
-
-	<quote id="q1" titleid="t1">kiṃ punaḥ dharmāṇāṃ yathāvaddarśanaṃ? yad idam adarśanam.</quote> 
-
-iti. <title id="t2">āryadharmasaṃgītau</title> coktaṃ—
-
-	<quote id="q2" titleid="t2">adarśanaṃ sarvadharmāṇāṃ paramaṃ darśanam.</quote> 
-
-iti. 
-
----
-
-tathā coktaṃ <author id="a1">bhagavatā</author>—
-
-	<quote id="q1" authorid="a1">bodhisattvena mahāmate māyāsvapnavatsarvadharmopadeśaḥ karaṇīyaḥ, dṛśyādṛśyalakṣaṇatvāt.</quote> 
-
-iti. tathā dṛśyalakṣaṇatvaṃ vyavahārato 'dṛśyalakṣaṇatvaṃ tu paramārthata eveti sūtrārthaḥ. etad evābhisandhāyoktam <author id="a2">āryanāgārjunapādaiḥ</author>—
-
-	<quote id="q2" authorid="a2">nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate | 
-	parijñānaṃ bhavasyaiva nirvāṇam iti kathyate ||</quote> 
-
-iti. 
-
----
-
-yady api sarvadharmāṇāṃ paramārthato 'nutpādaikarasatvena pratyakṣam api paramārthaniḥsvabhāvam, tathāpi saṃvṛtisatyāśrayā sarvapratyakṣādivyavasthā na virudhyate. na hi vyavahārato yogijñānam anyad vā pṛthagjanajñānam āryapudgalādivyavasthānibandhanaṃ neṣyate. kiṃ tu yasya sarvadaiva saṃvṛtyāpi kāraṇaṃ nāsti, tan notpadyata eva śaśaviṣāṇādi. yasya tv asti, sa utpadyate māyāpratibimbādiḥ. tatra yathā mantrauṣadhādisāmagrīvaśād vicitrā hastyādimāyā pravartate, tathā sattvānāṃ kleśakarmavaśāj janmādimāyā, yoginām api svapuṇyajñānasaṃbhāravaśād yogijñānādimāyā pravartata eva. te ca māyākāravat tāṃ māyāṃ yathābhūtaparijñānān na tattvato 'bhiniviśante, parārthaṃ ca saṃnahyanti. yathoktaṃ <title id="t1">dharmasaṅgītau</title>—
-
-	<quote id="q1" titleid="t1">tribhavaṃ nirmitaprakhyaṃ jñātvā saṃbodhisūrayaḥ |
-	saṃnahyanti jagaddhetor jñātapūrve jage tatheti ||</quote>
-
-ye tu tāṃ janmādimāyāṃ bālaprekṣakajanavad yathādarśanaṃ satyato 'bhiniviṣṭāḥ, te viparītābhiniveśād bālā ucyante. 
-
----
-
-bhagavatām eva tu yat pratyakṣaṃ tasya sarvākāratattvagocaratvān mukhyatas tad evāvisaṃvāditayā sarvākāraṃ tattvaṃ praty abhrāntam. tena hi sarvadharmān alakṣaṇān prajānanti buddhā bhagavantaḥ. na cāpi sarvākārajñatājñānasya vastutvaprasaṅgaḥ, sarvadharmāntarbhāvatas tasyāpy alakṣaṇatvena tair abhisaṃbodhāt. tathoktam <title id="t1">āryalakṣaprajñāpāramitāyām</title>—
-
-	<quote id="q1" titleid="t1">pratyakṣalakṣaṇaṃ sarvākārajñatājñānam. tac ca tathāgatenālakṣaṇam ity abhisaṃbuddham.</quote>
-
-iti. 
-
----
-
-tatra vyāvahārikādhyakṣagocare 'rthe svapnādivad alīkāvabhāse 'pi bhāvato yat samāropitaṃ pāramārthikarūpatādi bālaiḥ, tad anumayā bādhyate. tadbādhane siddhaṃ sarvadharmāṇāṃ paramārthato niḥsvabhāvatvam. tadbādhasiddhyarthaṃ ca pramāṇam anumānaṃ bhagavataiva bhaṇitam <title id="t1">anavataptanāgarājaparipṛcchāyām</title>—
-
-	<quote id="q1" titleid="t1">yaḥ pratyayair jāyati sa hy ajāto na tasya utpādu svabhāvato 'sti |
-	yaḥ pratyayādhīna sa śūnya ukto yaḥ śūnyatāṃ jānati so 'pramattaḥ ||</quote> 
-
-iti. <title id="t2">sāgaramatinirdeśe</title> ca—
-
-	<quote id="q2" titleid="t2">ye pratītyasamutpannā na te kecit svabhāvataḥ | 
-	ye svabhāvān na vidyante na teṣāṃ saṃbhavaḥ kvacit ||</quote>
-
-iti. tathā—
-
-	<quote id="q3" titleid="t2">yathaiva darpaṇe rūpam ekatvānyatvavarjitam | 
-	dṛśyate na ca tatrāsti tathā bhāveṣu bhāvatā ||</quote> 
-
-iti.
-
----
-
-<author id="a1">āryeṇāpy</author> uktaṃ <title id="t1">madhyamakaśāstre</title>—
-
-	<quote id="q1" authorid="a1" titleid="t1">yaḥ pratītyasamutpādaḥ śūnyatāṃ tāṃ pracakṣmahe | 
-	sā prajñaptir upādāya pratipat saiva madhyamā ||</quote> 
-
-iti. <author id="a2">ācāryeṇāpy</author> uktam—
-
-	<quote id="q2" authorid="a2">bhāvā yena nirūpyante tadrūpaṃ nāsti tattvataḥ | 
-	yasmād ekam anekaṃ ca rūpaṃ teṣāṃ na vidyate ||</quote> 
-
-iti.
-
----
-
-yadi nāmeyam anumā vyavahārato 'dhyakṣata eva saṃbandhaṃ labdhvā labdhāspadā satī tad evādhyakṣaṃ kāṣṭhadvayanirgharṣasaṃjātavahnivad bādheta, bhāvato bādhatām. na hi naḥ kiñcid aniṣṭam. pravicayajñānadahano hi sarvam etad alīkadharmendhanaṃ dagdhvā praśāntavicayajvālaḥ kalpanopaśamalakṣaṇāṃ parāṃ nirvṛtim adhigacchati. tathā ca <title id="t1">rājaratnāvalī</title>—
-
-	<quote id="q1" titleid="t1">vijñānāgner jagaddharmāḥ sarva evendhanaṃ matāḥ | 
-	tān yathāvatpravicayajvālair dagdhvopaśāmyati ||</quote> 
-
-iti. atas tattvajñānodaye yadi nāmānumānalakṣaṇo vikalpo nivarteta nirāśrayaḥ, tathāpi nāniṣṭam. ata eva bhūtapratyavekṣāyāḥ saty api savikalpakatve nirvikalpajñānodayaphalatvena mahāphalatāṃ pradarśayati sma bhagavān <title id="t2">āryaratnakūṭe</title> kāṣṭhadvayasaṃgharṣaṇajātavahni dṛṣṭāntena.
-
----
-
-nāpi sarvadaivānupalambhaḥ, asamādhyavasthāyāṃ māyāvat tadupalabhyamānatvāt. ādhimokṣikas tu tadānīm anupalambho vyavasthāpyate. samāhitāvasthāyāṃ tv anupalambha eva dānādīnām. na ca tadānīṃ teṣāṃ pravṛttir āśritā, dānādyupekṣaṇasya vihitatvāt. kiṃ tu prayogapṛṣṭhāvasthāyāṃ teṣāṃ pravṛttiḥ. ata eva śūnyatādhimuktasyānupalambhasanniśritānāṃ dānādīnāṃ mahāphalatvaṃ pariśuddhiś cokt<title id="t1">āryaprajñāpāramitādiṣu</title>—
-
-	<quote id="q1" titleid="t1">yaḥ subhūte bodhisattvo 'pratiṣṭhito dānaṃ dadāti, tasya puṇyaskandhasya na sukaraṃ pramāṇam udgṛhītum.</quote>
-
-ityādinā. 
-
----
-
-dānam atra ṣaṭ pāramitāḥ, dānam pāramitāḥ ṣaḍ iti vacanāt. <title id="t1">ratnākarasūtre</title> coktam—
-
-	<quote id="q1" titleid="t1">bodhaye praśāntamate caratā bodhisattvenāsvabhāvāḥ sarvadharmā anugantavyāḥ. dānaṃ pratigrāhako dakṣiṇīyāḥ pariṇāmanā yad dānaphalaṃ pariṇāmayati yatra samyaksaṃbodhau pariṇāmayatīti, etat sarvam asvabhāvam anugantavyam. tasyaivaṃ śūnyatādhimuktasyāpramāṇāśayato dānapāramitā pariśudhyati. tac ca dānaṃ pāramitānāmālabhate. aparāmṛṣṭaṃ ca bhavati.</quote>
-
-iti vistaraḥ. ata eva prajñāpāramitāyattās tadanyapāramitādiguṇagaṇāḥ. sā hi tān andhān ivādāya saugatīṃ samantaprabhāṃ bhūmim ārohati.
-
----
-
-prajñāpāramitaiva bhagavatī mahāyānātmakaṃ yānam ekam eva. yā ca yānabhedavyavasthā sā bālānām avatāraṇāya nirdiṣṭā bhagavatā na tu nītārthā. yathoktaṃ <title id="t1">laṅkāvatāre</title>—
-
-	<quote id="q1" titleid="t1">yānavyavasthā naivāsti yānam ekaṃ vadāmy aham | 
-	parikarṣaṇārthaṃ bālānāṃ yānabhedaṃ vadāmy aham ||</quote> 
-
-iti. 
-
----
-
-parīttasaṃbhāratā cāpramāṇasaṃbhāratā ca vyavasthāpitā. na tu yānabhedaḥ, asaṃbhedatvād dharmadhātoḥ. avatāramukham etat sūcitam. yad uktam <author id="a1">āryeṇa</author>
-
-	<quote id="q1" authorid="a1">dharmadhātor asaṃbhedād yānabhedo 'sti na prabho |
-	yānatritayam ākhyātaṃ tvayā sattvāvatārataḥ ||</quote> 
-
-iti | 
-
----
-
-yathoktaṃ <title id="t1">śrīmālāsiṃhanādasūtre</title>—
-
-	<quote id="q1" titleid="t1">arhatām apy asti bhayaṃ. pratyekabuddhā api bhagavantam eva śaraṇaṃ gacchanti. akṣīṇā hi teṣām asti jātiḥ. bahavas teṣāṃ dharmāḥ prahātavyāḥ, yeṣv aprahīṇeṣu dūrībhavanti nirvāṇadhātoḥ.</quote>
-
-iti.
-
-	<quote id="q2" titleid="t1">tadvad apy arhataś cittam asandhānaṃ kuto matam |</quote> 
-
-iti vārttike. yat kṣayānutpādajñānaṃ paṭhitaṃ tad api neyārthaṃ tatraiva sūtre vyākhyātam—
-
-	<quote id="q3" titleid="t1">yāś cemā bhagavann arhatāṃ pratyekabuddhānāṃ ca vimuktipratyavekṣaṇajñānaniṣṭhās tā ābhiprāyikyo neyārthāḥ. dve ime cyutī—vicchinnacyutiḥ sattvānām, manomayaśarīrāṇāṃ bhagavann arhatāṃ pratyekabuddhānāṃ vaśitāprāptānāṃ ca bodhisattvānām acintyapāriṇāmikī cyutir bhavati yāvad bodhimaṇḍaparyavasānāt. vicchinnacyutim adhikṛtyārhatāṃ pratyekabuddhānāṃ ca jñānaṃ bhavati kṣīṇā me jātir iti.</quote> 
-
-ato 'rhatāṃ pratyekabuddhānāṃ ca sarvakleśeṣu prahīyamāṇeṣv avidyāvāsanā na prahīyate. tadaprahāṇāt sarveṣām eva kleśānāṃ vāsanā na prahīyate. te ca punarbhavāntaragrahaṇena bodhisattvacaryāṃ caranti. kathaṃ punarbhavaṃ gṛhṇanti? hetubalāt pratyayabalāc ca. tatra yā 'sāv aprahīṇakleśavāsanā sā pratyayaḥ. hetuḥ sāsravakuśalamūlahetukāni punarbhavagrāhakāṇy anāsravāṇi kuśalamūlāni. 
-
----
-
-yad āha—
-
-	<quote id="q1">katame te sāgaramate saṃsāraprabandhakāḥ kuśalamūlasamprayuktāḥ kleśāḥ? yad uta puṇyasaṃbhāraparyeṣṭyatṛptatā saṃcintyabhavotpattiparigrahaḥ buddhasamavadhānaprārthanā sattvaparipākāparikhedaḥ saddharmaparigrahecchā sattvakiṃkaraṇīyotsukatā dharmarāgānuśayānutsargaḥ pāramitāsaṃyojanānām aparityāgaḥ. ime te yair bodhisattvāḥ kliṣyante.
-
-	āha—yadā punar bhagavan kuśalamūlāni, tat kena kāraṇena kleśā ity ucyante.
-
-	āha—tathā hi sāgaramate ebhir evaṃrūpaiḥ kleśair bodhisattvās traidhātuke śliṣyante. kleśasaṃbhūtaṃ ca traidhātukam. tatra bodhisattva upāyakauśalyena kuśalamūlabalādhānena ca saṃcintya traidhātuke śliṣyate. tenocyate kuśalamūlasaṃprayuktāḥ kleśā iti. yāvad eva traidhātuke śleṣatayā na punaś cittopakleśatayā.</quote>
-
-ityādi.
-
----
-
-<title id="t1">mahāyānottare</title> ca | 
-
-	<quote id="q1" titleid="t1">tāṃ cāvidyāvāsabhūmim avidyāvāsabhūmipratyayaṃ ca sūkṣmanimittaprapañcasamudācārasamutthāpitam anāsravaṃ karma pratītya manomayaskandhasamudāyaḥ. tatra kleśasaṃkleśavad avidyāvāsabhūmiḥ. karmasaṃkleśavad anāsravakarmābhisaṃskāraḥ. janmasaṃkleśavat trividhamanomayātmabhāvanirvṛttiḥ | tatpratyayā ca jātipratyayam iva jarāmaraṇam acintyapāriṇāmikī cyutiḥ</quote>
-
-iti. 
-
----
-
-avidyāvāsabhūmipratyayam anāsravakarmahetukam eṣāṃ punarjanmāstīti <title id="t1">śrīmālāsiṃhanāde</title> paṭhitam— 
-
-	<quote id="q1" titleid="t1">tadyathāpi nāma bhagavann upādānapratyayāḥ sāsravakarmahetukās trayo bhavāḥ saṃbhavanti. evam eva bhagavann avidyāvāsabhūmipratyayā anāsravakarmahetukā arhatāṃ pratyekabuddhānāṃ vaśitāprāptānāṃ ca bodhisattvānāṃ manomayās trayaḥ kāyāḥ sambhavanti.</quote>
-
-iti vistaraḥ. 
-
----
-
-kīdṛśī tarhy ātmabhāvābhinirvṛttiḥ? manomayī manomayanirmitavad eva draṣṭavyā na nirmitā. punarbhava iti ca cyutyupapattivaśād upacāreṇocyate. vaśitālābhād dhi sati sattvārthe tatra tatra gatau yonau ca dṛśyate, asati na dṛśyate. sa eva cātmabhāvo 'nāsravakuśalamūlavipākābhisaṃskṛtatvāt saṃskṛtaḥ saṃsāra ity ucyate. sāsravakarmakleśānabhisaṃskṛtatvād asaṃskṛta ity api nirvāṇam ity ucyate. tathā coktam— 
-
-	<quote id="q1">tasmād bhagavann asti saṃskṛto 'pi, asaṃskṛto 'pi saṃsāraḥ. asti saṃskṛtam api, asaṃskṛtam api nirvāṇam.</quote> 
-
-iti. <title id="t1">bhagavatyāṃ</title> coktam—
-
-	<quote id="q2" titleid="t1">na hi maitreya karmakleśopaśāntasyotpattiṃ prajñapayāmi. api tv acintyāṃ nirmāṇapāriṇāmikīm arhato 'py upapattiṃ prajñapayāmīti.</quote> 
-
----
-
-<title id="t1">prajñāpāramitāyāṃ</title> coktaṃ— 
-
-	<quote id="q1" titleid="t1">saced anuttarāyai samyaksambodhaye cittam utpādayanti, nāhaṃ teṣāṃ kuśalamūlasyāntarāyaṃ karomi.</quote>
-
-iti.
-
----
-
-tathā <title id="t1">samādhirājasūtre</title>—
-
-	<quote id="q1" titleid="t1">buddha bhaviṣyati sarvajago 'pi
-	nāsti ha kaścid abhājanasattvaḥ |</quote>
-
-iti.
-
-idaṃ hi malānām āgantukatvāt prakṛtiprabhāsvaratayā cittasyāśeṣasya ca jagato buddhatvayogyatāsty evety abhisandhinaiva vyākhyātaṃ nyāyyam. tathā tathāgatagarbhāḥ sarvasattvā ity anena sarveṣām anuttarasambodhipadādhigamayogyataiva paridīpitā bhagavatā sūtreṣu. <author id="a1">āryamaitreyeṇa</author> ca <title id="t1">mahāyānottare</title>—
-
-	<quote id="q2" authorid="a1" titleid="t1">sarveṣām aviśiṣṭāpi tathatā śuddhim āgatā |
-	tathāgatatvaṃ tasmāc ca tadgarbhāḥ sarvadehinaḥ ||</quote> 
-
-ityādinā. tathāgataśabdenāpi pudgaladharmanairātmyalakṣaṇasya dharmadhātoḥ prakṛtiprabhāsvarasya vivakṣitatvāt.
-
----
-
-tatsaṃkṣiptaprabhedas tūkta <title id="t1">āryalaṅkāvatārasūtre</title>—
-
-	<quote id="q1" titleid="t1">pañca dharmāḥ svabhāvaś ca vijñānāny aṣṭa eva ca |
-	dve nairātmye bhavet kṛtsno mahāyānaparigrahaḥ ||</quote>
-
-iti tatra pañca dharmā nāma nimittaṃ vikalpas tathatā samyagjñānaṃ ca. tatra saṃvṛtisatyanirdeśān nāmanimittavikalpā uktāḥ. tathatāsamyagjñāne ukte mukhyopacārataḥ paramārthasatyanirdeśāt. 
-
-----
-
-<title id="t1">satyadvayāvatārasūtre</title> ca
-
-	<quote id="q1" titleid="t1">sarvadharmaniḥsvabhāvatābhāvanayaiva kleśaprahāṇam, nānyena mārgeṇa, bhāvābhiniveśamūlatvāt sarvakleśānām.</quote>
-
-iti darśitam.
-
----
-
-yad āha— 
-
-	<quote id="q1">kathaṃ mañjuśrīḥ kleśā vinayaṃ gacchanti, kathaṃ parijñātā bhavanti?
-
-	mañjuśrīr āha—paramārthato 'tyantājātānutpannābhāveṣu sarvadharmeṣu yaḥ saṃvṛtyāsadviparyāsaḥ. tasmāt saṃkalpavikalpaḥ. tasmād ayoniśomanasikāraḥ. tasmād ātmasamāropaḥ. tasmād dṛṣṭisamutthānam. tasmāt kleśāḥ pravartante. 
-
-	yaḥ punar devaputra paramārthato 'tyantājātānutpannān sarvadharmān prajānāty aprajānanāyogena sa paramārthato 'viparyastaḥ. so 'vikalpo nirvikalpaḥ. sa yoniśaḥ prayuktaḥ. tasya paramārthato 'satsamāropo na bhavati. tasya dṛṣṭiparyutthānaṃ na bhavati. tasyaivam anutpādavihāriṇaḥ kleśā atyantavinītā draṣṭavyā adarśanayogena. 
-
-	yadā kleśān nirābhāsena prajñājñānena paramārthato 'tyantaśūnyān atyantānimittān paramārthatātyantājātān anutpannān abhāvān prajānāty aprajānanāyogena tadā devaputra kleśāḥ parijñātā bhavanty aprajānanāyogena. tadyathā ya āśīviṣasya gotram paṭhati sa tasya viṣaṃ śamayati. evam eva yaḥ kleśānāṃ gotraṃ jānāti tasya kleśāḥ praśāmyanty atyantānupalambhayogena.
-
-	yā devaputra paramārthato 'tyantānutpannābhāveṣu sarvadharmeṣu saṃkalpanā idaṃ kleśānāṃ gotram.
-
-iti.
