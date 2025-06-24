@@ -161,7 +161,7 @@ na, sādhyasya yuganaddhasamādhirūpatvāt sarvaskandhadhātvāyatanānām eva 
 	sukhaṃ śyāmaṃ sukha nīlaṃ sukhaṃ kṛtsnaṃ carācaram ||
 
 	sukhaṃ prajñā sukhopāyaḥ sukhaṃ kundurujaṃ smṛtam |
-	sukhaṃ bhā√aḥ sukho 'bhāvo vajrasattvaḥ sukha smṛtaḥ ||</quote> 
+	sukhaṃ bhāvaḥ sukho 'bhāvo vajrasattvaḥ sukha smṛtaḥ ||</quote> 
 
 iti.
 
@@ -215,7 +215,7 @@ ityādi guruprabhāvam adhikṛtya jaḍavīpādaprabhṛtibhir bhaṇitam tad a
 
 uktaṃ hi tatra—
 
-	<quote id="q1">utapttikramayogena prapañcaṃ bhāvayed vratī |
+	<quote id="q1">utpattikramayogena prapañcaṃ bhāvayed vratī |
 	prapañcaṃ svapnavat kṛtvā prapañcair niṣprapañcayet ||
 
 	yathā māyā yathā svapnaṃ yathā syād antarābhavam |
@@ -242,7 +242,7 @@ iti. yat tu—
 	<quote id="q2" authorid="a1">kāiṃ tathāgata labbhae deviakoigaṇei |
 	maṇḍalacakkavimukkā acchaü sahajakhaṇei ||</quote> 
 
-ity uktaṃ <author id="a1">kṛṣṇadevapādena</author> tad ātmasatkāreṇa punarābhogāvhāvāt.
+ity uktaṃ <author id="a1">kṛṣṇadevapādena</author> tad ātmasatkāreṇa punarābhogābhāvāt.
 
 ---
 

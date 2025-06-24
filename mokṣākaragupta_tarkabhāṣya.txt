@@ -38,9 +38,9 @@ iti.
 
 ---
 
-etena yad uktaṃ pareṇaḥ—
+etena yad uktaṃ <author id="a1">pareṇa</author>—
 
-	<quote id="q1">na so 'sti pratyayo loke yaḥ śabdānugamād ṛte |
+	<quote id="q1" authorid="a1">na so 'sti pratyayo loke yaḥ śabdānugamād ṛte |
 	anuviddham iva jñānaṃ sarvaṃ śabdena bhāsate ||</quote> 
 
 iti. tan nirastam. tathā hi ghaṭe purovartini uccāryamāṇe tatsamīpavartibhūtalādijñānam uccāraṇarahitam anubhūyata eva. na ca tathā tatra śabdānugato 'sti. na ca vikalpadvayaṃ sakṛd iti nyāyāt.
@@ -349,12 +349,12 @@ iti.
 
 mādhyamikānāṃ tu darśane tad api vijñānaṃ na paramārthasat, vicārāsahatvāt. svabhāvena hi yuktaṃ pāramārthikam ucyate loke. na cāsya vicārataḥ kaścit svabhāvo ghaṭate, eko vāneko vā pūrvavicārāsahatvāt, yathoktam—
 
-	<quote id="q1">neṣṭaṃ tadapi dhīrāṇā vijñānaṃ pāramārthikam |
+	<quote id="q1">neṣṭaṃ tad api dhīrāṇāṃ vijñānaṃ pāramārthikam |
 	ekānekasvabhāvena viyogād gaganābjavat ||</quote> 
 
 iti. <author id="a1">kīrtipādair</author> apy uktam-
 
-	<quote id="q2" authorid="a1">bhāvā yena nirupyante tadrūpaṃ nāsti tattvataḥ |
+	<quote id="q2" authorid="a1">bhāvā yena nirūpyante tadrūpaṃ nāsti tattvataḥ |
 	yasmād ekamanekaṃ vā rūpaṃ teṣu na vidyate ||</quote>
 
 iti. 

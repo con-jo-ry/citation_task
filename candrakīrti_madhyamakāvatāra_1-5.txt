@@ -63,7 +63,7 @@ yadā tv ayaṃ pramuditākhyādyabhūmipraviṣṭo bhavati | ataḥ prabhṛty
 	<quote id="q1" titleid="t1">skandhagrāho yāvad asmāt tāvad evāham ityapi |
 	ahaṅkāre sati punaḥ karma janma tataḥ punaḥ ||
 
-	trivartyaitad anādyantamadhyaṃ saṃsāramaṇḍalam |
+	trivartmaitad anādyantamadhyaṃ saṃsāramaṇḍalam |
 	alātamaṇḍalaprakhyaṃ bhramaty anyonyahetukam ||
 
 	svaparobhayatas tasya traikālye cāpy alabdhitaḥ |

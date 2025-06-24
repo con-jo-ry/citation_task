@@ -33,7 +33,7 @@ so 'tyantam asty asyāḥ. ata eva praśnavisarjane samartheti pṛcchati—asti
 
 ---
 
-	<quote id="q1">duṣkarair niyamais tīvrair mūtriḥ śuṣyati duḥkhitā |
+	<quote id="q1">duṣkarair niyamais tīvrair mūrtiḥ śuṣyati duḥkhitā |
 	duḥkhād vikṣipyate cittaṃ vikṣepāt siddhir anyathā ||</quote>
 
 ity āha—pañcakāmasevyamāna iti.
@@ -312,11 +312,9 @@ iti nyāyāt pradhānatvād upabhoktr iti nopakaraṇopabhogyaṃ prajñārūpa�
 
 iti |
 
----
+tac ca cittaṃ sāṃvṛtam | tad uktaṃ tatraiva—
 
-tac ca cittaṃ sāṃvṛtam | tad uktaṃ tatraiva —
-
-   <quote id="q1">cittamātram idaṃ sarvam iti yā deśanā muneḥ |
+   <quote id="q2" authorid="a1" titleid="t1">cittamātram idaṃ sarvam iti yā deśanā muneḥ |
    uttrāsaparihārārthaṃ bālānāṃ sā na tattvataḥ ||</quote>
 
 iti |
