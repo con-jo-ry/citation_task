@@ -114,12 +114,12 @@ iti | atra nimittānutpādo 'bhiniveśābhāvo vivakṣitaḥ | tena sadasadādy
 
 sākāravādinas tu nirākāraṃ jñānaṃ svapne 'pi nānubhūyata iti vadanti | tad āhuḥ—
 
-	<quote id="q1">nākāracakram avadhūya dhiyo 'sti vṛttas
+	<quote id="q1">nākāracakram avadhūya dhiyo 'sti vṛttis
 	tadbādhane balini madhyanaye jayaśrīḥ |
 	no ced anindyam idam advayam eva citraṃ
 	ceto nirākṛtimatasya tu ko 'vakāśaḥ ||</quote>
 
-iti | na caivaṃ mantavyam—ākāraprakāśabhāvād ākāraḥ prāṅ nāstīti | tanniścayābhāve 'py aśakyāpahnavasyānubhūyamānasya pṛṣṭollekhaniścīyamānasya ca nīlādivedanasya bhāvāt | yad āhuḥ—
+iti | na caivaṃ mantavyam—ākāraprakāśābhāvād ākāraḥ prāṅ nāstīti | tanniścayābhāve 'py aśakyāpahnavasyānubhūyamānasya pṛṣṭollekhaniścīyamānasya ca nīlādivedanasya bhāvāt | yad āhuḥ—
  
 	<quote id="q2">yad yathā bhāsate jñānaṃ tat tathaivānubhūyate |
 	iti nāmaikabhāvaḥ syāc citrākārasya cetasi ||</quote>
@@ -132,7 +132,7 @@ atrāpi ca granthavistarabhayāt sādhakabādhakapramāṇacintā na kṛtā | e
 
 	<quote id="q1">nāsat prakāśavapuṣā na ca sat tadanyair
 	ekena na dvitayam advitayaṃ na tābhyām |
-	itathaṃ jagad yadi catuḥśikharīvimuktaṃ 
+	ittathaṃ jagad yadi catuḥśikharīvimuktaṃ 
 	ko bhāṣyakāramatamadhyamayor viśeṣaḥ ||</quote>
 
 iti | vyāvṛttikṛtabhedena sambhogābhinno 'pi vimardo dharmaḥ | vipākaḥ sambhogaḥ | vicitraṃ nirmāṇam | vilakṣaṇaḥ svābhāvikaḥ kāyaḥ | lakṣaṇabhūtaṃ prajñājñānaṃ tathaivābhyasyamānaṃ punaḥśabdavācyaṃ sac caturthaṃ saptāṅgayuktaṃ sādhyaṃ syāt | tatra saptāṅgāni—sambhogaṃ vitteḥ | sampuṭaṃ samāpatteḥ | mahāsukhaṃ sātarūpatayā | niḥsvabhāvaṃ kalpitavirahāt | kāruṇyanirbharaṃ pūrvapraṇidhānāvedhavaśena sambhogādinā sattvārthakaraṇāt | nirantaraṃ madhye 'ntarābhāvāt | nirnirodhaṃ pravāhānucchedāt | tad uktam | 
