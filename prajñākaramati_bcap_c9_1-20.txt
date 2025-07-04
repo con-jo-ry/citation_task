@@ -47,7 +47,7 @@ iti.
 
 athavā, imam iti samanantaraprakrāntarūpaṃ śamathātmakaṃ prabandham. parikaram iti prajñāsamutthāpakatayā tatkāraṇasaṃdohaṃ pīṭhikābandhaṃ ca. prajñārtham iti prajñaiva pūrvoktā arthaḥ prayojanaṃ sādhyatayā yasya tam, śamathapariśodhitacittasaṃtāne prajñāyāḥ prādurbhāvāt supraśodhitakṣetre sasyaniṣpattivat. yathoktaṃ <title id="t1">śikśāsamuccaye</title>—
 
-	<quote id="q1" title="t1">kiṃ punar asya śamathasya māhātmyam? yathābhūtajñānajananaśaktiḥ. yasmāt—samāhito yathābhūtaṃ jānātīty uktavān muniḥ |</quote>
+	<quote id="q1" titleid="t1">kiṃ punar asya śamathasya māhātmyam? yathābhūtajñānajananaśaktiḥ. yasmāt—samāhito yathābhūtaṃ jānātīty uktavān muniḥ |</quote>
 
 iti. 
 
